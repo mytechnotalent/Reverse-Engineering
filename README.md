@@ -1,4 +1,4 @@
-# Reverse-Engineering-Tutorial
+# Reverse Engineering Tutorial
 A comprehensive reverse engineering tutorial covering x86, x64 and ARM architectures.
 
 ## Lesson 1: Assembly Language - Basic Malware Reverse Engineering (Part 1: Goals)
