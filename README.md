@@ -21,7 +21,7 @@ This tutorial will address x86 Assembly Languages and their usage to produce obj
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-3/) to read the article on LinkedIn.
 
-## Lesson 5: Assembly Language - Basic Malware Reverse Engineering (Part 4: x86 Assembly Intro)
+## Lesson 5: Assembly Language - Basic Malware Reverse Engineering (Part 5: Binary Number System)
 This tutorial will address the very basics of the binary number system.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-4/) to read the article on LinkedIn.
