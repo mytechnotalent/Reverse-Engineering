@@ -26,5 +26,10 @@ This tutorial will address the very basics of the binary number system.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-4/) to read the article on LinkedIn.
 
+## Lesson 6: Assembly Language - Basic Malware Reverse Engineering (Part 6: Hexadecimal Number System)
+This tutorial will address the very basics of the hexidecimal number system.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-5/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
