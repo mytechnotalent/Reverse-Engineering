@@ -37,7 +37,7 @@ This tutorial will address the basics of transistors and memory.
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6/) to read the article on LinkedIn.
 
 ## Lesson 8: Assembly Language - Basic Malware Reverse Engineering (Part 8 - Bytes, Words, Double Words, etc...)
-This tutorial will address the basics of memory and examine our first gdb debugger instance.
+This tutorial will address the basics of memory and examine our first GDB debugger instance and examine our first real look into our computers memory and instructions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-7/) to read the article on LinkedIn.
 
