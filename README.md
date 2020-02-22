@@ -41,5 +41,10 @@ This tutorial will address the basics of memory and examine our first GDB debugg
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-7/) to read the article on LinkedIn.
 
+## Lesson 9: Assembly Language - Basic Malware Reverse Engineering (Part 8 - Bytes, Words, Double Words, etc...)
+This tutorial will address the basic architecture of an x86 processor.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-8/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
