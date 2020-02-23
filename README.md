@@ -46,5 +46,10 @@ This tutorial will address the basic architecture of an x86 processor.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-8/) to read the article on LinkedIn.
 
+## Lesson 10: Assembly Language - Basic Malware Reverse Engineering (Part 10: General-purpose Registers)
+This tutorial will address the general purpose x86 registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-9/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
