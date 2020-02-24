@@ -51,5 +51,10 @@ This tutorial will address the general purpose x86 registers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-9/) to read the article on LinkedIn.
 
+## Lesson 11: Assembly Language - Basic Malware Reverse Engineering (Part 11: Segment Registers)
+This tutorial will address the x86 segment registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-10/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
