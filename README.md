@@ -71,5 +71,10 @@ This tutorial will address the status, control and systems flags.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-13/) to read the article on LinkedIn.
 
+## Lesson 15: Assembly Language - Basic Malware Reverse Engineering (Part 15: Stack)
+This tutorial will address the stack.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-14/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
