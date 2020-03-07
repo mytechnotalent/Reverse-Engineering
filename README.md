@@ -86,5 +86,10 @@ This tutorial will address how to install Ubuntu Linux on both Windows and MAC.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-16/) to read the article on LinkedIn.
 
+## Lesson 18: Assembly Language - Basic Malware Reverse Engineering (Part 18 - vim Text Editor)
+This tutorial will address how to install the vim text editor.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-17/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
