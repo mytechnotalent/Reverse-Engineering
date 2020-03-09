@@ -91,5 +91,10 @@ This tutorial will address how to install the vim text editor.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-17/) to read the article on LinkedIn.
 
+## Lesson 19: Assembly Language - Basic Malware Reverse Engineering (Part 19 - Why Learn Assembly)
+This tutorial will address the age old question of why to bother understanding the basics of Assembly Language.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-18/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
