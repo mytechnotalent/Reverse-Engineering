@@ -96,5 +96,10 @@ This tutorial will address the age old question of why to bother understanding t
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-18/) to read the article on LinkedIn.
 
+## Lesson 20: Assembly Language - Basic Malware Reverse Engineering (Part 20 - Instruction Code Handling)
+This tutorial will address op codes and instruction code handling.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-19/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
