@@ -101,5 +101,10 @@ This tutorial will address op codes and instruction code handling.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-19/) to read the article on LinkedIn.
 
+## Lesson 21: Assembly Language - Basic Malware Reverse Engineering (Part 22 - How To Compile A Program)
+This tutorial will address how to compile a basic x86 Assembly Program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6174148486322233344/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
