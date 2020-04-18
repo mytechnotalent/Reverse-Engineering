@@ -106,5 +106,10 @@ This tutorial will address how to compile a basic x86 Assembly Program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6174148486322233344/) to read the article on LinkedIn.
 
+## Lesson 22: Assembly Language - Basic Malware Reverse Engineering (Part 22 - ASM Program 1 [Moving Immediate Data])
+This tutorial will address how to create our first real Assembly Program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6176700362704056320/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
