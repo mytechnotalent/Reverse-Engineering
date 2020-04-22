@@ -119,7 +119,10 @@ This tutorial will address how to debug our first real Assembly Program by movin
 ## Lesson 24: Assembly Language - Basic Malware Reverse Engineering (Part 24 - ASM Hacking 1 [Moving Immediate Data])
 This tutorial will address how to hack our first real Assembly Program by moving immediate data.
 
--> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6181749648739282944/) to read the article on LinkedIn.
+## Lesson 25: Assembly Language - Basic Malware Reverse Engineering (Part 25 - ASM Program 2 [Moving Data Between Registers])
+This tutorial will address how to hack our first real Assembly Program by moving between registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6184290421015871488/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
