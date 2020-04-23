@@ -126,7 +126,7 @@ This tutorial will address how to create our second real Assembly Program by mov
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6184290421015871488/) to read the article on LinkedIn.
 
-## Lesson 26: Assembly Language - Basic Malware Reverse Engineering (Part 26 - ASM Debugging 2 [Moving Data Between Registers]))
+## Lesson 26: Assembly Language - Basic Malware Reverse Engineering (Part 26 - ASM Debugging 2 [Moving Data Between Registers])
 This tutorial will address how to debug our first real Assembly Program by moving between registers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6186852494581198848/) to read the article on LinkedIn.
