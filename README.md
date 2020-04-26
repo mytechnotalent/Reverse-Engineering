@@ -131,5 +131,10 @@ This tutorial will address how to debug our second real Assembly Program by movi
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6186852494581198848/) to read the article on LinkedIn.
 
+## Lesson 27: Assembly Language - Basic Malware Reverse Engineering (Part 27 - ASM Hacking 2 [Moving Data Between Registers])
+This tutorial will address how to hack our second real Assembly Program by moving between registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6189381915728973824/?published=t) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
