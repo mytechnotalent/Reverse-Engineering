@@ -137,20 +137,24 @@ This tutorial will address how to hack our second real Assembly Program by movin
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6189381915728973824/) to read the article on LinkedIn.
 
 ## Lesson 28: Assembly Language - Basic Malware Reverse Engineering (Part 28 - ASM Program 3 [Moving Data Between Memory And Registers])
-This tutorial will address how to create our third real Assembly Program by moving between registers.
+This tutorial will address how to create our third real Assembly Program by moving between memory and registers
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6191923581476184064/) to read the article on LinkedIn.
 
 ## Lesson 29: Assembly Language - Basic Malware Reverse Engineering (Part 29 - ASM Debugging 3 [Moving Data Between Memory And Registers])
-This tutorial will address how to debug our third real Assembly Program by moving between registers.
+This tutorial will address how to debug our third real Assembly Program by moving between memory and registers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6194452403807363072/) to read the article on LinkedIn.
 
 ## Lesson 30: Assembly Language - Basic Malware Reverse Engineering (Part 30 - ASM Hacking 3 [Moving Data Between Memory And Registers])
-This tutorial will address how to hack our third real Assembly Program by moving between registers.
+This tutorial will address how to hack our third real Assembly Program by moving between memory and registers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6196977244754186240/) to read the article on LinkedIn.
 
+## Lesson 31: Assembly Language - Basic Malware Reverse Engineering (Part 31 - ASM Program 4 [Moving Data Between Registers And Memory])
+This tutorial will address how to create our fourth real Assembly Program by moving between registers and memory.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6199521459321217024/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
