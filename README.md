@@ -156,5 +156,10 @@ This tutorial will address how to create our fourth real Assembly Program by mov
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6199521459321217024/) to read the article on LinkedIn.
 
+## Lesson 32: Assembly Language - Basic Malware Reverse Engineering (Part 32 - ASM Debugging 4 [Moving Data Between Registers And Memory])
+This tutorial will address how to debug our fourth real Assembly Program by moving between registers and memory.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6202084078657769472/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
