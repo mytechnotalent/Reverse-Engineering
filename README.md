@@ -162,9 +162,14 @@ This tutorial will address how to debug our fourth real Assembly Program by movi
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6202084078657769472/) to read the article on LinkedIn.
 
 ## Lesson 33: Assembly Language - Basic Malware Reverse Engineering (Part 33 - ASM Hacking 4 [Moving Data Between Registers And Memory])
-This tutorial will address how to debug our hack real Assembly Program by moving between registers and memory.
+This tutorial will address how to hack our fourth real Assembly Program by moving between registers and memory.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6204613196200845313/) to read the article on LinkedIn.
+
+## Lesson 34: Assembly Language - Basic Malware Reverse Engineering (Part 34 - ASM Program 5 [Indirect Addressing With Registers])
+This tutorial will address how to create our fifth real Assembly Program by indirect addressing with registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6207141090722619392/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
