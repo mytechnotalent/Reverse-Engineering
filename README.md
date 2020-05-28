@@ -176,6 +176,10 @@ This tutorial will address how to debug our fifth real Assembly Program by indir
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6209671278844997632/) to read the article on LinkedIn.
 
+## Lesson 36: Assembly Language - Basic Malware Reverse Engineering (Part 36 - ASM Hacking 5 [Indirect Addressing With Registers])
+This tutorial will address how to hack our fifth real Assembly Program by indirect addressing with registers.
+
+-> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6212225805402009600/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
