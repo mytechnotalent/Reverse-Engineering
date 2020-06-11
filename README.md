@@ -201,5 +201,10 @@ This tutorial will conclude this x86 tutorial.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6222371031936434176/) to read the article on LinkedIn.
 
+## Lesson 41: ARM Assembly (Part 1 – The Meaning Of Life)
+This tutorial will introduce our ARM Assembly tutorial series.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-1-meaning-life-kevin-m-thomas/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
