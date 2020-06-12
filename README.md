@@ -206,5 +206,10 @@ This tutorial will introduce our ARM Assembly tutorial series.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-1-meaning-life-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 42: ARM Assembly (Part 2 - Number Systems)
+This tutorial will discuss number systems such as binary, decimal and hexidecimal in detail.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-2-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
