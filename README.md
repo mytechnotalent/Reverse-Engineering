@@ -216,5 +216,10 @@ This tutorial will discuss binary addition.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-3-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 44: ARM Assembly (Part 4 - Binary Subtraction)
+This tutorial will discuss binary subtraction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-4-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
