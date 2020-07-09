@@ -236,5 +236,10 @@ This tutorial will discuss the program counter.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-7-program-counter-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 48: ARM Assembly (Part 8 - CPSR)
+This tutorial will discuss the CPSR.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-8-cpsr-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
