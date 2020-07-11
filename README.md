@@ -241,5 +241,10 @@ This tutorial will discuss the CPSR.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-8-cpsr-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 49: ARM Assembly (Part 9 - Link Register)
+This tutorial will discuss the Link Register.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-9-link-register-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
