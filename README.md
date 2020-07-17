@@ -251,5 +251,10 @@ This tutorial will discuss the Stack Pointer.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-10-stack-pointer-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 51: ARM Assembly (Part 11 - ARM Firmware Boot Procedures)
+This tutorial will discuss ARM Firmware Boot Procedures.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-11-firmware-boot-procedures-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
