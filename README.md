@@ -256,5 +256,10 @@ This tutorial will discuss ARM Firmware Boot Procedures.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-11-firmware-boot-procedures-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 52: ARM Assembly (Part 12 - Von Neumann Architecture)
+This tutorial will discuss Von Neumann Architecture.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-12-von-neumann-architecture-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
