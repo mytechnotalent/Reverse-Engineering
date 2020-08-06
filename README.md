@@ -271,6 +271,11 @@ This tutorial will discuss the add instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-14-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 55: ARM Assembly (Part 15 - Debugging Add)
+This tutorial will discuss debugging the add instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-15-debugging-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
