@@ -266,5 +266,11 @@ This tutorial will discuss the instruction pipeline.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-13-instruction-pipeline-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 54: ARM Assembly (Part 14 - Add)
+This tutorial will discuss the add instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-14-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
