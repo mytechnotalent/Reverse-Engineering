@@ -266,25 +266,30 @@ This tutorial will discuss the instruction pipeline.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-13-instruction-pipeline-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
-## Lesson 54: ARM Assembly (Part 14 - Add)
+## Lesson 54: ARM Assembly (Part 14 - ADD)
 This tutorial will discuss the add instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-14-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
-## Lesson 55: ARM Assembly (Part 15 - Debugging Add)
+## Lesson 55: ARM Assembly (Part 15 - Debugging ADD)
 This tutorial will discuss debugging the add instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-15-debugging-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
-## Lesson 56: ARM Assembly (Part 16 - Hacking Add)
+## Lesson 56: ARM Assembly (Part 16 - Hacking ADD)
 This tutorial will discuss hacking the add instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-16-hacking-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
-## Lesson 57: ARM Assembly (Part 17 - Adds)
+## Lesson 57: ARM Assembly (Part 17 - ADDS)
 This tutorial will discuss the adds instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-17-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
+## Lesson 58: ARM Assembly (Part 18 – Debugging ADDS)
+This tutorial will discuss debugging the adds instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-18-debugging-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0/)
