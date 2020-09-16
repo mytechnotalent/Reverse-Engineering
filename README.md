@@ -291,5 +291,10 @@ This tutorial will discuss debugging the adds instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-18-debugging-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 59: ARM Assembly (Part 19 – Hacking ADDS)
+This tutorial will discuss hacking the adds instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-19-hacking-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
