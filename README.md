@@ -296,5 +296,10 @@ This tutorial will discuss hacking the adds instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-19-hacking-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
 
+## Lesson 60: ARM Assembly (Part 20 – ADC)
+This tutorial will discuss the ADC instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-20-adc-kevin-m-thomas) to read the article on LinkedIn.) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
