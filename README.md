@@ -216,97 +216,95 @@ This tutorial will discuss number systems such as binary, decimal and hexidecima
 ## Lesson 43: ARM Assembly (Part 3 - Binary Addition)
 This tutorial will discuss binary addition.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-3-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-3-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 44: ARM Assembly (Part 4 - Binary Subtraction)
 This tutorial will discuss binary subtraction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-4-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-4-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 45: ARM Assembly (Part 5 - Word Lengths)
 This tutorial will discuss word lengths.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-5-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
-
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-5-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
 ## Lesson 46: ARM Assembly (Part 6 - Registers)
 This tutorial will discuss registers.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-6-registers-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
-
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-6-registers-kevin-m-thomas/) to read the article on LinkedIn.
 ## Lesson 47: ARM Assembly (Part 7 - Program Counter)
 This tutorial will discuss the program counter.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-7-program-counter-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-7-program-counter-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 48: ARM Assembly (Part 8 - CPSR)
 This tutorial will discuss the CPSR.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-8-cpsr-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-8-cpsr-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 49: ARM Assembly (Part 9 - Link Register)
 This tutorial will discuss the Link Register.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-9-link-register-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-9-link-register-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 50: ARM Assembly (Part 10 - Stack Pointer)
 This tutorial will discuss the Stack Pointer.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-10-stack-pointer-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-10-stack-pointer-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 51: ARM Assembly (Part 11 - ARM Firmware Boot Procedures)
 This tutorial will discuss ARM Firmware Boot Procedures.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-11-firmware-boot-procedures-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-11-firmware-boot-procedures-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 52: ARM Assembly (Part 12 - Von Neumann Architecture)
 This tutorial will discuss Von Neumann Architecture.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-12-von-neumann-architecture-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-12-von-neumann-architecture-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 53: ARM Assembly (Part 13 - Instruction Pipeline)
 This tutorial will discuss the instruction pipeline.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-13-instruction-pipeline-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-13-instruction-pipeline-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 54: ARM Assembly (Part 14 - ADD)
 This tutorial will discuss the add instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-14-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-14-add-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 55: ARM Assembly (Part 15 - Debugging ADD)
 This tutorial will discuss debugging the add instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-15-debugging-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-15-debugging-add-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 56: ARM Assembly (Part 16 - Hacking ADD)
 This tutorial will discuss hacking the add instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-16-hacking-add-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-16-hacking-add-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 57: ARM Assembly (Part 17 - ADDS)
 This tutorial will discuss the adds instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-17-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-17-adds-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 58: ARM Assembly (Part 18 – Debugging ADDS)
 This tutorial will discuss debugging the adds instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-18-debugging-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-18-debugging-adds-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 59: ARM Assembly (Part 19 – Hacking ADDS)
 This tutorial will discuss hacking the adds instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-19-hacking-adds-kevin-m-thomas/) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-19-hacking-adds-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 60: ARM Assembly (Part 20 – ADC)
 This tutorial will discuss the ADC instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-20-adc-kevin-m-thomas) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-20-adc-kevin-m-thomas) to read the article on LinkedIn.
 
 ## Lesson 61: ARM Assembly (Part 21 – Debugging ADC)
 This tutorial will discuss debugging the ADC instruction.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-21-adc-debugging-kevin-m-thomas) to read the article on LinkedIn.) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-21-adc-debugging-kevin-m-thomas) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
