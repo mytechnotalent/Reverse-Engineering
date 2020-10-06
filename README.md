@@ -306,5 +306,10 @@ This tutorial will discuss debugging the ADC instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-21-adc-debugging-kevin-m-thomas) to read the article on LinkedIn.
 
+## Lesson 62: ARM Assembly (Part 22 – Hacking ADC)
+This tutorial will discuss hacking the ADC instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-22-adc-hacking-kevin-m-thomas/) to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
