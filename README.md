@@ -316,7 +316,7 @@ This tutorial will discuss the SUB instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-23-sub-kevin-m-thomas) to read the article on LinkedIn. 
 
-## Lesson 64: ARM Assembly (Part 24 – SUB)
+## Lesson 64: ARM Assembly (Part 24 – Debugging SUB)
 This tutorial will discuss debugging the SUB instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-24-debugging-sub-kevin-m-thomas/) to read the article on LinkedIn. 
