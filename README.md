@@ -321,5 +321,10 @@ This tutorial will discuss debugging the SUB instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-24-debugging-sub-kevin-m-thomas/) to read the article on LinkedIn. 
 
+## Lesson 65: ARM Assembly (Part 25 – Hacking SUB)
+This tutorial will discuss hacking the SUB instruction.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-25-hacking-sub-kevin-m-thomas/) to read the article on LinkedIn. 
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
