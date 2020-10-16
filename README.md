@@ -327,7 +327,7 @@ This tutorial will discuss hacking the SUB instruction.
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-25-hacking-sub-kevin-m-thomas/) to read the article on LinkedIn. 
 
 ## Lesson 66: ARM Reverse Engineering (Part 1 – The Meaning Of Life Part 2)
-This tutorial will discuss our advanced ARM Assembly course.
+This tutorial will introduce our ARM Reverse Engineering course.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-1-meaning-life-2-kevin-m-thomas) to read the article on LinkedIn. 
 
