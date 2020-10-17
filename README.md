@@ -331,5 +331,10 @@ This tutorial will introduce our ARM Reverse Engineering course.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-1-meaning-life-2-kevin-m-thomas) to read the article on LinkedIn. 
 
+## Lesson 67: ARM Reverse Engineering (Part 2 – Number Systems)
+This tutorial will introduce our ARM Reverse Engineering course.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-2-number-systems-kevin-m-thomas/) to read the article on LinkedIn. 
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
