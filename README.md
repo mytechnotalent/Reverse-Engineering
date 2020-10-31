@@ -346,7 +346,7 @@ This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-4-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn. 
 
-## Lesson 70: ARM Reverse Engineering (Part 5 – Word Lengths))
+## Lesson 70: ARM Reverse Engineering (Part 5 – Word Lengths)
 This tutorial will discuss word lengths.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-5-word-lengths-kevin-m-thomas/) to read the article on LinkedIn. 
