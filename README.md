@@ -381,6 +381,30 @@ This tutorial will discuss the firmware boot procedures.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-11-firmware-boot-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 77: ARM Reverse Engineering (Part 12 - Von Neumann Architecture)
+This tutorial will discuss the Von Neumann Architecture.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-12-von-neumann-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 78: ARM Reverse Engineering (Part 13 - Instruction Pipeline)
+This tutorial will discuss the instruction pipeline.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-13-instruction-pipeline-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 79: ARM Reverse Engineering (Part 14 - Hello World)
+This tutorial will discuss the basics of a hello world program in ARM 32-bit.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-14-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 80: ARM Reverse Engineering (Part 15 - Debugging Hello World)
+This tutorial will discuss debugging hello world.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-15-debugging-hello-world-thomas/) to read the article on LinkedIn.
+
+## Lesson 81: ARM Reverse Engineering (Part 16 - Hacking Hello World)
+This tutorial will discuss hacking hello world.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-16-hacking-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
