@@ -361,5 +361,26 @@ This tutorial will discuss program counter.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-7-program-counter-kevin-m-thomas/) to read the article on LinkedIn. 
 
+## Lesson 73: ARM Reverse Engineering (Part 8 - CPSR)
+This tutorial will discuss the CPSR.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-8-cpsr-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 74: ARM Reverse Engineering (Part 9 - Link Register)
+This tutorial will discuss the link register.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-9-link-register-kevin-m-thomas/) to read the article on LinkedIn. 
+
+## Lesson 75: ARM Reverse Engineering (Part 10 - Stack Pointer)
+This tutorial will discuss the stack pointer.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-10-stack-pointer-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 76: ARM Reverse Engineering (Part 11 - Firmware Boot Procedures)
+This tutorial will discuss the firmware boot procedures.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-11-firmware-boot-kevin-m-thomas/) to read the article on LinkedIn.
+
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
