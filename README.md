@@ -756,35 +756,35 @@ This tutorial will discuss c and how it relates to x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-37-c-genesis-life-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 152: x64 Reverse Engineering (Part 38)
-This tutorial will discuss .
+## Lesson 152: x64 Reverse Engineering (Part 38 - x64 Networking Basics)
+This tutorial will discuss x64 networking basics.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-38-networking-basics-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 153: x64 Reverse Engineering (Part 39)
-This tutorial will discuss .
+## Lesson 153: x64 Reverse Engineering (Part 39 - Why C?)
+This tutorial will discuss the power of the c language.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-39-why-c-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 154: x64 Reverse Engineering (Part 40)
-This tutorial will discuss .
+## Lesson 154: x64 Reverse Engineering (Part 40 - Hacking Hello World!)
+This tutorial will discuss hacking hello world.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-40-hacking-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 155: x64 Reverse Engineering (Part 41)
-This tutorial will discuss .
+## Lesson 155: x64 Reverse Engineering (Part 41 - Hacking Variables!)
+This tutorial will discuss hacking variables.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-41-hacking-variables-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 156: x64 Reverse Engineering (Part 42)
-This tutorial will discuss .
+## Lesson 156: x64 Reverse Engineering (Part 42 - Hacking Branches!)
+This tutorial will discuss hacking branches.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-42-hacking-branches-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 157: x64 Reverse Engineering (Part 43)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
