@@ -536,40 +536,40 @@ This tutorial will discuss debugging post-increment operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-42-debugging-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 108: ARM Reverse Engineering (Part 43 –)
-This tutorial will discuss .
+## Lesson 108: ARM Reverse Engineering (Part 43 – Hacking Post-Increment Operator)
+This tutorial will discuss hacking post-increment operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-43-hacking-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 109: ARM Reverse Engineering (Part 44 –)
-This tutorial will discuss .
+## Lesson 109: ARM Reverse Engineering (Part 44 – Pre-Decrement Operator)
+This tutorial will discuss the pre-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-44-pre-decrement-operator-thomas/) to read the article on LinkedIn.
 
-## Lesson 110: ARM Reverse Engineering (Part 45 –)
-This tutorial will discuss .
+## Lesson 110: ARM Reverse Engineering (Part 45 – Debugging Pre-Decrement Operator)
+This tutorial will discuss debugging pre-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-45-debugging-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 111: ARM Reverse Engineering (Part 46 –)
-This tutorial will discuss .
+## Lesson 111: ARM Reverse Engineering (Part 46 – Hacking Pre-Decrement Operator)
+This tutorial will discuss hacking pre-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-46-hacking-pre-decrement-kevin-m-thomas/ to read the article on LinkedIn.
 
-## Lesson 112: ARM Reverse Engineering (Part 47 –)
-This tutorial will discuss .
+## Lesson 112: ARM Reverse Engineering (Part 47 – Post-Decrement Operator)
+This tutorial will discuss post-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-47-post-decrement-operator-thomas/) to read the article on LinkedIn.
 
-## Lesson 113: ARM Reverse Engineering (Part 48 –)
-This tutorial will discuss .
+## Lesson 113: ARM Reverse Engineering (Part 48 – Debugging Post-Decrement Operator)
+This tutorial will discuss debugging post-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-48-debugging-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 114: ARM Reverse Engineering (Part 49 –)
-This tutorial will discuss .
+## Lesson 114: ARM Reverse Engineering (Part 49 – Hacking Post-Decrement Operator)
+This tutorial will discuss hacking post-decrement operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-49-hacking-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
 
 
