@@ -416,17 +416,56 @@ This tutorial will discuss debugging constants.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-18-debugging-constants-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 84: ARM Reverse Engineering (Part 19 – Hacking Constants)
+This tutorial will discuss hacking constants.
 
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-19-hacking-constants-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 85: ARM Reverse Engineering (Part 20 – Character Variables)
+This tutorial will discuss character variables.
 
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-20-character-variables-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 86: ARM Reverse Engineering (Part 21 – Debugging Character Variables)
+This tutorial will discuss debugging character variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-21-debugging-character-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 87: ARM Reverse Engineering (Part 22 – Hacking Character Variables)
+This tutorial will discuss hacking character variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-22-hacking-character-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 88: ARM Reverse Engineering (Part 23 – Boolean Variables)
+This tutorial will discuss boolean variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-23-boolean-variables-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 89: ARM Reverse Engineering (Part 24 – Debugging Boolean Variables)
+This tutorial will discuss debugging boolean variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-24-debugging-boolean-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 90: ARM Reverse Engineering (Part 25 – Hacking Boolean Variables)
+This tutorial will discuss hacking boolean variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-25-hacking-boolean-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson : ARM Reverse Engineering ()
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
 
 
 
 ## Lesson : ARM Reverse Engineering ()
-This tutorial will discuss constants.
+This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
+
+
+
+
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
