@@ -579,47 +579,47 @@ This tutorial will discuss the cyber revolution.
 ## Lesson 116: x64 Reverse Engineering (Part 2)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-2-transistors-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 117: x64 Reverse Engineering (Part 3)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-3-logic-gates-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 118: x64 Reverse Engineering (Part 4)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-4-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 119: x64 Reverse Engineering (Part 5)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-5-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 120: x64 Reverse Engineering (Part 6)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-6-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 121: x64 Reverse Engineering (Part 7)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-7-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 122: x64 Reverse Engineering (Part 8)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-8-general-architecture-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 123: x64 Reverse Engineering (Part 9)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-9-calling-conventions-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 124: x64 Reverse Engineering (Part 10)
 This tutorial will discuss .
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-10-boolean-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 125: x64 Reverse Engineering (Part 11)
 This tutorial will discuss .
@@ -631,162 +631,157 @@ This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 127: x64 Reverse Engineering (Part 12)
+## Lesson 127: x64 Reverse Engineering (Part 13)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 128: x64 Reverse Engineering (Part 13)
+## Lesson 128: x64 Reverse Engineering (Part 14)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 129: x64 Reverse Engineering (Part 14)
+## Lesson 129: x64 Reverse Engineering (Part 15)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 130: x64 Reverse Engineering (Part 15)
+## Lesson 130: x64 Reverse Engineering (Part 16)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 131: x64 Reverse Engineering (Part 16)
+## Lesson 131: x64 Reverse Engineering (Part 17)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 132: x64 Reverse Engineering (Part 17)
+## Lesson 132: x64 Reverse Engineering (Part 18)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 133: x64 Reverse Engineering (Part 18)
+## Lesson 133: x64 Reverse Engineering (Part 19)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 134: x64 Reverse Engineering (Part 19)
+## Lesson 134: x64 Reverse Engineering (Part 20)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 135: x64 Reverse Engineering (Part 20)
+## Lesson 135: x64 Reverse Engineering (Part 21)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 136: x64 Reverse Engineering (Part 21)
+## Lesson 136: x64 Reverse Engineering (Part 22)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 137: x64 Reverse Engineering (Part 22)
+## Lesson 137: x64 Reverse Engineering (Part 23)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 138: x64 Reverse Engineering (Part 23)
+## Lesson 138: x64 Reverse Engineering (Part 24)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 139: x64 Reverse Engineering (Part 24)
+## Lesson 139: x64 Reverse Engineering (Part 25)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 140: x64 Reverse Engineering (Part 25)
+## Lesson 140: x64 Reverse Engineering (Part 26)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 141: x64 Reverse Engineering (Part 26)
+## Lesson 141: x64 Reverse Engineering (Part 27)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 142: x64 Reverse Engineering (Part 27)
+## Lesson 142: x64 Reverse Engineering (Part 28)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 143: x64 Reverse Engineering (Part 28)
+## Lesson 143: x64 Reverse Engineering (Part 29)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 144: x64 Reverse Engineering (Part 29)
+## Lesson 144: x64 Reverse Engineering (Part 30)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 145: x64 Reverse Engineering (Part 30)
+## Lesson 145: x64 Reverse Engineering (Part 31)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 146: x64 Reverse Engineering (Part 31)
+## Lesson 146: x64 Reverse Engineering (Part 32)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 147: x64 Reverse Engineering (Part 32)
+## Lesson 147: x64 Reverse Engineering (Part 33)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 148: x64 Reverse Engineering (Part 33)
+## Lesson 148: x64 Reverse Engineering (Part 34)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 149: x64 Reverse Engineering (Part 34)
+## Lesson 149: x64 Reverse Engineering (Part 35)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 150: x64 Reverse Engineering (Part 35)
+## Lesson 150: x64 Reverse Engineering (Part 36)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 151: x64 Reverse Engineering (Part 36)
+## Lesson 151: x64 Reverse Engineering (Part 37)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 152: x64 Reverse Engineering (Part 37)
+## Lesson 152: x64 Reverse Engineering (Part 38)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 153: x64 Reverse Engineering (Part 38)
+## Lesson 153: x64 Reverse Engineering (Part 39)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 154: x64 Reverse Engineering (Part 39)
+## Lesson 154: x64 Reverse Engineering (Part 40)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 155: x64 Reverse Engineering (Part 40)
+## Lesson 155: x64 Reverse Engineering (Part 41)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 156: x64 Reverse Engineering (Part 41)
+## Lesson 156: x64 Reverse Engineering (Part 42)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
 
-## Lesson 157: x64 Reverse Engineering (Part 42)
-This tutorial will discuss .
-
--> Click [HERE]() to read the article on LinkedIn.
-
-## Lesson 158: x64 Reverse Engineering (Part 43)
+## Lesson 157: x64 Reverse Engineering (Part 43)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
