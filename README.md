@@ -451,10 +451,81 @@ This tutorial will discuss hacking boolean variables.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-25-hacking-boolean-variables-thomas/) to read the article on LinkedIn.
 
-## Lesson : ARM Reverse Engineering ()
+## Lesson 91: ARM Reverse Engineering (Part 26 – Integer Variables)
+This tutorial will discuss integer variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-26-integer-variables-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 92: ARM Reverse Engineering (Part 27 – Debugging Integer Variables)
+This tutorial will discuss debugging integer variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-27-debugging-integer-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 93: ARM Reverse Engineering (Part 28 – Hacking Integer Variables)
+This tutorial will discuss hacking integer variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-28-hacking-integer-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 94: ARM Reverse Engineering (Part 29 – Float Variables)
+This tutorial will discuss float variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-29-float-variables-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 95: ARM Reverse Engineering (Part 30 – Debugging Float Variables)
+This tutorial will discuss debugging float variables.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-30-debugging-float-variables-thomas/) to read the article on LinkedIn.
+
+## Lesson 96: ARM Reverse Engineering (Part 31 –)
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 97: ARM Reverse Engineering (Part 32 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 98: ARM Reverse Engineering (Part 33 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 99: ARM Reverse Engineering (Part 34 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 100: ARM Reverse Engineering (Part 35 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 101: ARM Reverse Engineering (Part 36 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+## Lesson 102: ARM Reverse Engineering (Part 37 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+# Lesson 103: ARM Reverse Engineering (Part 38 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+# Lesson 104: ARM Reverse Engineering (Part 39 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
+# Lesson 105: ARM Reverse Engineering (Part 40 –)
+This tutorial will discuss .
+
+-> Click [HERE]() to read the article on LinkedIn.
+
 
 
 
