@@ -621,55 +621,55 @@ This tutorial will discuss boolean instructions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-10-boolean-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 125: x64 Reverse Engineering (Part 11)
-This tutorial will discuss .
+## Lesson 125: x64 Reverse Engineering (Part 11 - Pointers)
+This tutorial will discuss pointers.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-11-pointers-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 126: x64 Reverse Engineering (Part 12)
-This tutorial will discuss .
+## Lesson 126: x64 Reverse Engineering (Part 12 - Load Effective Address)
+This tutorial will discuss load effective address.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-12-load-effective-address-thomas/) to read the article on LinkedIn.
 
-## Lesson 127: x64 Reverse Engineering (Part 13)
-This tutorial will discuss .
+## Lesson 127: x64 Reverse Engineering (Part 13 - The Data Segment)
+This tutorial will discuss the data segment.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-13-data-segment-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 128: x64 Reverse Engineering (Part 14)
-This tutorial will discuss .
+## Lesson 128: x64 Reverse Engineering (Part 14 - SHL Instruction)
+This tutorial will discuss the shl instruction.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-14-shl-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 129: x64 Reverse Engineering (Part 15)
-This tutorial will discuss .
+## Lesson 129: x64 Reverse Engineering (Part 15 - SHR Instruction)
+This tutorial will discuss the shr instruction.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-15-shr-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 130: x64 Reverse Engineering (Part 16)
-This tutorial will discuss .
+## Lesson 130: x64 Reverse Engineering (Part 16 - ROL Instruction)
+This tutorial will discuss rol instruction.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-16-rol-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 131: x64 Reverse Engineering (Part 17)
-This tutorial will discuss .
+## Lesson 131: x64 Reverse Engineering (Part 17 - ROR Instruction)
+This tutorial will discuss the ror instruction.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-17-ror-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 132: x64 Reverse Engineering (Part 18)
-This tutorial will discuss .
+## Lesson 132: x64 Reverse Engineering (Part 18 - Boot Sector Basics [Part 1])
+This tutorial will discuss boot sector basics.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-1-thomas/) to read the article on LinkedIn.
 
-## Lesson 133: x64 Reverse Engineering (Part 19)
-This tutorial will discuss .
+## Lesson 133: x64 Reverse Engineering (Part 19 - Boot Sector Basics [Part 2])
+This tutorial will discuss more boot sector basics.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-2-thomas/) to read the article on LinkedIn.
 
-## Lesson 134: x64 Reverse Engineering (Part 20)
-This tutorial will discuss .
+## Lesson 134: x64 Reverse Engineering (Part 20 - Boot Sector Basics [Part 3])
+This tutorial will discuss more boot sector basics.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-20-boot-sector-basics-3-thomas/) to read the article on LinkedIn.
 
 ## Lesson 135: x64 Reverse Engineering (Part 21)
 This tutorial will discuss .
