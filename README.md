@@ -576,48 +576,48 @@ This tutorial will discuss the cyber revolution.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-1-cyber-revolution-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 116: x64 Reverse Engineering (Part 2)
-This tutorial will discuss .
+## Lesson 116: x64 Reverse Engineering (Part 2 - Transistors)
+This tutorial will discuss transistors.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-2-transistors-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 117: x64 Reverse Engineering (Part 3)
-This tutorial will discuss .
+## Lesson 117: x64 Reverse Engineering (Part 3 - Logic Gates)
+This tutorial will discuss logic gates.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-3-logic-gates-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 118: x64 Reverse Engineering (Part 4)
-This tutorial will discuss .
+## Lesson 118: x64 Reverse Engineering (Part 4 - Number Systems)
+This tutorial will discuss number systems.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-4-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 119: x64 Reverse Engineering (Part 5)
-This tutorial will discuss .
+## Lesson 119: x64 Reverse Engineering (Part 5 - Binary Addition)
+This tutorial will discuss binary addition.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-5-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 120: x64 Reverse Engineering (Part 6)
-This tutorial will discuss .
+## Lesson 120: x64 Reverse Engineering (Part 6 - Binary Subtraction)
+This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-6-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 121: x64 Reverse Engineering (Part 7)
-This tutorial will discuss .
+## Lesson 121: x64 Reverse Engineering (Part 7 - Word Lengths)
+This tutorial will discuss word lengths.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-7-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 122: x64 Reverse Engineering (Part 8)
-This tutorial will discuss .
+## Lesson 122: x64 Reverse Engineering (Part 8 - General Architecture)
+This tutorial will discuss the general architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-8-general-architecture-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 123: x64 Reverse Engineering (Part 9)
-This tutorial will discuss .
+## Lesson 123: x64 Reverse Engineering (Part 9 - Calling Conventions)
+This tutorial will discuss calling conventions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-9-calling-conventions-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 124: x64 Reverse Engineering (Part 10)
-This tutorial will discuss .
+## Lesson 124: x64 Reverse Engineering (Part 10 - Boolean Instructions)
+This tutorial will discuss boolean instructions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-10-boolean-kevin-m-thomas/) to read the article on LinkedIn.
 
