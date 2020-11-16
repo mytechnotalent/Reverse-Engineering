@@ -781,10 +781,40 @@ This tutorial will discuss hacking branches.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-42-hacking-branches-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 157: x64 Reverse Engineering (Part 43)
-This tutorial will discuss .
+## Lesson 157: x64 Reverse Engineering (Part 43 - Hacking Pointers!)
+This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Supplimental 32-bit ARM - Hacking Hello World
+This tutorial hacks a 32-bit ARM hello world program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x01_arm_32_hacking_hello_world/) to read the GitHub tutorial.
+
+## Supplimental 32-bit ARM - Hacking Int
+This tutorial hacks a 32-bit ARM int program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x02_arm_32_hacking_int) to read the GitHub tutorial.
+
+## Supplimental 32-bit ARM - Hacking Float
+This tutorial hacks a 32-bit ARM float program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x03_arm_32_hacking_float) to read the GitHub tutorial.
+
+## Supplimental 32-bit ARM - Hacking Double
+This tutorial hacks a 32-bit ARM double program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x04_arm_32_hacking_double) to read the GitHub tutorial.
+
+## Supplimental 32-bit ARM - Hacking Char
+This tutorial hacks a 32-bit ARM char program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x05_arm_32_hacking_char) to read the GitHub tutorial.
+
+## Supplimental 32-bit ARM - Hacking Char Pointer
+This tutorial hacks a 32-bit ARM char pointer program.
+
+-> Click [HERE](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer) to read the GitHub tutorial.
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
