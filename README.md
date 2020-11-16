@@ -406,5 +406,27 @@ This tutorial will discuss hacking hello world.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-16-hacking-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 82: ARM Reverse Engineering (Part 17 - Constants)
+This tutorial will discuss constants.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-17-constants-kevin-m-thomas/) to read the article on LinkedIn.
+
+## Lesson 83: ARM Reverse Engineering (Part 18 – Debugging Constants)
+This tutorial will discuss debugging constants.
+
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-18-debugging-constants-kevin-m-thomas/) to read the article on LinkedIn.
+
+
+
+
+
+
+
+
+## Lesson : ARM Reverse Engineering ()
+This tutorial will discuss constants.
+
+-> Click [HERE]() to read the article on LinkedIn.
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
