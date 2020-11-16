@@ -476,35 +476,35 @@ This tutorial will discuss debugging float variables.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-30-debugging-float-variables-thomas/) to read the article on LinkedIn.
 
-## Lesson 96: ARM Reverse Engineering (Part 31 –)
-This tutorial will discuss .
+## Lesson 96: ARM Reverse Engineering (Part 31 – Hacking Float Variables)
+This tutorial will discuss hacking float variables.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-30-debugging-float-variables-thomas-1/) to read the article on LinkedIn.
 
-## Lesson 97: ARM Reverse Engineering (Part 32 –)
-This tutorial will discuss .
+## Lesson 97: ARM Reverse Engineering (Part 32 – Double Variables)
+This tutorial will discuss double variables.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-32-double-variables-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 98: ARM Reverse Engineering (Part 33 –)
-This tutorial will discuss .
+## Lesson 98: ARM Reverse Engineering (Part 33 – Debugging Double Variables)
+This tutorial will discuss debugging double variables.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-33-debugging-double-variables-thomas/) to read the article on LinkedIn.
 
-## Lesson 99: ARM Reverse Engineering (Part 34 –)
-This tutorial will discuss .
+## Lesson 99: ARM Reverse Engineering (Part 34 – Hacking Double Variables)
+This tutorial will discuss hacking double variables.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-34-hacking-double-variables-thomas/) to read the article on LinkedIn.
 
-## Lesson 100: ARM Reverse Engineering (Part 35 –)
-This tutorial will discuss .
+## Lesson 100: ARM Reverse Engineering (Part 35 – SizeOf Operator)
+This tutorial will discuss sizeof operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-35-sizeof-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 101: ARM Reverse Engineering (Part 36 –)
-This tutorial will discuss .
+## Lesson 101: ARM Reverse Engineering (Part 36 – Debugging SizeOf Operator)
+This tutorial will discuss debugging sizeof operator.
 
--> Click [HERE]() to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-36-debugging-sizeof-operator-thomas/) to read the article on LinkedIn.
 
 ## Lesson 102: ARM Reverse Engineering (Part 37 –)
 This tutorial will discuss .
@@ -525,6 +525,7 @@ This tutorial will discuss .
 This tutorial will discuss .
 
 -> Click [HERE]() to read the article on LinkedIn.
+
 
 
 
