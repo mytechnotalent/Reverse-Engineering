@@ -786,6 +786,11 @@ This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
 
+## Lesson 158: Hacking C++ ARM 64 (Part 1 - The Meaning Of Life)
+In this lesson we will discuss the course concepts and the meaning of life.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-1-hacking-c-arm-64-part-meaning-life-kevin-thomas/) to read the article on LinkedIn.
+
 ## Supplimental 32-bit ARM - Hacking Hello World
 This tutorial hacks a 32-bit ARM hello world program.
 
