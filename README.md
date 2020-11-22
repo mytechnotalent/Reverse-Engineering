@@ -227,10 +227,12 @@ This tutorial will discuss binary subtraction.
 This tutorial will discuss word lengths.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-5-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
+
 ## Lesson 46: ARM Assembly (Part 6 - Registers)
 This tutorial will discuss registers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-6-registers-kevin-m-thomas/) to read the article on LinkedIn.
+
 ## Lesson 47: ARM Assembly (Part 7 - Program Counter)
 This tutorial will discuss the program counter.
 
