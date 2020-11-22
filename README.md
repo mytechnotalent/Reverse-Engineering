@@ -513,17 +513,17 @@ This tutorial will discuss hacking sizeof operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-37-hacking-sizeof-operator-thomas/) to read the article on LinkedIn.
 
-# Lesson 103: ARM Reverse Engineering (Part 38 – Pre-Increment Operator)
+## Lesson 103: ARM Reverse Engineering (Part 38 – Pre-Increment Operator)
 This tutorial will discuss the pre-increment operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-38-pre-increment-operator-thomas/) to read the article on LinkedIn.
 
-# Lesson 104: ARM Reverse Engineering (Part 39 – Debugging Pre-Increment Operator)
+## Lesson 104: ARM Reverse Engineering (Part 39 – Debugging Pre-Increment Operator)
 This tutorial will discuss debugging pre-increment operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-39-debugging-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
-# Lesson 105: ARM Reverse Engineering (Part 40 – Hacking Pre-Increment Operator)
+## Lesson 105: ARM Reverse Engineering (Part 40 – Hacking Pre-Increment Operator)
 This tutorial will discuss hacking pre-increment operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-40-hacking-pre-increment-kevin-m-thomas/) to read the article on LinkedIn.
