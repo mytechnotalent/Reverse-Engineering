@@ -23,8 +23,8 @@ int main()
         // if a number can't be read, or there is more than white
         // space in the string after the number, then fail the read
         // and get another string from the user
-        if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age < 0)
-            std::cout << "Dude be real!\n";
+        if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age <= 0)
+            std::cout << "Dude be real!" << std::endl;
         else
             valid = true ;
     }
