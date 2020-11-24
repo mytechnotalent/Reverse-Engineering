@@ -22,7 +22,9 @@ int main()
         // Attempt to read a valid age from the stringstream and
         // if a number can't be read, or there is more than white
         // space in the string after the number, then fail the read
-        // and get another string from the user
+        // and get another string from the user and make sure the 
+        // dude is at least a year old and less than or equal to
+        // 100 years old
         if (!(is >> age) || (is >> std::ws && is.get(null)) || age >= 100 || age <= 0)
             std::cout << "Dude be real!" << std::endl;
         else
