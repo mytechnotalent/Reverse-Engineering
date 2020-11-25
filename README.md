@@ -3,6 +3,12 @@
 # Reverse Engineering Tutorial
 A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
+<br> 
+
+## PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
+
+<br>
+
 ## Lesson 1: Assembly Language - Basic Malware Reverse Engineering (Part 1: Goals)
 This tutorial will begin with the basic concepts of malware reverse engineering and graduate to an entry-level basic examination of Assembly Language.
 
