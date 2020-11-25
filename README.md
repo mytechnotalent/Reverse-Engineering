@@ -798,6 +798,11 @@ In this lesson we will discuss how to set up our development in 64-bit ARM with 
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-development-setup-kevin-thomas/) to read the article on LinkedIn.
 
+## Lesson 160: Hacking C++ ARM 64 (Part 3 - "Hello World")
+In this lesson we will discuss how to write and compile a simple hello world program in C++.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
+
 ## Supplimental 32-bit ARM - Hacking Hello World
 This tutorial hacks a 32-bit ARM hello world program.
 
