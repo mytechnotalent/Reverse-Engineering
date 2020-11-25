@@ -803,6 +803,11 @@ In this lesson we will discuss how to write and compile a simple hello world pro
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
+## Lesson 161: Hacking C++ ARM 64 (Part 4 - Debugging "Hello World")
+In this lesson we will debug our simple hello world program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
+
 ## Supplimental 32-bit ARM - Hacking Hello World
 This tutorial hacks a 32-bit ARM hello world program.
 
