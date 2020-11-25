@@ -29,7 +29,7 @@ This tutorial will address the very basics of the binary number system.
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-4/) to read the article on LinkedIn.
 
 ## Lesson 6: Assembly Language - Basic Malware Reverse Engineering (Part 6: Hexadecimal Number System)
-This tutorial will address the very basics of the hexidecimal number system.
+This tutorial will address the very basics of the hexadecimal number system.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-5/) to read the article on LinkedIn.
 
@@ -209,7 +209,7 @@ This tutorial will introduce our ARM Assembly tutorial series.
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-1-meaning-life-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 42: ARM Assembly (Part 2 - Number Systems)
-This tutorial will discuss number systems such as binary, decimal and hexidecimal in detail.
+This tutorial will discuss number systems such as binary, decimal and hexadecimal in detail.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-2-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
 
