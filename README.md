@@ -814,6 +814,8 @@ In this lesson we will debug our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
+<br>
+
 ## Supplimental 32-bit ARM - Hacking Hello World
 This tutorial hacks a 32-bit ARM hello world program.
 
@@ -843,6 +845,8 @@ This tutorial hacks a 32-bit ARM char program.
 This tutorial hacks a 32-bit ARM char pointer program.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x06_arm_32_hacking_char_pointer) to read the GitHub tutorial.
+
+<br>
 
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
