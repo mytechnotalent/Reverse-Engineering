@@ -814,6 +814,11 @@ In this lesson we will debug our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
+## Lesson 162: Hacking C++ ARM 64 (Part 5 - Hacking "Hello World")
+In this lesson we will hack our simple hello world program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
+
 <br>
 
 ## Supplimental 32-bit ARM - Hacking Hello World
