@@ -752,7 +752,7 @@ This tutorial will discuss c++ code as it relates to 64-bit assembly.
 ## Lesson 149: x64 Reverse Engineering (Part 35 - x64 C++ 2 Debug [Part 2])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
 
--> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-35-c-1-debug-2-kevin-m-thomas/ to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-35-c-1-debug-2-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 150: x64 Reverse Engineering (Part 36 - x64 C++ 3 Hacking [Part 3])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
