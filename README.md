@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/mytechnotalent/Reverse-Engineering-Tutorial/master/Reverse%20Engineering%20TEMPLATE.jpg)
 
-# Reverse Engineering for Everyone!
+# Reverse Engineering For Everyone!
 A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br> 
@@ -9,8 +9,8 @@ A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-
 
 <br>
 
-## Special thanks to @0xInfection (Twitter) as all of the courses are now in ONE book [HERE](https://0xinfection.github.io/reversing/) ON GITHUB as this will get updated based on new lessons if you do not wish to view the individual lessons below in LinkedIn.
-
+## FREE E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+Assembled by @0xInfection (Twitter)
 <br>
 
 ## x86
