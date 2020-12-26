@@ -11,6 +11,7 @@ A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-
 
 ## FREE E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 Assembled by @0xInfection (Twitter)
+
 <br>
 
 ## x86
