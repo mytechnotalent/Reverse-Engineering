@@ -9,6 +9,8 @@ A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-
 
 <br>
 
+## x86
+
 ## Lesson 1: Assembly Language - Basic Malware Reverse Engineering (Part 1: Goals)
 This tutorial will begin with the basic concepts of malware reverse engineering and graduate to an entry-level basic examination of Assembly Language.
 
@@ -209,6 +211,10 @@ This tutorial will conclude this x86 tutorial.
 
 -> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-6222371031936434176/) to read the article on LinkedIn.
 
+<br>
+
+## ARM 32 (Beginner)
+
 ## Lesson 41: ARM Assembly (Part 1 – The Meaning Of Life)
 This tutorial will introduce our ARM Assembly tutorial series.
 
@@ -333,6 +339,10 @@ This tutorial will discuss debugging the SUB instruction.
 This tutorial will discuss hacking the SUB instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-assembly-part-25-hacking-sub-kevin-m-thomas/) to read the article on LinkedIn. 
+
+<br>
+
+## ARM 32 (Advanced)
 
 ## Lesson 66: ARM Reverse Engineering (Part 1 – The Meaning Of Life Part 2)
 This tutorial will introduce our ARM Reverse Engineering course.
@@ -579,6 +589,10 @@ This tutorial will discuss hacking post-decrement operator.
 
 -> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-49-hacking-operator-kevin-m-thomas/) to read the article on LinkedIn.
 
+<br>
+
+## x64
+
 ## Lesson 115: x64 Reverse Engineering (Part 1 – The Cyber Revolution)
 This tutorial will discuss the cyber revolution.
 
@@ -793,6 +807,10 @@ This tutorial will discuss hacking branches.
 This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
+
+<br>
+
+## ARM 64
 
 ## Lesson 158: Hacking C++ ARM 64 (Part 1 - The Meaning Of Life)
 In this lesson we will discuss the course concepts and the meaning of life.
