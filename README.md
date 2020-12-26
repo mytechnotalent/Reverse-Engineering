@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/mytechnotalent/Reverse-Engineering-Tutorial/master/Reverse%20Engineering%20TEMPLATE.jpg)
 
-# Reverse Engineering Tutorial
+# Reverse Engineering For Everyone
 A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br> 
