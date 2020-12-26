@@ -9,7 +9,7 @@ A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-
 
 <br>
 
-## Special thanks to @0xInfection as all of the courses are now in ONE book [HERE](https://0xinfection.github.io/reversing/) ON GITHUB
+## Special thanks to @0xInfection as all of the courses are now in ONE book [HERE](https://0xinfection.github.io/reversing/) ON GITHUB as this will get updated based on new lessons.
 
 <br>
 
