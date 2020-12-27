@@ -577,7 +577,7 @@ This tutorial will discuss debugging pre-decrement operator.
 ## Lesson 111: ARM-32 Course 2 (Part 46 – Hacking Pre-Decrement Operator)
 This tutorial will discuss hacking pre-decrement operator.
 
--> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-46-hacking-pre-decrement-kevin-m-thomas/ to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/arm-reverse-engineering-part-46-hacking-pre-decrement-kevin-m-thomas/) to read the article on LinkedIn.
 
 ## Lesson 112: ARM-32 Course 2 (Part 47 – Post-Decrement Operator)
 This tutorial will discuss post-decrement operator.
