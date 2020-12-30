@@ -10,7 +10,7 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 <br>
 
 ## FREE E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## FREE PDF [HERE](https://github.com/0xInfection/reversing/blob/gh-pages/reversing-for-everyone.pdf)
+## FREE PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
