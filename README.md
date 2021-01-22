@@ -888,7 +888,12 @@ In this lesson we will discuss hacking the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-14-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 172: COMING SOON!
+## Lesson 172: ARM-64 Course (Part 15 - Float Primitive Datatype)
+In this lesson we will discuss the float primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-15-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 173: COMING SOON!
 
 <br>
 
