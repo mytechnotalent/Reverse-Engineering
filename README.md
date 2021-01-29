@@ -893,7 +893,12 @@ In this lesson we will discuss the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-15-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 173: COMING SOON!
+## Lesson 173: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
+In this lesson we will discuss debugging the float primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-16-debugging-float-primitive-datatype-thomas/) to read the article on LinkedIn.
+
+## Lesson 174: COMING SOON!
 
 <br>
 
