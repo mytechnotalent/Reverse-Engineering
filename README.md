@@ -903,7 +903,12 @@ In this lesson we will discuss hacking the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-17-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 175: COMING SOON!
+## Lesson 175: ARM-64 Course (Part 18 - Double Primitive Datatype)
+In this lesson we will discuss the double primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-18-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 176: COMING SOON!
 
 <br>
 
