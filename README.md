@@ -908,7 +908,12 @@ In this lesson we will discuss the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-18-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 176: COMING SOON!
+## Lesson 176: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
+In this lesson we will discuss debugging the double primitive datatype.
+
+-> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-19-debugging-double-primitive-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 177: COMING SOON!
 
 <br>
 
