@@ -15,6 +15,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+
+<br>
+
 ## x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
