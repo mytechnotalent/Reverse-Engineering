@@ -16,6 +16,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 
 <br>
 
