@@ -20,6 +20,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
 ## x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
