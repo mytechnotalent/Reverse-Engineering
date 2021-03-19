@@ -931,7 +931,7 @@ In this lesson we will discuss hacking the double primitive datatype.
 
 ## Pico Hacking Course
 
-## Lesson 178: ARM-64 Course (Part 1 - The Why, The How...)
+## Lesson 178: Pico Hacking Course (Part 1 - The Why, The How...)
 In this lesson we will discuss hacking the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
