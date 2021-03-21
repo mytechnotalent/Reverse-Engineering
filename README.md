@@ -932,11 +932,16 @@ In this lesson we will discuss hacking the double primitive datatype.
 ## Pico Hacking Course
 
 ## Lesson 178: Pico Hacking Course (Part 1 - The Why, The How...)
-In this lesson we will discuss hacking the double primitive datatype.
+In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 179 - COMING SOON
+## Lesson 179: Pico Hacking Course (Part 2 - Hello World)
+In this lesson we will discuss the basic Hello World program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-2-hello-world-kevin-thomas/) to read the article on LinkedIn.
+ 
+## Lesson 180 - COMING SOON
 
 <br>
 
