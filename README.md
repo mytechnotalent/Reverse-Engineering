@@ -946,7 +946,13 @@ In this lesson we will discuss debugging the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-3-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 181 - COMING SOON
+## Lesson 181: Pico Hacking Course (Part 4 - Hacking Hello World)
+In this lesson we will discuss hacking the basic Hello World program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
+
+
+## Lesson 182 - COMING SOON
 
 <br>
 
