@@ -951,8 +951,12 @@ In this lesson we will discuss hacking the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
 
+## Lesson 182: Pico Hacking Course (Part 5 - char)
+In this lesson we will discuss the char data type.
 
-## Lesson 182 - COMING SOON
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 183 - COMING SOON
 
 <br>
 
