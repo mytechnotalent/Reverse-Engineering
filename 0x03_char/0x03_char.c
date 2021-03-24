@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include "pico/stdlib.h"
 
-
 int main() 
 {
   stdio_init_all();
@@ -10,8 +9,8 @@ int main()
   {
     char x = 'x';
 		
-		printf("%c\n", x);
-		sleep_ms(1000);
+	printf("%c\n", x);
+	sleep_ms(1000);
   }
     
   return 0;
