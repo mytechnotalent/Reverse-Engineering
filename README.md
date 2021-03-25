@@ -956,7 +956,12 @@ In this lesson we will discuss the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 183 - COMING SOON
+## Lesson 183: Pico Hacking Course (Part 6 - Debugging char)
+In this lesson we will discuss debugging the char data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-6-debugging-char-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 184 - COMING SOON
 
 <br>
 
