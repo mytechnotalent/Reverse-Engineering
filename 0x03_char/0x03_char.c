@@ -7,7 +7,7 @@ int main()
 
   while(1) 
   {
-    char x = 'x';
+  	char x = 'x';
 		
 	printf("%c\n", x);
 	sleep_ms(1000);
