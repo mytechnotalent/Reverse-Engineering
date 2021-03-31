@@ -1,1 +1,0 @@
-/usr/local/bin/arm-none-eabi-gcc -march=armv6-m -mcpu=cortex-m0plus -mthumb -O3 -DNDEBUG -Wl,--build-id=none --specs=nosys.specs -nostartfiles -Wl,--script=/Users/developer/pico/pico-sdk/src/rp2_common/boot_stage2/boot_stage2.ld -Wl,-Map=bs2_default.elf.map CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj -o bs2_default.elf 
