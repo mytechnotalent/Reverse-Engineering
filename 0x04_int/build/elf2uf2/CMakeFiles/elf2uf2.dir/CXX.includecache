@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/developer/pico/pico-sdk/src/common/boot_uf2/include/boot/uf2.h
+stdint.h
+-
+assert.h
+-
+
+/Users/developer/pico/pico-sdk/tools/elf2uf2/elf.h
+stdint.h
+-
+
+/Users/developer/pico/pico-sdk/tools/elf2uf2/main.cpp
+cstdio
+-
+map
+-
+vector
+-
+cstring
+-
+cstdarg
+-
+algorithm
+-
+boot/uf2.h
+/Users/developer/pico/pico-sdk/tools/elf2uf2/boot/uf2.h
+elf.h
+/Users/developer/pico/pico-sdk/tools/elf2uf2/elf.h
+

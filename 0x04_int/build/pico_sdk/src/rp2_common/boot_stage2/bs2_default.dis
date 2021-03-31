@@ -1,0 +1,130 @@
+
+bs2_default.elf:     file format elf32-littlearm
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         000000e0  20041f00  20041f00  00001f00  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .ARM.attributes 00000022  00000000  00000000  00001fe0  2**0
+                  CONTENTS, READONLY
+
+bs2_default.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+20041f00 <_stage2_boot>:
+20041f00:	b500      	push	{lr}
+20041f02:	4b2f      	ldr	r3, [pc, #188]	; (20041fc0 <literals>)
+20041f04:	2021      	movs	r0, #33	; 0x21
+20041f06:	6058      	str	r0, [r3, #4]
+20041f08:	6898      	ldr	r0, [r3, #8]
+20041f0a:	2102      	movs	r1, #2
+20041f0c:	4388      	bics	r0, r1
+20041f0e:	6098      	str	r0, [r3, #8]
+20041f10:	60d8      	str	r0, [r3, #12]
+20041f12:	6118      	str	r0, [r3, #16]
+20041f14:	6158      	str	r0, [r3, #20]
+20041f16:	4b2b      	ldr	r3, [pc, #172]	; (20041fc4 <literals+0x4>)
+20041f18:	2100      	movs	r1, #0
+20041f1a:	6099      	str	r1, [r3, #8]
+20041f1c:	2102      	movs	r1, #2
+20041f1e:	6159      	str	r1, [r3, #20]
+20041f20:	2101      	movs	r1, #1
+20041f22:	22f0      	movs	r2, #240	; 0xf0
+20041f24:	5099      	str	r1, [r3, r2]
+
+20041f26 <program_sregs>:
+20041f26:	4928      	ldr	r1, [pc, #160]	; (20041fc8 <literals+0x8>)
+20041f28:	6019      	str	r1, [r3, #0]
+20041f2a:	2101      	movs	r1, #1
+20041f2c:	6099      	str	r1, [r3, #8]
+20041f2e:	2035      	movs	r0, #53	; 0x35
+20041f30:	f000 f83e 	bl	20041fb0 <read_flash_sreg>
+20041f34:	2202      	movs	r2, #2
+20041f36:	4290      	cmp	r0, r2
+20041f38:	d014      	beq.n	20041f64 <skip_sreg_programming>
+20041f3a:	2106      	movs	r1, #6
+20041f3c:	6619      	str	r1, [r3, #96]	; 0x60
+20041f3e:	f000 f82e 	bl	20041f9e <wait_ssi_ready>
+20041f42:	6e19      	ldr	r1, [r3, #96]	; 0x60
+20041f44:	2101      	movs	r1, #1
+20041f46:	6619      	str	r1, [r3, #96]	; 0x60
+20041f48:	2000      	movs	r0, #0
+20041f4a:	6618      	str	r0, [r3, #96]	; 0x60
+20041f4c:	661a      	str	r2, [r3, #96]	; 0x60
+20041f4e:	f000 f826 	bl	20041f9e <wait_ssi_ready>
+20041f52:	6e19      	ldr	r1, [r3, #96]	; 0x60
+20041f54:	6e19      	ldr	r1, [r3, #96]	; 0x60
+20041f56:	6e19      	ldr	r1, [r3, #96]	; 0x60
+20041f58:	2005      	movs	r0, #5
+20041f5a:	f000 f829 	bl	20041fb0 <read_flash_sreg>
+20041f5e:	2101      	movs	r1, #1
+20041f60:	4208      	tst	r0, r1
+20041f62:	d1f9      	bne.n	20041f58 <program_sregs+0x32>
+
+20041f64 <skip_sreg_programming>:
+20041f64:	2100      	movs	r1, #0
+20041f66:	6099      	str	r1, [r3, #8]
+
+20041f68 <dummy_read>:
+20041f68:	4918      	ldr	r1, [pc, #96]	; (20041fcc <literals+0xc>)
+20041f6a:	6019      	str	r1, [r3, #0]
+20041f6c:	2100      	movs	r1, #0
+20041f6e:	6059      	str	r1, [r3, #4]
+20041f70:	4917      	ldr	r1, [pc, #92]	; (20041fd0 <literals+0x10>)
+20041f72:	4818      	ldr	r0, [pc, #96]	; (20041fd4 <literals+0x14>)
+20041f74:	6001      	str	r1, [r0, #0]
+20041f76:	2101      	movs	r1, #1
+20041f78:	6099      	str	r1, [r3, #8]
+20041f7a:	21eb      	movs	r1, #235	; 0xeb
+20041f7c:	6619      	str	r1, [r3, #96]	; 0x60
+20041f7e:	21a0      	movs	r1, #160	; 0xa0
+20041f80:	6619      	str	r1, [r3, #96]	; 0x60
+20041f82:	f000 f80c 	bl	20041f9e <wait_ssi_ready>
+20041f86:	2100      	movs	r1, #0
+20041f88:	6099      	str	r1, [r3, #8]
+
+20041f8a <configure_ssi>:
+20041f8a:	4913      	ldr	r1, [pc, #76]	; (20041fd8 <literals+0x18>)
+20041f8c:	4811      	ldr	r0, [pc, #68]	; (20041fd4 <literals+0x14>)
+20041f8e:	6001      	str	r1, [r0, #0]
+20041f90:	2101      	movs	r1, #1
+20041f92:	6099      	str	r1, [r3, #8]
+
+20041f94 <soft_reset>:
+20041f94:	bc01      	pop	{r0}
+20041f96:	2800      	cmp	r0, #0
+20041f98:	d100      	bne.n	20041f9c <soft_reset+0x8>
+20041f9a:	4810      	ldr	r0, [pc, #64]	; (20041fdc <literals+0x1c>)
+20041f9c:	4700      	bx	r0
+
+20041f9e <wait_ssi_ready>:
+20041f9e:	b503      	push	{r0, r1, lr}
+20041fa0:	6a99      	ldr	r1, [r3, #40]	; 0x28
+20041fa2:	2004      	movs	r0, #4
+20041fa4:	4201      	tst	r1, r0
+20041fa6:	d0fb      	beq.n	20041fa0 <wait_ssi_ready+0x2>
+20041fa8:	2001      	movs	r0, #1
+20041faa:	4201      	tst	r1, r0
+20041fac:	d1f8      	bne.n	20041fa0 <wait_ssi_ready+0x2>
+20041fae:	bd03      	pop	{r0, r1, pc}
+
+20041fb0 <read_flash_sreg>:
+20041fb0:	b502      	push	{r1, lr}
+20041fb2:	6618      	str	r0, [r3, #96]	; 0x60
+20041fb4:	6618      	str	r0, [r3, #96]	; 0x60
+20041fb6:	f7ff fff2 	bl	20041f9e <wait_ssi_ready>
+20041fba:	6e18      	ldr	r0, [r3, #96]	; 0x60
+20041fbc:	6e18      	ldr	r0, [r3, #96]	; 0x60
+20041fbe:	bd02      	pop	{r1, pc}
+
+20041fc0 <literals>:
+20041fc0:	40020000 	.word	0x40020000
+20041fc4:	18000000 	.word	0x18000000
+20041fc8:	00070000 	.word	0x00070000
+20041fcc:	005f0300 	.word	0x005f0300
+20041fd0:	00002221 	.word	0x00002221
+20041fd4:	180000f4 	.word	0x180000f4
+20041fd8:	a0002022 	.word	0xa0002022
+20041fdc:	10000101 	.word	0x10000101

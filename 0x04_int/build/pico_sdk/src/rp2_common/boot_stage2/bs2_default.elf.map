@@ -1,0 +1,62 @@
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM             0x0000000020041f00 0x00000000000000fc xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000020041f00                . = ORIGIN (SRAM)
+
+.text           0x0000000020041f00       0xe0
+ *(.entry)
+ *(.text)
+ .text          0x0000000020041f00       0xe0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+                0x0000000020041f00                _stage2_boot
+                0x0000000020041fb0                read_flash_sreg
+                0x0000000020041fc0                literals
+LOAD CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+START GROUP
+LOAD /usr/local/Caskroom/gcc-arm-embedded/9-2020-q2-update/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/local/Caskroom/gcc-arm-embedded/9-2020-q2-update/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+END GROUP
+START GROUP
+LOAD /usr/local/Caskroom/gcc-arm-embedded/9-2020-q2-update/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/local/Caskroom/gcc-arm-embedded/9-2020-q2-update/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+LOAD /usr/local/Caskroom/gcc-arm-embedded/9-2020-q2-update/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libnosys.a
+END GROUP
+OUTPUT(bs2_default.elf elf32-littlearm)
+LOAD linker stubs
+
+.data           0x0000000020041fe0        0x0
+ .data          0x0000000020041fe0        0x0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+
+.igot.plt       0x0000000020041fe0        0x0
+ .igot.plt      0x0000000020041fe0        0x0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+
+.glue_7         0x0000000020041fe0        0x0
+ .glue_7        0x0000000020041fe0        0x0 linker stubs
+
+.glue_7t        0x0000000020041fe0        0x0
+ .glue_7t       0x0000000020041fe0        0x0 linker stubs
+
+.vfp11_veneer   0x0000000020041fe0        0x0
+ .vfp11_veneer  0x0000000020041fe0        0x0 linker stubs
+
+.v4_bx          0x0000000020041fe0        0x0
+ .v4_bx         0x0000000020041fe0        0x0 linker stubs
+
+.iplt           0x0000000020041fe0        0x0
+ .iplt          0x0000000020041fe0        0x0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+
+.rel.dyn        0x0000000020041fe0        0x0
+ .rel.iplt      0x0000000020041fe0        0x0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+
+.bss            0x0000000020041fe0        0x0
+ .bss           0x0000000020041fe0        0x0 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
+
+.ARM.attributes
+                0x0000000000000000       0x22
+ .ARM.attributes
+                0x0000000000000000       0x22 CMakeFiles/bs2_default.dir/boot2_w25q080.S.obj
