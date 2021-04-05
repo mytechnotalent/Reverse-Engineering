@@ -976,7 +976,12 @@ In this lesson we will discuss debugging the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-9-debugging-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 187 - COMING SOON
+## Lesson 187: Pico Hacking Course (Part 10 - Hacking int)
+In this lesson we will discuss hacking the int data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-10-int-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 188 - COMING SOON
 
 <br>
 
