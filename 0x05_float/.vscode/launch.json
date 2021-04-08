@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex Debug",
+            "cwd": "${workspaceRoot}",
+            "executable": "${workspaceRoot}/build/main.elf",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "device": "Pico2040",
+            "runToMain": true,
+            "configFiles": ["/Users/developer/pico/openocd/tcl/interface/picoprobe.cfg", "/Users/developer/pico/openocd/tcl/target/rp2040.cfg"],
+            "searchDir": ["/Users/developer/pico/openocd/tcl"],
+            "svdFile": "/Users/developer/pico/pico-sdk/src/rp2040/hardware_regs/rp2040.svd",
+        }
+    ]
+}
