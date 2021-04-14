@@ -991,7 +991,12 @@ In this lesson we will discuss debugging the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-12-debugging-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 190 - COMING SOON
+## Lesson 190: Pico Hacking Course (Part 13 - Hacking float)
+In this lesson we will discuss hacking the float data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 191 - COMING SOON
 
 <br>
 
