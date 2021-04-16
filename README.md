@@ -996,7 +996,12 @@ In this lesson we will discuss hacking the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 191 - COMING SOON
+## Lesson 191: Pico Hacking Course (Part 14 - double)
+In this lesson we will discuss the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 192 - COMING SOON
 
 <br>
 
