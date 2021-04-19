@@ -1001,7 +1001,12 @@ In this lesson we will discuss the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 192 - COMING SOON
+## Lesson 192: Pico Hacking Course (Part 15 - Debugging double)
+In this lesson we will discuss the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 193 - COMING SOON
 
 <br>
 
