@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 17)
 pico_sdk_init()
 
 add_executable(0x06_double
-  0x06_double.c
+  0x06_double_MOD.c
 )
 
 pico_enable_stdio_usb(0x06_double 1)
