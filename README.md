@@ -1011,7 +1011,12 @@ In this lesson we will discuss hacking the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 194 - COMING SOON
+## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
+In this lesson we will discuss the concept of proper input handling.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas) to read the article on LinkedIn.
+
+## Lesson 195 - COMING SOON
 
 <br>
 
