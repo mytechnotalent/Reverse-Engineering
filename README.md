@@ -1014,9 +1014,14 @@ In this lesson we will discuss hacking the double data type.
 ## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
 In this lesson we will discuss the concept of proper input handling.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas) to read the article on LinkedIn.
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 195 - COMING SOON
+## Lesson 195: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
+In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
+
+## Lesson 196 - COMING SOON
 
 <br>
 
