@@ -1021,7 +1021,12 @@ In this lesson we will discuss the importance of proper input handling in additi
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
 
-## Lesson 196 - COMING SOON
+## Lesson 196: Pico Hacking Course (Part 19 - Input)
+In this lesson we will discuss creating an effective input architecture.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 197 - COMING SOON
 
 <br>
 
