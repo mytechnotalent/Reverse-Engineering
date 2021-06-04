@@ -1026,7 +1026,12 @@ In this lesson we will discuss creating an effective input architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 197 - COMING SOON
+## Lesson 197: Pico Hacking Course (Part 20 - Debugging Input)
+In this lesson we will discuss debugging input.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 198 - COMING SOON
 
 <br>
 
