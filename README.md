@@ -1031,8 +1031,6 @@ In this lesson we will discuss debugging input.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 198 - COMING SOON
-
 <br>
 
 ## License
