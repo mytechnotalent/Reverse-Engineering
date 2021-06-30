@@ -14,6 +14,10 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 Assembled by @0xInfection (Twitter)
 
 <br>
+## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf)
+UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+
+<br>
 
 ## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
@@ -1030,6 +1034,32 @@ In this lesson we will discuss creating an effective input architecture.
 In this lesson we will discuss debugging input.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
+
+<br>
+
+## C++ Fundamentals Course
+
+## Lesson 1: C++ Fundamentals Course (Chapter 1 - Hello World)
+In this lesson we will discuss the basics of C++ output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf) to read the FREE pdf book.
+
+## Lesson 2: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf) to read the FREE pdf book.
+
+## Lesson 3: C++ Fundamentals Course (Chapter 3 - Program Flow)
+In this lesson we will discuss the basics of program flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf) to read the FREE pdf book.
+
+## Lesson 4: C++ Fundamentals Course (Chapter 4 - Functions)
+In this lesson we will discuss functions.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf) to read the FREE pdf book.
+
+## UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
