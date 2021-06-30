@@ -14,6 +14,7 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 Assembled by @0xInfection (Twitter)
 
 <br>
+
 ## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf)
 UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
@@ -1059,7 +1060,7 @@ In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B%20(0x0004).pdf) to read the FREE pdf book.
 
-## UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+### UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
