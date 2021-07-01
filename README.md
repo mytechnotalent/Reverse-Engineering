@@ -25,6 +25,10 @@ UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
+## FREE Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
+
+<br>
+
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
