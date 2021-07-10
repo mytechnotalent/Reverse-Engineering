@@ -1064,8 +1064,13 @@ In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 5: C++ Fundamentals Course (Chapter 4 - Pointers)
+## Lesson 5: C++ Fundamentals Course (Chapter 5 - Pointers)
 In this lesson we will discuss pointers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 6: C++ Fundamentals Course (Chapter 6 - Input)
+In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
