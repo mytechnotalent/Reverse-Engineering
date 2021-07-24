@@ -10,6 +10,10 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br>
 
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
 ## COURSE PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
 
 <br>
@@ -31,10 +35,6 @@ UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 <br>
 
 ## FREE Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
-
-<br>
-
-## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
