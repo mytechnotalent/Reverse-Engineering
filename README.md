@@ -5,12 +5,12 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br> 
 
-## DC540 Tree Of Life Badge PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/uRFG0-GqBxs) ON YOUTUBE
+## DC540 Defcon Group - Tree Of Life Badge PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/uRFG0-GqBxs) ON YOUTUBE
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tree%20Of%20Life%20Badge.jpg?raw=true)
 
 <br>
 
-## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+## Join DC540 Defcon Group Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
