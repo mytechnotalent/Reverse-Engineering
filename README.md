@@ -29,8 +29,8 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br>
 
-## FREE Reverse Engineering x86, x64, 32-bit ARM & 64-bit ARM Architectures E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## FREE Reverse Engineering x86, x64, 32-bit ARM & 64-bit ARM Architectures PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+## FREE Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## FREE Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
