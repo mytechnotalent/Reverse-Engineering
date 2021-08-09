@@ -1,2 +1,1 @@
-* linguist-vendored
-*.c linguist-vendored=false
+*.c linguist-generated=true
