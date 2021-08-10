@@ -1,1 +1,2 @@
- *.* linguist-language=C
+*.c linguist-detectable=true
+*.cmake linguist-detectable=false
