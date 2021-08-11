@@ -28,7 +28,6 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
-UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
@@ -1083,7 +1082,10 @@ In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-### UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+## Lesson 7: C++ Fundamentals Course (Chapter 7 - Classes)
+In this lesson we will discuss class basics.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
 <br>
 
