@@ -5,6 +5,10 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br> 
 
+## Embedded C @ Reddit [HERE](https://www.reddit.com/r/embeddedc)
+
+<br>
+
 ## DC540 Defcon Group
 ## HACKING CHALLENGE dc540-0x00003 [C CTF]
 ## HACK NOW [HERE](https://github.com/mytechnotalent/dc540-0x00003/) ON GITHUB
