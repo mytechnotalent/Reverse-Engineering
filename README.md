@@ -3,12 +3,6 @@
 # Reverse Engineering For Everyone!
 A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
-<br> 
-
-## Embedded C @ Reddit [HERE](https://www.reddit.com/r/embeddedc)
-## Embedded C++ @ Reddit [HERE](https://www.reddit.com/r/embeddedcpp)
-## MicroPython @ Reddit [HERE](https://www.reddit.com/r/micropython)
-
 <br>
 
 ## DC540 Defcon Group
