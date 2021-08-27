@@ -7,7 +7,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 ## REDAH
 ## Reverse Engineer Developer & Hacker
-## Subeddit [HERE](https://www.reddit.com/r/REDAH/)
+## Subreddit [HERE](https://www.reddit.com/r/REDAH/)
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/REDAH.png?raw=true)
 
 <br>
