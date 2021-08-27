@@ -1,7 +1,7 @@
 ![image](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial/blob/main/Reverse%20Engineering%20Tutorial.jpg?raw=true)
 
 # Reverse Engineering For Everyone!
-A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br>
 
