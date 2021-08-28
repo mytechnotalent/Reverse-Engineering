@@ -630,219 +630,247 @@ This tutorial will discuss hacking post-decrement operator.
 
 <br>
 
+## ARM-32 Project Course
+
+## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
+ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World/) to read the project on GitHub.
+
+## Lesson 116: ARM-32 Project (Part 2 – Hacking Int)
+ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int/) to read the project on GitHub.
+
+## Lesson 117: ARM-32 Project (Part 3 – Hacking Float)
+ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float/) to read the project on GitHub.
+
+## Lesson 118: ARM-32 Project (Part 4 – Hacking Double)
+ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double/) to read the project on GitHub.
+
+## Lesson 119: ARM-32 Project (Part 5 – Hacking Char)
+ARM 32-bit Raspberry Pi Hacking Char example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x05-ARM-32-Hacking_Char/) to read the project on GitHub.
+
+## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
+ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer/) to read the project on GitHub.
+
+<br>
+
 ## x64 Course
 
-## Lesson 115: x64 Course (Part 1 – The Cyber Revolution)
+## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
 This tutorial will discuss the cyber revolution.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-1-cyber-revolution-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 116: x64 Course (Part 2 - Transistors)
+## Lesson 122: x64 Course (Part 2 - Transistors)
 This tutorial will discuss transistors.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-2-transistors-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 117: x64 Course (Part 3 - Logic Gates)
+## Lesson 123: x64 Course (Part 3 - Logic Gates)
 This tutorial will discuss logic gates.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-3-logic-gates-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 118: x64 Course (Part 4 - Number Systems)
+## Lesson 124: x64 Course (Part 4 - Number Systems)
 This tutorial will discuss number systems.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-4-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 119: x64 Course (Part 5 - Binary Addition)
+## Lesson 125: x64 Course (Part 5 - Binary Addition)
 This tutorial will discuss binary addition.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-5-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 120: x64 Course (Part 6 - Binary Subtraction)
+## Lesson 126: x64 Course (Part 6 - Binary Subtraction)
 This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-6-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 121: x64 Course (Part 7 - Word Lengths)
+## Lesson 127: x64 Course (Part 7 - Word Lengths)
 This tutorial will discuss word lengths.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-7-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 122: x64 Course (Part 8 - General Architecture)
+## Lesson 128: x64 Course (Part 8 - General Architecture)
 This tutorial will discuss the general architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-8-general-architecture-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 123: x64 Course (Part 9 - Calling Conventions)
+## Lesson 129: x64 Course (Part 9 - Calling Conventions)
 This tutorial will discuss calling conventions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-9-calling-conventions-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 124: x64 Course (Part 10 - Boolean Instructions)
+## Lesson 130: x64 Course (Part 10 - Boolean Instructions)
 This tutorial will discuss boolean instructions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-10-boolean-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 125: x64 Course (Part 11 - Pointers)
+## Lesson 131: x64 Course (Part 11 - Pointers)
 This tutorial will discuss pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-11-pointers-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 126: x64 Course (Part 12 - Load Effective Address)
+## Lesson 132: x64 Course (Part 12 - Load Effective Address)
 This tutorial will discuss load effective address.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-12-load-effective-address-thomas/) to read the article on LinkedIn.
 
-## Lesson 127: x64 Course (Part 13 - The Data Segment)
+## Lesson 133: x64 Course (Part 13 - The Data Segment)
 This tutorial will discuss the data segment.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-13-data-segment-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 128: x64 Course (Part 14 - SHL Instruction)
+## Lesson 134: x64 Course (Part 14 - SHL Instruction)
 This tutorial will discuss the shl instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-14-shl-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 129: x64 Course (Part 15 - SHR Instruction)
+## Lesson 135: x64 Course (Part 15 - SHR Instruction)
 This tutorial will discuss the shr instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-15-shr-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 130: x64 Course (Part 16 - ROL Instruction)
+## Lesson 136: x64 Course (Part 16 - ROL Instruction)
 This tutorial will discuss rol instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-16-rol-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 131: x64 Course (Part 17 - ROR Instruction)
+## Lesson 137: x64 Course (Part 17 - ROR Instruction)
 This tutorial will discuss the ror instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-17-ror-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 132: x64 Course (Part 18 - Boot Sector Basics [Part 1])
+## Lesson 138: x64 Course (Part 18 - Boot Sector Basics [Part 1])
 This tutorial will discuss boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-1-thomas/) to read the article on LinkedIn.
 
-## Lesson 133: x64 Course (Part 19 - Boot Sector Basics [Part 2])
+## Lesson 139: x64 Course (Part 19 - Boot Sector Basics [Part 2])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-2-thomas/) to read the article on LinkedIn.
 
-## Lesson 134: x64 Course (Part 20 - Boot Sector Basics [Part 3])
+## Lesson 140: x64 Course (Part 20 - Boot Sector Basics [Part 3])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-20-boot-sector-basics-3-thomas/) to read the article on LinkedIn.
 
-## Lesson 135: x64 Course (Part 21 - Boot Sector Basics [Part 4])
+## Lesson 141: x64 Course (Part 21 - Boot Sector Basics [Part 4])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-21-boot-sector-basics-4-thomas/) to read the article on LinkedIn.
 
-## Lesson 136: x64 Course (Part 22 - Boot Sector Basics [Part 5])
+## Lesson 142: x64 Course (Part 22 - Boot Sector Basics [Part 5])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-22-boot-sector-basics-5-thomas/) to read the article on LinkedIn.
 
-## Lesson 137: x64 Course (Part 23 - Boot Sector Basics [Part 6])
+## Lesson 143: x64 Course (Part 23 - Boot Sector Basics [Part 6])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-23-boot-sector-basics-6-thomas/) to read the article on LinkedIn.
 
-## Lesson 138: x64 Course (Part 24 - Boot Sector Basics [Part 7])
+## Lesson 144: x64 Course (Part 24 - Boot Sector Basics [Part 7])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-24-boot-sector-basics-7-thomas/) to read the article on LinkedIn.
 
-## Lesson 139: x64 Course (Part 25 - Boot Sector Basics [Part 8])
+## Lesson 145: x64 Course (Part 25 - Boot Sector Basics [Part 8])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-25-boot-sector-basics-8-thomas/) to read the article on LinkedIn.
 
-## Lesson 140: x64 Course (Part 26 - Boot Sector Basics [Part 9])
+## Lesson 146: x64 Course (Part 26 - Boot Sector Basics [Part 9])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-26-boot-sector-basics-9-thomas/) to read the article on LinkedIn.
 
-## Lesson 141: x64 Course (Part 27 - x64 Assembly [Part 1])
+## Lesson 147: x64 Course (Part 27 - x64 Assembly [Part 1])
 This tutorial will discuss x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-27-assembly-1-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 142: x64 Course (Part 28 - x64 Assembly [Part 2])
+## Lesson 148: x64 Course (Part 28 - x64 Assembly [Part 2])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-28-assembly-2-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 143: x64 Course (Part 29 - x64 Assembly [Part 3])
+## Lesson 149: x64 Course (Part 29 - x64 Assembly [Part 3])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-29-assembly-3-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 144: x64 Course (Part 30 - x64 Assembly [Part 4])
+## Lesson 150: x64 Course (Part 30 - x64 Assembly [Part 4])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-30-assembly-4-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 145: x64 Course (Part 31 - x64 Assembly [Part 5])
+## Lesson 151: x64 Course (Part 31 - x64 Assembly [Part 5])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-31-assembly-5-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 146: x64 Course (Part 32 - x64 Assembly [Part 6])
+## Lesson 152: x64 Course (Part 32 - x64 Assembly [Part 6])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-32-assembly-6-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 147: x64 Course (Part 33 - x64 Assembly [Part 7])
+## Lesson 153: x64 Course (Part 33 - x64 Assembly [Part 7])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-33-assembly-7-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 148: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
+## Lesson 154: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
 This tutorial will discuss c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-34-c-1-code-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 149: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
+## Lesson 155: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-35-c-1-debug-2-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 150: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
+## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-36-c-1-hacking-3-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 151: x64 Course (Part 37 - x64 C & Genesis Of Life)
+## Lesson 157: x64 Course (Part 37 - x64 C & Genesis Of Life)
 This tutorial will discuss c and how it relates to x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-37-c-genesis-life-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 152: x64 Course (Part 38 - x64 Networking Basics)
+## Lesson 158: x64 Course (Part 38 - x64 Networking Basics)
 This tutorial will discuss x64 networking basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-38-networking-basics-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 153: x64 Course (Part 39 - Why C?)
+## Lesson 159: x64 Course (Part 39 - Why C?)
 This tutorial will discuss the power of the c language.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-39-why-c-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 154: x64 Course (Part 40 - Hacking Hello World!)
+## Lesson 160: x64 Course (Part 40 - Hacking Hello World!)
 This tutorial will discuss hacking hello world.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-40-hacking-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 155: x64 Course (Part 41 - Hacking Variables!)
+## Lesson 161: x64 Course (Part 41 - Hacking Variables!)
 This tutorial will discuss hacking variables.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-41-hacking-variables-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 156: x64 Course (Part 42 - Hacking Branches!)
+## Lesson 162: x64 Course (Part 42 - Hacking Branches!)
 This tutorial will discuss hacking branches.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-42-hacking-branches-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 157: x64 Course (Part 43 - Hacking Pointers!)
+## Lesson 163: x64 Course (Part 43 - Hacking Pointers!)
 This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
@@ -851,102 +879,102 @@ This tutorial will discuss hacking pointers.
 
 ## ARM-64 Course
 
-## Lesson 158: ARM-64 Course (Part 1 - The Meaning Of Life)
+## Lesson 164: ARM-64 Course (Part 1 - The Meaning Of Life)
 In this lesson we will discuss the course concepts and the meaning of life.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-1-hacking-c-arm-64-part-meaning-life-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 159: ARM-64 Course (Part 2 - Development Setup)
+## Lesson 165: ARM-64 Course (Part 2 - Development Setup)
 In this lesson we will discuss how to set up our development in 64-bit ARM with Kali Linux.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-development-setup-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 160: ARM-64 Course (Part 3 - "Hello World")
+## Lesson 166: ARM-64 Course (Part 3 - "Hello World")
 In this lesson we will discuss how to write and compile a simple hello world program in C++.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 161: ARM-64 Course (Part 4 - Debugging "Hello World")
+## Lesson 167: ARM-64 Course (Part 4 - Debugging "Hello World")
 In this lesson we will debug our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 162: ARM-64 Course (Part 5 - Hacking "Hello World")
+## Lesson 168: ARM-64 Course (Part 5 - Hacking "Hello World")
 In this lesson we will hack our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 163: ARM-64 Course (Part 6 - Basic I/O)
+## Lesson 169: ARM-64 Course (Part 6 - Basic I/O)
 In this lesson we will discuss how to write and compile a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-6-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 164: ARM-64 Course (Part 7 - Debugging Basic I/O)
+## Lesson 170: ARM-64 Course (Part 7 - Debugging Basic I/O)
 In this lesson we will discuss how to debug a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-7-hacking-c-arm-64-part-debugging-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 165: ARM-64 Course (Part 8 - Hacking Basic I/O)
+## Lesson 171: ARM-64 Course (Part 8 - Hacking Basic I/O)
 In this lesson we will discuss how to hack a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-8-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 166: ARM-64 Course (Part 9 - Character Primitive Datatype)
+## Lesson 172: ARM-64 Course (Part 9 - Character Primitive Datatype)
 In this lesson we will discuss the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-9-hacking-c-arm-64-part-character-primitive-datatype-thomas/) to read the article on LinkedIn.
 
-## Lesson 167: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
+## Lesson 173: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
 In this lesson we will discuss debugging the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-10-hacking-c-arm-64-part-debugging-character-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 168: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
+## Lesson 174: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
 In this lesson we will discuss hacking the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-11-hacking-c-arm-64-part-character-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 169: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
+## Lesson 175: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
 In this lesson we will discuss the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-12-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 170: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
+## Lesson 176: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
 In this lesson we will discuss debugging the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-13-debugging-boolean-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 171: ARM-64 Course (Part 14 - Hacking Boolean Primitive Datatype)
+## Lesson 177: ARM-64 Course (Part 14 - Hacking Boolean Primitive Datatype)
 In this lesson we will discuss hacking the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-14-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 172: ARM-64 Course (Part 15 - Float Primitive Datatype)
+## Lesson 178: ARM-64 Course (Part 15 - Float Primitive Datatype)
 In this lesson we will discuss the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-15-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 173: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
+## Lesson 179: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
 In this lesson we will discuss debugging the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-16-debugging-float-primitive-datatype-thomas/) to read the article on LinkedIn.
 
-## Lesson 174: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
+## Lesson 180: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
 In this lesson we will discuss hacking the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-17-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 175: ARM-64 Course (Part 18 - Double Primitive Datatype)
+## Lesson 181: ARM-64 Course (Part 18 - Double Primitive Datatype)
 In this lesson we will discuss the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-18-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 176: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
+## Lesson 182: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
 In this lesson we will discuss debugging the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-19-debugging-double-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 177: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
+## Lesson 183: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
 In this lesson we will discuss hacking the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-20-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
@@ -955,102 +983,102 @@ In this lesson we will discuss hacking the double primitive datatype.
 
 ## Pico Hacking Course
 
-## Lesson 178: Pico Hacking Course (Part 1 - The Why, The How...)
+## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
 In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 179: Pico Hacking Course (Part 2 - Hello World)
+## Lesson 185: Pico Hacking Course (Part 2 - Hello World)
 In this lesson we will discuss the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-2-hello-world-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 180: Pico Hacking Course (Part 3 - Debugging Hello World)
+## Lesson 186: Pico Hacking Course (Part 3 - Debugging Hello World)
 In this lesson we will discuss debugging the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-3-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 181: Pico Hacking Course (Part 4 - Hacking Hello World)
+## Lesson 187: Pico Hacking Course (Part 4 - Hacking Hello World)
 In this lesson we will discuss hacking the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
 
-## Lesson 182: Pico Hacking Course (Part 5 - char)
+## Lesson 188: Pico Hacking Course (Part 5 - char)
 In this lesson we will discuss the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 183: Pico Hacking Course (Part 6 - Debugging char)
+## Lesson 189: Pico Hacking Course (Part 6 - Debugging char)
 In this lesson we will discuss debugging the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-6-debugging-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 184: Pico Hacking Course (Part 7 - Hacking char)
+## Lesson 190: Pico Hacking Course (Part 7 - Hacking char)
 In this lesson we will discuss hacking the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-7-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 185: Pico Hacking Course (Part 8 - int)
+## Lesson 191: Pico Hacking Course (Part 8 - int)
 In this lesson we will discuss the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-8-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 186: Pico Hacking Course (Part 9 - Debugging int)
+## Lesson 192: Pico Hacking Course (Part 9 - Debugging int)
 In this lesson we will discuss debugging the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-9-debugging-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 187: Pico Hacking Course (Part 10 - Hacking int)
+## Lesson 193: Pico Hacking Course (Part 10 - Hacking int)
 In this lesson we will discuss hacking the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-10-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 188: Pico Hacking Course (Part 11 - float)
+## Lesson 194: Pico Hacking Course (Part 11 - float)
 In this lesson we will discuss the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-11-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 189: Pico Hacking Course (Part 12 - Debugging float)
+## Lesson 195: Pico Hacking Course (Part 12 - Debugging float)
 In this lesson we will discuss debugging the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-12-debugging-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 190: Pico Hacking Course (Part 13 - Hacking float)
+## Lesson 196: Pico Hacking Course (Part 13 - Hacking float)
 In this lesson we will discuss hacking the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 191: Pico Hacking Course (Part 14 - double)
+## Lesson 197: Pico Hacking Course (Part 14 - double)
 In this lesson we will discuss the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 192: Pico Hacking Course (Part 15 - Debugging double)
+## Lesson 198: Pico Hacking Course (Part 15 - Debugging double)
 In this lesson we will discuss debugging the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 193: Pico Hacking Course (Part 16 - Hacking double)
+## Lesson 199: Pico Hacking Course (Part 16 - Hacking double)
 In this lesson we will discuss hacking the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
+## Lesson 200: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
 In this lesson we will discuss the concept of proper input handling.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 195: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
+## Lesson 201: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
 In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
 
-## Lesson 196: Pico Hacking Course (Part 19 - Input)
+## Lesson 202: Pico Hacking Course (Part 19 - Input)
 In this lesson we will discuss creating an effective input architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 197: Pico Hacking Course (Part 20 - Debugging Input)
+## Lesson 203: Pico Hacking Course (Part 20 - Debugging Input)
 In this lesson we will discuss debugging input.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
@@ -1059,37 +1087,37 @@ In this lesson we will discuss debugging input.
 
 ## C++ Fundamentals Course
 
-## Lesson 1: C++ Fundamentals Course (Chapter 1 - Hello World)
+## Lesson 204: C++ Fundamentals Course (Chapter 1 - Hello World)
 In this lesson we will discuss the basics of C++ output.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 2: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+## Lesson 205: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
 In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 3: C++ Fundamentals Course (Chapter 3 - Program Flow)
+## Lesson 206: C++ Fundamentals Course (Chapter 3 - Program Flow)
 In this lesson we will discuss the basics of program flow.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 4: C++ Fundamentals Course (Chapter 4 - Functions)
+## Lesson 207: C++ Fundamentals Course (Chapter 4 - Functions)
 In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 5: C++ Fundamentals Course (Chapter 5 - Pointers)
+## Lesson 208: C++ Fundamentals Course (Chapter 5 - Pointers)
 In this lesson we will discuss pointers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 6: C++ Fundamentals Course (Chapter 6 - Input)
+## Lesson 209: C++ Fundamentals Course (Chapter 6 - Input)
 In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 7: C++ Fundamentals Course (Chapter 7 - Classes)
+## Lesson 210: C++ Fundamentals Course (Chapter 7 - Classes)
 In this lesson we will discuss class basics.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
