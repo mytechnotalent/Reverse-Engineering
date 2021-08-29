@@ -1124,5 +1124,16 @@ In this lesson we will discuss class basics.
 
 <br>
 
+## MicroPython Firmwware Development Course
+
+## Lesson 211: MicroPython Firmwware Development Course (Chapter 1 - Building Micropython)
+This chapter covers how to build a MicroPython development environment.
+
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_1r1.pdf) to read the FREE pdf book.
+
+## Lesson 212 COMING SOON!
+
+<br>
+
 ## License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
