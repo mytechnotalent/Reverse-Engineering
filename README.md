@@ -38,6 +38,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## FREE MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_1r1.pdf)
+UNDER DEVELOPMENT
+
+<br>
+
 ## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 ## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
@@ -1124,9 +1129,9 @@ In this lesson we will discuss class basics.
 
 <br>
 
-## MicroPython Firmwware Development Course
+## MicroPython Firmware Development Course
 
-## Lesson 211: MicroPython Firmwware Development Course (Chapter 1 - Building Micropython)
+## Lesson 211: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
 -> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_1r1.pdf) to read the FREE pdf book.
