@@ -38,7 +38,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## FREE MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_1r1.pdf)
+## FREE MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf)
 UNDER DEVELOPMENT
 
 <br>
