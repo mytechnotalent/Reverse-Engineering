@@ -1135,9 +1135,14 @@ In this lesson we will discuss class basics.
 ## Lesson 211: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_1r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf) to read the FREE pdf book.
 
-## Lesson 212 COMING SOON!
+## Lesson 212: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
+This chapter covers how to handle basic input and output in MicroPython.
+
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf) to read the FREE pdf book.
+
+## Lesson 213 COMING SOON!
 
 <br>
 
