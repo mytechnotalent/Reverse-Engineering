@@ -5,13 +5,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## REDAH
-## Reverse Engineer Developer & Hacker
-## Subreddit [HERE](https://www.reddit.com/r/REDAH/)
-![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/REDAH.png?raw=true)
-
-<br>
-
 ## DC540 Defcon Group
 ## HACKING CHALLENGE dc540-0x00004 [C CTF]
 ## HACK NOW [HERE](https://github.com/mytechnotalent/dc540-0x00004/) ON GITHUB
