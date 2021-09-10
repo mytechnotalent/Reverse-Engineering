@@ -1,0 +1,41 @@
+// File: STM32F401xBCDE_411xCE.dbgconf
+// Version: 1.0.0
+// Note: refer to STM32F401xB/C STM32F401xD/E reference manual (RM0368)
+//       refer to STM32F401xB/C STM32F401xD/E datasheet
+//       refer to STM32F411xC/E               reference manual (RM0383)
+//       refer to STM32F411xC/E               datasheet
+
+// <<< Use Configuration Wizard in Context Menu >>>
+
+// <h> Debug MCU configuration register (DBGMCU_CR)
+//   <o.2>  DBG_STANDBY              <i> Debug Standby Mode
+//   <o.1>  DBG_STOP                 <i> Debug Stop Mode
+//   <o.0>  DBG_SLEEP                <i> Debug Sleep Mode
+// </h>
+DbgMCU_CR = 0x00000007;
+
+// <h> Debug MCU APB1 freeze register (DBGMCU_APB1_FZ)
+//                                   <i> Reserved bits must be kept at reset value
+//   <o.23> DBG_I2C3_SMBUS_TIMEOUT   <i> I2C3 SMBUS timeout mode stopped when core is halted
+//   <o.22> DBG_I2C2_SMBUS_TIMEOUT   <i> I2C2 SMBUS timeout mode stopped when core is halted
+//   <o.21> DBG_I2C1_SMBUS_TIMEOUT   <i> I2C1 SMBUS timeout mode stopped when core is halted
+//   <o.12> DBG_IWDG_STOP            <i> Independent watchdog stopped when core is halted
+//   <o.11> DBG_WWDG_STOP            <i> Window watchdog stopped when core is halted
+//   <o.10> DBG_RTC_STOP             <i> RTC stopped when core is halted
+//   <o.3>  DBG_TIM5_STOP            <i> TIM5 counter stopped when core is halted
+//   <o.2>  DBG_TIM4_STOP            <i> TIM4 counter stopped when core is halted
+//   <o.1>  DBG_TIM3_STOP            <i> TIM3 counter stopped when core is halted
+//   <o.0>  DBG_TIM2_STOP            <i> TIM2 counter stopped when core is halted
+// </h>
+DbgMCU_APB1_Fz = 0x00000000;
+
+// <h> Debug MCU APB2 freeze register (DBGMCU_APB2_FZ)
+//                                   <i> Reserved bits must be kept at reset value
+//   <o.18> DBG_TIM11_STOP           <i> TIM11 counter stopped when core is halted
+//   <o.17> DBG_TIM10_STOP           <i> TIM10 counter stopped when core is halted
+//   <o.16> DBG_TIM9_STOP            <i> TIM9 counter stopped when core is halted
+//   <o.0>  DBG_TIM1_STOP            <i> TIM1 counter stopped when core is halted
+// </h>
+DbgMCU_APB2_Fz = 0x00000000;
+
+// <<< end of configuration section >>>
