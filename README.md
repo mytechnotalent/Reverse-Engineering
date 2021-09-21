@@ -31,7 +31,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf)
+## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf)
 UNDER DEVELOPMENT
 
 <br>
@@ -1132,14 +1132,19 @@ In this lesson we will discuss class basics.
 ## Lesson 211: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
 
 ## Lesson 212: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
 This chapter covers how to handle basic input and output in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_2r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
 
-## Lesson 213 COMING SOON!
+## Lesson 213: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
+This chapter covers how to handle datatypes and numbers t in MicroPython.
+
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
+
+## Lesson 214 COMING SOON!
 
 <br>
 
