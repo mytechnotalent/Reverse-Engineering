@@ -31,6 +31,8 @@ Assembled by @0xInfection (Twitter)
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Hacking%20Windows.png?raw=true)
 UNDER DEVELOPMENT
 
+<br>
+
 ## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
@@ -1092,19 +1094,30 @@ In this lesson we will discuss debugging input.
 
 <br>
 
+## Windows Hacking Course
+
+## Lesson 204: Windows Hacking Course (Chapter 1 - Hello World)
+This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf) to read the FREE pdf book.
+
+## BOOK IS UNDER DEVELOPMENT
+
+<br>
+
 ## C++ Fundamentals Course
 
-## Lesson 204: C++ Fundamentals Course (Chapter 1 - Hello World)
+## Lesson 205: C++ Fundamentals Course (Chapter 1 - Hello World)
 In this lesson we will discuss the basics of C++ output.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 205: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+## Lesson 206: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
 In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 206: C++ Fundamentals Course (Chapter 3 - Program Flow)
+## Lesson 207: C++ Fundamentals Course (Chapter 3 - Program Flow)
 In this lesson we will discuss the basics of program flow.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
