@@ -27,6 +27,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf)
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Hacking%20Windows.png?raw=true)
+UNDER DEVELOPMENT
+
 ## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
