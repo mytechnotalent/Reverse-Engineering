@@ -1122,22 +1122,22 @@ In this lesson we will discuss the basics of program flow.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 207: C++ Fundamentals Course (Chapter 4 - Functions)
+## Lesson 208: C++ Fundamentals Course (Chapter 4 - Functions)
 In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 208: C++ Fundamentals Course (Chapter 5 - Pointers)
+## Lesson 209: C++ Fundamentals Course (Chapter 5 - Pointers)
 In this lesson we will discuss pointers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 209: C++ Fundamentals Course (Chapter 6 - Input)
+## Lesson 210: C++ Fundamentals Course (Chapter 6 - Input)
 In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 210: C++ Fundamentals Course (Chapter 7 - Classes)
+## Lesson 211: C++ Fundamentals Course (Chapter 7 - Classes)
 In this lesson we will discuss class basics.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
@@ -1146,22 +1146,27 @@ In this lesson we will discuss class basics.
 
 ## MicroPython Firmware Development Course
 
-## Lesson 211: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
+## Lesson 212: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 212: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
+## Lesson 213: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
 This chapter covers how to handle basic input and output in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 213: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
+## Lesson 214: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
 This chapter covers how to handle datatypes and numbers t in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 214 COMING SOON!
+## Lesson 215: MicroPython Firmware Development Course (Chapter 4: Conditional Logic)
+This chapter covers conditional logic and application flow chart design in MicroPython.
+
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
+
+## BOOK IS UNDER DEVELOPMENT
 
 <br>
 
