@@ -49,7 +49,7 @@ UNDER DEVELOPMENT
 
 <br>
 
-## Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
+## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
 
 <br>
 
