@@ -33,6 +33,10 @@ UNDER DEVELOPMENT
 
 <br>
 
+## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
+
+<br>
+
 ## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
