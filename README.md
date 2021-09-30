@@ -1114,39 +1114,93 @@ This chapter covers the dynamic reverse engineering analysis, debugging, of the 
 
 <br>
 
+## Zeek Network Security Monitor Course
+
+## Lesson 205: Zeek Network Security Monitor Course (Lesson 1: Setup)
+In this lesson we set up a basic Ubuntu computer connected directly to an inexpensive tap which connects to your home router. I have provided products you can purchase if you do not have existing parts however please feel free to use any network tap of your choosing and/or any additional Ethernet adapters or cables of your choosing.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8) to read the article on Medium.
+
+## Lesson 206: Zeek Network Security Monitor Course (Lesson 2: alert-all-notices.zeek)
+In this lesson we create an alert by logging all notices that Zeek deems worthy of your attention to the notice.log file in addition to sending you an email.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-2-alert-all-notices-zeek-5591357f6f21) to read the article on Medium.
+
+## Lesson 207: Zeek Network Security Monitor Course (Lesson 3: conn.log)
+In this lesson we will show the source IP addresses and ports and their destination IP addresses and ports.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-3-conn-log-c104ad5570bd) to read the article on Medium.
+
+## Lesson 208: Zeek Network Security Monitor Course (Lesson 4: conn.log - 2)
+In this lesson we will show the source IP addresses that generated the most network traffic, organized in descending order.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-4-conn-log-2-723b4d344504) to read the article on Medium.
+
+## Lesson 209: Zeek Network Security Monitor Course (Lesson 5: conn.log - 3)
+In this lesson we will show the destination ports that received the most network traffic, organized in descending order.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-5-conn-log-3-5e6ff976a9b5) to read the article on Medium.
+
+## Lesson 210: Zeek Network Security Monitor Course (Lesson 6: conn.log - 4)
+In this lesson we will show the number of connections per protocol service.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-6-conn-log-4-d5d62610cc02) to read the article on Medium.
+
+## Lesson 211: Zeek Network Security Monitor Course (Lesson 7: conn.log - 5)
+In this lesson we will show the distinct browsers used by the hosts.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-7-conn-log-5-99d5bc7e711f) to read the article on Medium.
+
+## Lesson 212: Zeek Network Security Monitor Course (Lesson 8: conn.log - 6)
+In this lesson we will show the source and destination IP addresses of all UDP and TCP connections that lasted more than 90 seconds.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-8-conn-log-6-c19c7374483c) to read the article on Medium.
+
+## Lesson 213: Zeek Network Security Monitor Course (Lesson 9: conn.log - 7)
+In this lesson we will show whether there any web servers operating on non-standardized ports.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-9-conn-log-7-eaea25b86ead) to read the article on Medium.
+
+## Lesson 214: Zeek Network Security Monitor Course (Lesson 10: conn.log - 8)
+In this lesson we will show the state history of connections as a string of letters.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
+
+<br>
+
 ## C++ Fundamentals Course
 
-## Lesson 205: C++ Fundamentals Course (Chapter 1 - Hello World)
+## Lesson 215: C++ Fundamentals Course (Chapter 1 - Hello World)
 In this lesson we will discuss the basics of C++ output.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 206: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+## Lesson 216: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
 In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 207: C++ Fundamentals Course (Chapter 3 - Program Flow)
+## Lesson 217: C++ Fundamentals Course (Chapter 3 - Program Flow)
 In this lesson we will discuss the basics of program flow.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 208: C++ Fundamentals Course (Chapter 4 - Functions)
+## Lesson 218: C++ Fundamentals Course (Chapter 4 - Functions)
 In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 209: C++ Fundamentals Course (Chapter 5 - Pointers)
+## Lesson 219: C++ Fundamentals Course (Chapter 5 - Pointers)
 In this lesson we will discuss pointers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 210: C++ Fundamentals Course (Chapter 6 - Input)
+## Lesson 220: C++ Fundamentals Course (Chapter 6 - Input)
 In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## Lesson 211: C++ Fundamentals Course (Chapter 7 - Classes)
+## Lesson 221: C++ Fundamentals Course (Chapter 7 - Classes)
 In this lesson we will discuss class basics.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
@@ -1155,22 +1209,22 @@ In this lesson we will discuss class basics.
 
 ## MicroPython Firmware Development Course
 
-## Lesson 212: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
+## Lesson 222: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
 -> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 213: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
+## Lesson 223: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
 This chapter covers how to handle basic input and output in MicroPython.
 
 -> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 214: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
+## Lesson 224: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
 This chapter covers how to handle datatypes and numbers t in MicroPython.
 
 -> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
 
-## Lesson 215: MicroPython Firmware Development Course (Chapter 4: Conditional Logic)
+## Lesson 225: MicroPython Firmware Development Course (Chapter 4: Conditional Logic)
 This chapter covers conditional logic and application flow chart design in MicroPython.
 
 -> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
