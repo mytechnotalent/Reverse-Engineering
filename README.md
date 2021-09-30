@@ -27,7 +27,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf)
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_2r1.pdf)
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Hacking%20Windows.png?raw=true)
 UNDER DEVELOPMENT
 
@@ -1103,7 +1103,12 @@ In this lesson we will discuss debugging input.
 ## Lesson 204: Windows Hacking Course (Chapter 1 - Hello World)
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_1r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_2r1.pdf) to read the FREE pdf book.
+
+## Lesson 205: Windows Hacking Course (Chapter 2: Debugging Hello World x86)
+This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_2r1.pdf) to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
 
