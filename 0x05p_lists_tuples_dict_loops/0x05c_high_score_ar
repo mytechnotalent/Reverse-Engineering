@@ -1,0 +1,20 @@
+High Score Application Requirements
+-----------------------------------
+1. Define the purpose of the application.
+   a. Create a High Score application where you enter in a list of scores and use
+      a for loop to find the highest score
+2. Define the logical steps of the application.
+   a. Create a str scores variable and input getting a list of numbers 
+      separated by a space and when the user presses enter it will
+      split each number based on the space into a scores list.
+   b. Cast the entire list from a str list into an int list using a for 
+      loop.
+   c. Print the new int list.
+   d. Create a highest_score variable and init to 0.
+   e. Create a for loop where we iterate over each score and create a
+      conditional to check if each score is greater than the hightest
+      score and if it is then take that score value and assign it
+      to the highest_score variable and keep iterating.  If we find
+      another score that is bigger than the highest_score than 
+      assign that new score to highest_score.
+   f. Print highest_score var.

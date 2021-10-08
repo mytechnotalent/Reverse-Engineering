@@ -1,0 +1,22 @@
+Rock Paper Scissors Application Requirements
+--------------------------------------------
+1. Define the purpose of the application.
+   a. Create a game where a computer randomly chooses a number between
+      0 and two and we choose a selection of either rock, paper or
+      scissors.  Based on the rules either the computer or the player
+      will win.
+2. Define the rules of the application.
+   a. Rock wins against scissors.
+   b. Scissors wins against paper.
+   c. Paper wins against rock.
+3. Define the logical steps of the application.
+   a. Create a game_choices list and populate it with the 3 str choices. 
+   b. Create a random number between 0 and 2 and assign that into a 
+      computer_choice variable.
+   c. Create player_choice variable and get an input from the player
+      and cast to an int with a brief message.
+   d. Create conditional logic to cast the int values into strings
+      for both the computer and player.
+   e. Display computer choice and player choice.
+   f. Create conditional logic to select a winner based on rules
+      and print winner.

@@ -1,0 +1,11 @@
+Journal Application Requirements
+--------------------------------
+1. Define the purpose of the application.
+   a. Create a Journal application where we have a starting dictionary of
+      entries and create the ability to add new ones.
+2. Define the logical steps of the application.
+   a. Create a journal dictionary and populate it with some starting values.
+   b. Create a new empty dictionary called new_journal_entry.
+   c. Create a new entry and date in the new_journal_entry.
+   d. Append the new_journal_entry dictionary into the journal dictionary.
+   e. Print the new results of the appended journal dictionary.
