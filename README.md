@@ -41,7 +41,7 @@ UNDER DEVELOPMENT
 
 <br>
 
-## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_3r1.pdf)
+## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf)
 UNDER DEVELOPMENT
 
 <br>
@@ -1217,22 +1217,27 @@ In this lesson we will discuss class basics.
 ## Lesson 223: MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
 This chapter covers how to build a MicroPython development environment.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
 
 ## Lesson 224: MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
 This chapter covers how to handle basic input and output in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
 
 ## Lesson 225: MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
 This chapter covers how to handle datatypes and numbers t in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
 
 ## Lesson 226: MicroPython Firmware Development Course (Chapter 4: Conditional Logic)
 This chapter covers conditional logic and application flow chart design in MicroPython.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_4r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
+
+## Lesson 227: MicroPython Firmware Development Course (Chapter 5: Lists, Tuples, Dictionaries & Loops)
+This chapter covers lists, tuples, dictionaries and loops in MicroPython.
+
+-> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
 
