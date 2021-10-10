@@ -1,5 +1,5 @@
 extrn MessageBoxA: proc
-extrn ExitProcess: proc
+extrn PostQuitMessage: proc
 
 .data
 	msg_txt	    db 'Hello World', 0
@@ -7,18 +7,18 @@ extrn ExitProcess: proc
 
 .code
 	main proc
-		sub	rsp, 20h			;shadow stack
+		sub	rsp, 20h				;shadow stack
 
-		mov	r9, rax				;UINT uType
+		mov	r9, rax					;UINT uType
 		lea	r8, msg_caption			;LPCSTR	lpCaption
 		lea	rdx, msg_txt			;LPCSTR	lpText
-		xor	rcx, rcx			;HWND hWnd
-		call	MessageBoxA			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
+		xor	rcx, rcx				;HWND hWnd
+		call MessageBoxA			;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-messageboxa
 		
 		add rsp, 20h				;restore shadow stack
 
-		mov rcx, rax				;UNIT uExitCode
-		call ExitProcess			;https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-exitprocess
+		xor	rcx, rcx				;int nExitCode
+		call PostQuitMessage		;https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-postquitmessage
 
 		ret
 	main endp
