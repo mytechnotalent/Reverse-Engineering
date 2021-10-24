@@ -1,2 +1,2 @@
-*.c linguist-detectable=true
+*.s linguist-detectable=true
 *.cmake linguist-detectable=false
