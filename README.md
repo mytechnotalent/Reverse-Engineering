@@ -27,6 +27,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/AArch64%20Bytes.jpg?raw=true)
+UNDER DEVELOPMENT
+
+<br>
+
 ## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf)
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Hacking%20Windows.png?raw=true)
 UNDER DEVELOPMENT
