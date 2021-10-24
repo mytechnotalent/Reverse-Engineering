@@ -1,1 +1,1 @@
-*.ASM linguist-language=Assembly
+*.S linguist-language=Assembly
