@@ -16,6 +16,13 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
+## HACKING CHALLENGE dc540-0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+
+<br>
+
 ## COURSE PROMOTIONAL VIDEO
 ### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
 
@@ -47,13 +54,6 @@ UNDER DEVELOPMENT
 
 ## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf)
 UNDER DEVELOPMENT
-
-<br>
-
-## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
-## HACKING CHALLENGE dc540-0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
 
 <br>
 
