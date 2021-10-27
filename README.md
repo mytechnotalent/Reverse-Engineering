@@ -65,6 +65,19 @@ UNDER DEVELOPMENT
 
 <br>
 
+## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
+
+<br>
+
+## Ansible For Everyone PDF [HERE]()
+
+<br>
+
+## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
+
+<br>
+
+
 ## x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
