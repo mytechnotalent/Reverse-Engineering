@@ -34,6 +34,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
 ## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
 UNDER DEVELOPMENT
 
