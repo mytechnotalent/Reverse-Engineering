@@ -1126,6 +1126,12 @@ In this bite we learn about what happens at the very core of a 32-bit AArch64 in
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-1-reversing-exit-f7e4775d5e14) to read the article on Medium.
 
+## AArch64 Bytes Articles (Part 2: 64-bit Immediate Values)
+In this bite we learn about how to handle moving a 64-bit immediate value into a 64-bit register.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-2-64-bit-immediate-values-d9daa5256d76) to read the article on Medium.
+
+
 ## ARTICLES ARE UNDER DEVELOPMENT
 
 <br>
