@@ -1,2 +1,1 @@
-*.s linguist-language=Assembly
-*.c linguist-detectable=false
+*.c linguist-language=C
