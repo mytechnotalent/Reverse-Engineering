@@ -1,2 +1,0 @@
-*.asm linguist-language=Assembly
-*.c linguist-vendored=false
