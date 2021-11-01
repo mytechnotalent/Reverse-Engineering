@@ -1,1 +1,2 @@
-*.c linguist-language=C
+*.s linguist-language=Assembly
+*.c linguist-vendored=false
