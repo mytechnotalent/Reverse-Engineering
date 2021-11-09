@@ -1,2 +1,1 @@
-*.asm linguist-language=Assembly
-*.c
+*.c linguist-detectable=false
