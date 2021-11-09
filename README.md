@@ -73,14 +73,18 @@ UNDER DEVELOPMENT
 
 <br>
 
+## MicroEnigma [HERE](https://github.com/mytechnotalent/MicroPython-micro-bit-MicroEnigma)
+
+<br>
+
 ## Ansible For Everyone PDF [HERE]()
+UNDER DEVELOPMENT
 
 <br>
 
 ## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
 
 <br>
-
 
 ## x86 Course
 
