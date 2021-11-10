@@ -10,6 +10,19 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+
+## DC540 hacking challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
+## DC540 hacking challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
+## DC540 hacking challenge 0x00002 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002) ON GITHUB
+## DC540 hacking challenge 0x00001 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
+
+<br>
+
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
