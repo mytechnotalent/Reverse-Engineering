@@ -5,11 +5,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## COURSE PROMOTIONAL VIDEO
-### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
-
-<br>
-
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
@@ -20,6 +15,11 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002) ON GITHUB
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
+
+<br>
+
+## COURSE PROMOTIONAL VIDEO
+### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
 
 <br>
 
