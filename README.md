@@ -68,10 +68,6 @@ UNDER DEVELOPMENT
 
 <br>
 
-## MicroEnigma [HERE](https://github.com/mytechnotalent/MicroPython-micro-bit-MicroEnigma)
-
-<br>
-
 ## Ansible For Everyone PDF [HERE]()
 UNDER DEVELOPMENT
 
