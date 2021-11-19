@@ -1127,6 +1127,10 @@ In this bite we learn about how to handle moving a 64-bit immediate value into a
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-2-64-bit-immediate-values-d9daa5256d76) to read the article on Medium.
 
+## AArch64 Bytes Articles (Part 3: Yet Another Upper)
+In this bite we learn how to create a simple parsing algorithm to convert a string's lowercase chars to uppercase, timeless Assembler example.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
 
 ## ARTICLES ARE UNDER DEVELOPMENT
 
