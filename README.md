@@ -30,7 +30,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Go With The Flow [HERE](https://github.com/mytechnotalent/Go-With-The-Flow)
+## Go With The Flow: Learning Flow DApp & Cadence Smart Contract Development from zero to hero! [HERE](https://github.com/mytechnotalent/Go-With-The-Flow)
 
 <br>
 
