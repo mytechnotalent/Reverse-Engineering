@@ -30,7 +30,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Flow (Cadence Programming Language) Blockchain [HERE](https://github.com/mytechnotalent/Learn-Flow-Cadence)
+## Go With The Flow [HERE](https://github.com/mytechnotalent/Go-With-The-Flow)
 
 <br>
 
