@@ -48,6 +48,10 @@ UNDER DEVELOPMENT
 
 <br>
 
+## STEM Reversing Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
+
+<br>
+
 ## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
