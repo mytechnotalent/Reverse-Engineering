@@ -16,7 +16,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
 ## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a) ON GITHUB
-## DC540 Hacking Challenge 0x00005b [HERE](https://github.com/mytechnotalent/dc540-0x00005b) ON GITHUB
+## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b) ON GITHUB
 
 <br>
 
