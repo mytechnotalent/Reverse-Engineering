@@ -53,7 +53,7 @@ UNDER DEVELOPMENT
 
 <br>
 
-## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
+## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
 
@@ -1190,6 +1190,11 @@ This chapter covers dynamic reverse engineering analysis, debugging, the Windows
 
 ## Windows Hacking Course (Chapter 10: Hacking Directories x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Windows Hacking Course (Chapter 11: CopyFile)
+This chapter covers reviewing the Windows API CopyFileW function in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
