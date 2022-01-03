@@ -36,7 +36,7 @@ UNDER DEVELOPMENT
 
 <br>
 
-## STEM Reversing Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
+## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
 
 <br>
 
