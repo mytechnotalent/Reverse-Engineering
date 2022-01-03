@@ -31,15 +31,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
-
-<br>
-
-## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
-UNDER DEVELOPMENT
-
-<br>
-
 ## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
 UNDER DEVELOPMENT
 
@@ -49,11 +40,20 @@ UNDER DEVELOPMENT
 
 <br>
 
-## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
+## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
 
-## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
+## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
+
+<br>
+
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
+## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
+UNDER DEVELOPMENT
 
 <br>
 
@@ -61,11 +61,11 @@ UNDER DEVELOPMENT
 
 <br>
 
-## STM32F401CCUx_PA0ButtonHandler Driver (Assembly Language) [HERE](https://github.com/mytechnotalent/STM32F401CCUx_PA0ButtonHandler)
+## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
 
-## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
+## STM32F401CCUx_PA0ButtonHandler Driver (Assembly Language) [HERE](https://github.com/mytechnotalent/STM32F401CCUx_PA0ButtonHandler)
 
 <br>
 
