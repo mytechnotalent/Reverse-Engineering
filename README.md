@@ -57,11 +57,6 @@ UNDER DEVELOPMENT
 
 <br>
 
-## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf)
-UNDER DEVELOPMENT
-
-<br>
-
 ## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
 
 <br>
@@ -71,15 +66,6 @@ UNDER DEVELOPMENT
 <br>
 
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
-
-<br>
-
-## Ansible For Everyone PDF [HERE]()
-UNDER DEVELOPMENT
-
-<br>
-
-## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
 
 <br>
 
