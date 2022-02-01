@@ -63,7 +63,6 @@ UNDER DEVELOPMENT
 <br>
 
 ## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
-UNDER DEVELOPMENT
 
 <br>
 
