@@ -31,7 +31,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Reversing Go Tweets (temporary before I write a book on it but nonetheless will get you started...)
+## Reversing Go Tweets (pre-book)
 ### Reversing Go Tip 0x0001 [HERE](https://twitter.com/mytechnotalent/status/1489705426849570821)
 ### Reversing Go Tip 0x0002 [HERE](https://twitter.com/mytechnotalent/status/1490412490618019842)
 
