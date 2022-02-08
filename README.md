@@ -35,6 +35,14 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
+
+<br>
+
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
 ## Reversing Go Tweets (pre-book)
 ### Reversing Go Tip 0x0001 [HERE](https://twitter.com/mytechnotalent/status/1489705426849570821)
 ### Reversing Go Tip 0x0002 [HERE](https://twitter.com/mytechnotalent/status/1490412490618019842)
@@ -67,22 +75,6 @@ UNDER DEVELOPMENT
 <br>
 
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
-
-<br>
-
-## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
-
-<br>
-
-## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
-
-<br>
-
-## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
-
-<br>
-
-## STM32F401CCUx_PA0ButtonHandler Driver (Assembly Language) [HERE](https://github.com/mytechnotalent/STM32F401CCUx_PA0ButtonHandler)
 
 <br>
 
@@ -1139,6 +1131,15 @@ In this bite we learn about how to handle moving a 64-bit immediate value into a
 In this bite we learn how to create a simple parsing algorithm to convert a string's lowercase chars to uppercase, timeless Assembler example.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
+
+<br>
+
+## ToyOS 
+
+## ToyOS Operating System
+ToyOS is a simple x86 OS that only accepts numeric values into the input stream and returns them to a standard out console.
+
+-> Click [HERE](https://github.com/mytechnotalent/ToyOS)
 
 <br>
 
