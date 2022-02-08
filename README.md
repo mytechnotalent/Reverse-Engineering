@@ -31,6 +31,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
+
+<br>
+
 ## Reversing Go Tweets (pre-book)
 ### Reversing Go Tip 0x0001 [HERE](https://twitter.com/mytechnotalent/status/1489705426849570821)
 ### Reversing Go Tip 0x0002 [HERE](https://twitter.com/mytechnotalent/status/1490412490618019842)
@@ -44,7 +48,7 @@ UNDER DEVELOPMENT
 
 <br>
 
-## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
+## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
 
@@ -75,10 +79,6 @@ UNDER DEVELOPMENT
 <br>
 
 ## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
-
-<br>
-
-## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
 
