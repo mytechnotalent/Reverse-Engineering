@@ -43,14 +43,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Reversing Go Tweets (pre-book)
-### Reversing Go Tip 0x0001 [HERE](https://twitter.com/mytechnotalent/status/1489705426849570821)
-### Reversing Go Tip 0x0002 [HERE](https://twitter.com/mytechnotalent/status/1490412490618019842)
-### Reversing Go Tip 0x0003 [HERE](https://twitter.com/mytechnotalent/status/1490778932496539649)
-### Reversing Go Tip 0x0004 [HERE](https://twitter.com/mytechnotalent/status/1490989207384633344)
-
-<br>
-
 ## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
 UNDER DEVELOPMENT
 
@@ -1309,8 +1301,8 @@ In this lesson we will discuss class basics.
 
 ## Fundamental Go Course
 
-## Fundamental Go Course (Chapter 1 - Basic I/O)
-This lesson will discuss Go basic input and output.
+## Fundamental Go Course (Chapter 1 - "Hello World")
+This lesson will discuss the timeless classic of, "Hello World", and how stings work in Go.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
