@@ -35,6 +35,7 @@ Assembled by @0xInfection (Twitter)
 ### Reversing Go Tip 0x0001 [HERE](https://twitter.com/mytechnotalent/status/1489705426849570821)
 ### Reversing Go Tip 0x0002 [HERE](https://twitter.com/mytechnotalent/status/1490412490618019842)
 ### Reversing Go Tip 0x0003 [HERE](https://twitter.com/mytechnotalent/status/1490778932496539649)
+### Reversing Go Tip 0x0004 [HERE](https://twitter.com/mytechnotalent/status/1490989207384633344)
 
 <br>
 
@@ -52,7 +53,7 @@ UNDER DEVELOPMENT
 <br>
 
 ## Fundamental Go PDF [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf)
-COMING SOON
+UNDER DEVELOPMENT
 
 <br>
 
@@ -1268,42 +1269,51 @@ In this lesson we will show the state history of connections as a string of lett
 
 <br>
 
-## C++ Fundamentals Course
+## Fundamental C++ Course
 
-## C++ Fundamentals Course (Chapter 1 - Hello World)
+## Fundamental C++ Course (Chapter 1 - Hello World)
 In this lesson we will discuss the basics of C++ output.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+## Fundamental C++ Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
 In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 3 - Program Flow)
+## Fundamental C++ Course (Chapter 3 - Program Flow)
 In this lesson we will discuss the basics of program flow.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 4 - Functions)
+## Fundamental C++ Course (Chapter 4 - Functions)
 In this lesson we will discuss functions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 5 - Pointers)
+## Fundamental C++ Course (Chapter 5 - Pointers)
 In this lesson we will discuss pointers.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 6 - Input)
+## Fundamental C++ Course (Chapter 6 - Input)
 In this lesson we will discuss proper input validation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 7 - Classes)
+## Fundamental C++ Course (Chapter 7 - Classes)
 In this lesson we will discuss class basics.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+<br>
+
+## Fundamental Go Course
+
+## Go Fundamentals Course (Chapter 1 - Basic I/O)
+This tutorial will discuss Go basic input and output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
 <br>
 
