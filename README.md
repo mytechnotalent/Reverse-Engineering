@@ -1306,6 +1306,11 @@ This lesson will discuss the timeless classic of, "Hello World", and how strings
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
+## Fundamental Go Course (Chapter 2 - Debugging "Hello World")
+This lesson will discuss debugging the timeless classic of, "Hello World", and how strings work in Go.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
