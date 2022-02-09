@@ -1302,7 +1302,7 @@ In this lesson we will discuss class basics.
 ## Fundamental Go Course
 
 ## Fundamental Go Course (Chapter 1 - "Hello World")
-This lesson will discuss the timeless classic of, "Hello World", and how stings work in Go.
+This lesson will discuss the timeless classic of, "Hello World", and how strings work in Go.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
