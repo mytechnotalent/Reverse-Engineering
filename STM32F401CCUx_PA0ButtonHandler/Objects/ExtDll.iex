@@ -1,2 +1,0 @@
-[EXTDLL]
-Count=0
