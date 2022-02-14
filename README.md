@@ -1273,6 +1273,11 @@ This lesson will discuss hacking the timeless classic of, "Hello World", and how
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
+## Fundamental Go Course (Chapter 4: Post-Analysis "Hello World)"
+This lesson will discuss a completely post-analysis on the timeless classic of, "Hello World", and a deep-dive look into the Go code reverse engineering.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
