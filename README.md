@@ -9,6 +9,10 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+
+<br>
+
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
