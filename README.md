@@ -11,7 +11,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 ## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 
-<br>
+<br><br>
 
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
