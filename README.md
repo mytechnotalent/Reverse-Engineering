@@ -1297,6 +1297,11 @@ This lesson will discuss a simple C swap by reference program where we create va
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
+## Fundamental Go Course (Chapter 8: Debugging C Pass By Reference)
+This lesson will discuss debugging a simple C swap by reference program where we create values in main, swap them in a function and check their values as they return.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
