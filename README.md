@@ -9,6 +9,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## traffic-generator [HERE](https://github.com/mytechnotalent/traffic-generator)
 ## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 
 <br><br>
