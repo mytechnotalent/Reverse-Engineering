@@ -1203,6 +1203,11 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+## Hacking Windows Course (Chapter 14: Debugging CopyFile x64)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
