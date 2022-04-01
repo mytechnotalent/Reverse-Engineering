@@ -1,1 +1,1 @@
-*.s linguist-detectable=true
+*.asm linguist-detectable=true
