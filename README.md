@@ -57,16 +57,6 @@ UNDER DEVELOPMENT
 
 <br>
 
-## Fundamental Go PDF [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf)
-UNDER DEVELOPMENT
-
-<br>
-
-## Fundamental Python PDF [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf)
-UNDER DEVELOPMENT
-
-<br>
-
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
 
 <br>
