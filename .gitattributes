@@ -1,1 +1,1 @@
-*.c linguist-detectable=true
+*.asm linguist-detectable=false
