@@ -1208,6 +1208,9 @@ This chapter covers reviewing the Windows API MoveFileW function in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+## Hacking Windows Course (Chapter 17: Debugging MoveFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x86 Assembly.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
