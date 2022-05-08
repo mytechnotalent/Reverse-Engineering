@@ -48,6 +48,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## TOR Everything [HERE](https://github.com/mytechnotalent/TOR-Everything)
+
+<br>
+
 ## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
 UNDER DEVELOPMENT
 
