@@ -24,11 +24,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## COURSE PROMOTIONAL VIDEO
-### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
-
-<br>
-
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
