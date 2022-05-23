@@ -1251,6 +1251,11 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+##  Hacking Windows Course (Chapter 26: WriteFile)
+This chapter covers reviewing the Windows API WriteFile function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
