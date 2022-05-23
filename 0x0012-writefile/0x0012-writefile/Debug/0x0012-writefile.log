@@ -1,0 +1,3 @@
+﻿  0x0012-writefile.c
+C:\Users\kevin\Documents\Hacking-Windows\0x0012-writefile\0x0012-writefile\0x0012-writefile.c(36,38): warning C4047: '==': 'BOOL' differs in levels of indirection from 'HANDLE'
+  0x0012-writefile.vcxproj -> C:\Users\kevin\Documents\Hacking-Windows\0x0012-writefile\0x0012-writefile\Debug\0x0012-writefile.exe

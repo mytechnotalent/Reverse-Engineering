@@ -1,0 +1,4 @@
+﻿  0x0012-writefile.c
+C:\Users\kevin\Documents\Hacking-Windows\0x0012-writefile\0x0012-writefile\0x0012-writefile.c(36,38): warning C4047: '==': 'BOOL' differs in levels of indirection from 'HANDLE'
+C:\Users\kevin\Documents\Hacking-Windows\0x0012-writefile\0x0012-writefile\0x0012-writefile.c(9,41): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  0x0012-writefile.vcxproj -> C:\Users\kevin\Documents\Hacking-Windows\0x0012-writefile\0x0012-writefile\x64\Debug\0x0012-writefile.exe
