@@ -1256,6 +1256,11 @@ This chapter covers reviewing the Windows API WriteFile function in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+## Hacking Windows Course (Chapter 27: Debugging WriteFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API WriteFile function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
