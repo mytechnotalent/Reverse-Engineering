@@ -30,6 +30,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
+
+<br>
+
 ## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
 
 <br>
