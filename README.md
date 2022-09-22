@@ -59,6 +59,10 @@ UNDER DEVELOPMENT
 
 <br>
 
+## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
+
+<br>
+
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
 
 <br>
@@ -1333,6 +1337,45 @@ In this lesson we will show whether there any web servers operating on non-stand
 In this lesson we will show the state history of connections as a string of letters.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
+
+<br>
+
+## Fundamental C++ Course
+
+## Fundamental C++ Course (Chapter 1 - Hello World)
+In this lesson we will discuss the basics of C++ output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 3 - Program Flow)
+In this lesson we will discuss the basics of program flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 4 - Functions)
+In this lesson we will discuss functions.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 5 - Pointers)
+In this lesson we will discuss pointers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 6 - Input)
+In this lesson we will discuss proper input validation.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 7 - Classes)
+In this lesson we will discuss class basics.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
 <br>
 
