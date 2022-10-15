@@ -34,6 +34,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## MicroPython PICO project template [HERE](https://github.com/mytechnotalent/mp-pico-project-template)
+
+<br>
+
 ## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
 
 <br>
