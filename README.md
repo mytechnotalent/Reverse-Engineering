@@ -54,7 +54,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf)
 
 <br>
 
