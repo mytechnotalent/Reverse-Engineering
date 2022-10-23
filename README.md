@@ -34,6 +34,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## C Pico Project Template [HERE](https://github.com/mytechnotalent/c-pico-project-template)
+
+<br>
+
 ## MicroPython Pico Project Template [HERE](https://github.com/mytechnotalent/mp-pico-project-template)
 
 <br>
