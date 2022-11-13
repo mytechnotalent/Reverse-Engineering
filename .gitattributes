@@ -1,2 +1,2 @@
-*.c linguist-detectable=true
-*.asm linguist-detectable=false
+*.asm linguist-detectable=true
+*.c linguist-detectable=false
