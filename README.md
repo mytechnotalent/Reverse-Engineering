@@ -1,3 +1,4 @@
+<a rel="me" href="https://defcon.social/@kevinthomas">Mastodon</a>
 <a rel="me" href="https://ioc.exchange/@kevinthomas"></a>
 <a rel="me" href="https://infosec.exchange/@kevinthomas"></a>
 <a rel="me" href="https://windows11sucks.com/@kevinthomas"></a>
