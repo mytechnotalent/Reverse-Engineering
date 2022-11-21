@@ -67,6 +67,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Go Hacking E-BOOK [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
+
+<br>
+
 ## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
