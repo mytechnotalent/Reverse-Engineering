@@ -1297,6 +1297,37 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 <br>
 
+## Go Hacking Course
+
+## Go Hacking Course (Chapter 1: Hello Distributed System World)
+This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 2: Debugging Hello Distributed System World)
+This chapter covers debugging of the basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 3: Hacking Hello Distributed System World)
+This chapter covers hacking of the basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 4: Primitive Types)
+This chapter covers Golang primitive types for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 5: Debugging Primitive Types)
+This chapter covers Golang debugging of the primitive types for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+IN DEVELOPMENT...  MORE TO COME SOON!!!
+
+<br>
+
 ## Zeek Network Security Monitor Course
 
 ## Zeek Network Security Monitor Course (Lesson 1: Setup)
