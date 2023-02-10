@@ -1329,6 +1329,11 @@ This chapter covers Golang hacking of the primitive types for the x64 architectu
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
+## Go Hacking Course (Chapter 7: Control Flow)
+This chapter covers Golang control flow for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
