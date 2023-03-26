@@ -38,6 +38,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Pico C NRF24L01 Driver [HERE](https://github.com/mytechnotalent/pico-c-nrf24l01-driver)
+
+<br>
+
 ## Pico C Terminal Input Driver [HERE](https://github.com/mytechnotalent/pico-c-terminal-input-driver)
 
 <br>
