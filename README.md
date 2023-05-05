@@ -74,6 +74,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Hacking Rust E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf)
+
+<br>
+
 ## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
@@ -1364,6 +1368,17 @@ This chapter covers Golang debugging advanced control flow for the x64 architect
 
 ## Go Hacking Course (Chapter 12: Hacking Advanced Control Flow)
 This chapter covers Golang hacking advanced control flow for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+IN DEVELOPMENT...  MORE TO COME SOON!!!
+
+<br>
+
+## Go Hacking Course
+
+## Go Hacking Course (Chapter 1: Hello Distributed System World)
+This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
