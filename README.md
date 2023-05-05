@@ -1375,12 +1375,17 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
 
-## Go Hacking Course
+## Hacking Rust Course
 
-## Go Hacking Course (Chapter 1: Hello Distributed System World)
-This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
+## Hacking Rust Course (Chapter 1: Hello Rust)
+This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
 
--> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 2: Debugging Hello Rust)
+This chapter covers debugging of the basic hello world style Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
