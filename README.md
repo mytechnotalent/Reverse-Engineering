@@ -1383,7 +1383,12 @@ This chapter covers the basics of setting up a dev environment and basic hello w
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 2: Debugging Hello Rust)
-This chapter covers debugging of the basic hello world style Rust program for the x64 architecture.
+This chapter covers debugging the basic hello world style Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 3: Hacking Hello Rust)
+This chapter covers hacking the basic hello world style Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
