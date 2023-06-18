@@ -17,9 +17,13 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## turbo-attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
-<br><br>
+<br>
 
-![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+Assembled by @0xInfection (Twitter)
+
+<br>
 
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
@@ -27,12 +31,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
 ## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
 ## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
-
-<br>
-
-## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
-Assembled by @0xInfection (Twitter)
 
 <br>
 
