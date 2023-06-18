@@ -14,8 +14,8 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
-## turbo-attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
 <br>
 
