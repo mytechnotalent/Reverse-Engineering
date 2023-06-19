@@ -11,6 +11,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ![image](https://github.com/mytechnotalent/kgpt/blob/main/KGPT.png?raw=true)
 
 ## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
+## FalconGPT [HERE](https://github.com/mytechnotalent/falcongpt)
 
 <br>
 
