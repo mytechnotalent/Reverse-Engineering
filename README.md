@@ -35,6 +35,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## STM32F401CCU6 Persistent Flash Driver Embedded Assembler [HERE](https://github.com/mytechnotalent/STM32F401CCU6-Persistent-Flash-Driver)
+
+<br>
+
 ## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
 
 <br>
