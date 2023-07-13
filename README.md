@@ -39,10 +39,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
-
-<br>
-
 ## C Pico Project Template [HERE](https://github.com/mytechnotalent/c-pico-project-template)
 
 <br>
@@ -56,6 +52,10 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## MicroPython Pico Project Template [HERE](https://github.com/mytechnotalent/mp-pico-project-template)
+
+<br>
+
+## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
 
 <br>
 
