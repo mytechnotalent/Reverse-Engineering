@@ -8,10 +8,9 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br><br>
 
-![image](https://github.com/mytechnotalent/kgpt/blob/main/KGPT.png?raw=true)
+![image](https://raw.githubusercontent.com/mytechnotalent/Embedded-Assembler/main/Embedded%20Assembler.png)
 
-## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
-## FalconGPT [HERE](https://github.com/mytechnotalent/falcongpt)
+## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
 
 <br>
 
@@ -32,6 +31,10 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
 ## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
 ## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
+
+<br>
+
+## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
 
 <br>
 
@@ -72,18 +75,6 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## TOR Everything [HERE](https://github.com/mytechnotalent/TOR-Everything)
-
-<br>
-
-## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf)
-
-<br>
-
-## Go Hacking E-BOOK [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
-
-<br>
-
-## Hacking Rust E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf)
 
 <br>
 
