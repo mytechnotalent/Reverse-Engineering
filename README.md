@@ -1339,6 +1339,26 @@ This chapter covers the linker script concept and development within the STM32F4
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
+## Embedded Assembler Course (Chapter 5: ELF File Analysis)
+This chapter covers ELF file analysis and tools within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 6: ARM Cortex-M Registers)
+This chapter covers the ARM Cortex-M registers within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 7: ARM Thumb2 Instruction Set)
+This chapter covers the ARM Thumb2 instruction set within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 8: Load & Store Instructions)
+This chapter covers the basic load & store instructions in addition to real-time hacking within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
