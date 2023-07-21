@@ -34,62 +34,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
-
-<br>
-
-## STM32F401CCU6 Persistent Flash Driver Embedded Assembler [HERE](https://github.com/mytechnotalent/STM32F401CCU6-Persistent-Flash-Driver)
-
-<br>
-
-## C Pico Project Template [HERE](https://github.com/mytechnotalent/c-pico-project-template)
-
-<br>
-
-## Pico C NRF24L01 Driver [HERE](https://github.com/mytechnotalent/pico-c-nrf24l01-driver)
-
-<br>
-
-## Pico C Terminal Input Driver [HERE](https://github.com/mytechnotalent/pico-c-terminal-input-driver)
-
-<br>
-
-## MicroPython Pico Project Template [HERE](https://github.com/mytechnotalent/mp-pico-project-template)
-
-<br>
-
-## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
-
-<br>
-
-## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
-
-<br>
-
-## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
-
-<br>
-
-## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
-
-<br>
-
-## TOR Everything [HERE](https://github.com/mytechnotalent/TOR-Everything)
-
-<br>
-
-## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
-
-<br>
-
-## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
-
-<br>
-
-## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
-
-<br>
-
 ## x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
@@ -1127,34 +1071,6 @@ In this lesson we will discuss debugging input.
 
 <br>
 
-## AArch64 Bytes Articles
-
-## AArch64 Bytes Articles (Part 1: Reversing Exit)
-In this bite we learn about what happens at the very core of a 32-bit AArch64 instruction by reversing the exit Linux syscall.
-
--> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-1-reversing-exit-f7e4775d5e14) to read the article on Medium.
-
-## AArch64 Bytes Articles (Part 2: 64-bit Immediate Values)
-In this bite we learn about how to handle moving a 64-bit immediate value into a 64-bit register.
-
--> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-2-64-bit-immediate-values-d9daa5256d76) to read the article on Medium.
-
-## AArch64 Bytes Articles (Part 3: Yet Another Upper)
-In this bite we learn how to create a simple parsing algorithm to convert a string's lowercase chars to uppercase, timeless Assembler example.
-
--> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
-
-<br>
-
-## ToyOS 
-
-## ToyOS Operating System
-ToyOS is a simple x86 OS that only accepts numeric values into the input stream and returns them to a standard out console.
-
--> Click [HERE](https://github.com/mytechnotalent/ToyOS)
-
-<br>
-
 ## Hacking Windows Course
 
 ## Hacking Windows Course (Chapter 1 - Hello World)
@@ -1398,101 +1314,6 @@ This chapter covers a scalar data types Rust program for the x64 architecture.
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
-
-<br>
-
-## Zeek Network Security Monitor Course
-
-## Zeek Network Security Monitor Course (Lesson 1: Setup)
-In this lesson we set up a basic Ubuntu computer connected directly to an inexpensive tap which connects to your home router. I have provided products you can purchase if you do not have existing parts however please feel free to use any network tap of your choosing and/or any additional Ethernet adapters or cables of your choosing.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 2: alert-all-notices.zeek)
-In this lesson we create an alert by logging all notices that Zeek deems worthy of your attention to the notice.log file in addition to sending you an email.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-2-alert-all-notices-zeek-5591357f6f21) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 3: conn.log)
-In this lesson we will show the source IP addresses and ports and their destination IP addresses and ports.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-3-conn-log-c104ad5570bd) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 4: conn.log - 2)
-In this lesson we will show the source IP addresses that generated the most network traffic, organized in descending order.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-4-conn-log-2-723b4d344504) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 5: conn.log - 3)
-In this lesson we will show the destination ports that received the most network traffic, organized in descending order.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-5-conn-log-3-5e6ff976a9b5) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 6: conn.log - 4)
-In this lesson we will show the number of connections per protocol service.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-6-conn-log-4-d5d62610cc02) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 7: conn.log - 5)
-In this lesson we will show the distinct browsers used by the hosts.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-7-conn-log-5-99d5bc7e711f) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 8: conn.log - 6)
-In this lesson we will show the source and destination IP addresses of all UDP and TCP connections that lasted more than 90 seconds.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-8-conn-log-6-c19c7374483c) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 9: conn.log - 7)
-In this lesson we will show whether there any web servers operating on non-standardized ports.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-9-conn-log-7-eaea25b86ead) to read the article on Medium.
-
-## Zeek Network Security Monitor Course (Lesson 10: conn.log - 8)
-In this lesson we will show the state history of connections as a string of letters.
-
--> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
-
-<br>
-
-## Fundamental C++ Course
-
-## Fundamental C++ Course (Chapter 1 - Hello World)
-In this lesson we will discuss the basics of C++ output.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
-In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 3 - Program Flow)
-In this lesson we will discuss the basics of program flow.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 4 - Functions)
-In this lesson we will discuss functions.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 5 - Pointers)
-In this lesson we will discuss pointers.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 6 - Input)
-In this lesson we will discuss proper input validation.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-## Fundamental C++ Course (Chapter 7 - Classes)
-In this lesson we will discuss class basics.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
-
-<br>
 
 ## Python For Kids Course
 
