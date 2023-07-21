@@ -1315,6 +1315,8 @@ This chapter covers a scalar data types Rust program for the x64 architecture.
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
+<br>
+
 ## Python For Kids Course
 
 ## Python For Kids Course (Chapter 1 - Goals)
