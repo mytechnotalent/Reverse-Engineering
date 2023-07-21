@@ -1317,6 +1317,32 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
 
+## Embedded Assembler Course
+
+## Embedded Assembler Course (Chapter 1: Toolchain)
+This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 2: Architecture Basics)
+This chapter covers the basics of the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 3: Vector Table)
+This chapter covers the concept and development of the vector table within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 4: Linker Script)
+This chapter covers the linker script concept and development within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+IN DEVELOPMENT...  MORE TO COME SOON!!!
+
+<br>
+
 ## Python For Kids Course
 
 ## Python For Kids Course (Chapter 1 - Goals)
