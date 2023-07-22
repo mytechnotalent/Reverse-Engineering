@@ -1364,6 +1364,11 @@ This chapter covers the basic constants & literal value examples within the STM3
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
+## Embedded Assembler Course (Chapter 10: Conditional Execution)
+This chapter covers the basic conditional execution within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
