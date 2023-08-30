@@ -1287,8 +1287,6 @@ This chapter covers Golang hacking advanced control flow for the x64 architectur
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
-IN DEVELOPMENT...  MORE TO COME SOON!!!
-
 <br>
 
 ## Hacking Rust Course
