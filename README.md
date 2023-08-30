@@ -1367,7 +1367,15 @@ This chapter covers the basic conditional execution within the STM32F401CCU6 arc
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
-IN DEVELOPMENT...  MORE TO COME SOON!!!
+## Embedded Assembler Course (Chapter 11: Functions)
+This chapter covers functions within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
+
+## Embedded Assembler Course (Chapter 12: Interrupts & STUXNET Simulation!)
+This chapter covers the interrupts and a simple STUXNET simulation within the STM32F401CCU6 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
 <br>
 
