@@ -10,6 +10,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 ![image](https://raw.githubusercontent.com/mytechnotalent/Embedded-Assembler/main/Embedded%20Assembler.png)
 
+## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
 ## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
 
 <br>
