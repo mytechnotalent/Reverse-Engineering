@@ -8,13 +8,13 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br><br>
 
-## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
-## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
+## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
 <br>
 
-## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
-## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
+## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
 
 <br>
 
