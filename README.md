@@ -13,14 +13,14 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
-## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
-
-<br>
-
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
+
+<br>
+
+## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
+## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
 
 <br>
 
