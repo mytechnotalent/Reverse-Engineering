@@ -19,11 +19,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## ARM Cortex Assembler Primer [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf)
-## Embedded Assembler [HERE](https://github.com/mytechnotalent/Embedded-Assembler)
-
-<br>
-
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
@@ -1320,6 +1315,10 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 <br>
 
 ## Embedded Assembler Course
+
+## ARM Cortex Assembler Primer
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf) to read the FREE pdf book.
 
 ## Embedded Assembler Course (Chapter 1: Toolchain)
 This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
