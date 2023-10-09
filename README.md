@@ -614,26 +614,32 @@ This tutorial will discuss hacking post-decrement operator.
 
 ## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
 ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World/) to read the project on GitHub.
 
 ## Lesson 116: ARM-32 Project (Part 2 – Hacking Int)
 ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int/) to read the project on GitHub.
 
 ## Lesson 117: ARM-32 Project (Part 3 – Hacking Float)
 ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float/) to read the project on GitHub.
 
 ## Lesson 118: ARM-32 Project (Part 4 – Hacking Double)
 ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double/) to read the project on GitHub.
 
 ## Lesson 119: ARM-32 Project (Part 5 – Hacking Char)
 ARM 32-bit Raspberry Pi Hacking Char example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x05-ARM-32-Hacking_Char/) to read the project on GitHub.
 
 ## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
 ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
+
 -> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer/) to read the project on GitHub.
 
 <br>
