@@ -1383,6 +1383,17 @@ This chapter covers functions, interrupts, UART and a simple STUXNET simulation 
 
 <br>
 
+## Embedded Hacking Course
+
+## Embedded Hacking Course (Chapter 1: hello, world)
+This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU in addition to printing hello, world.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+IN DEVELOPMENT...  MORE TO COME SOON!!!
+
+<br>
+
 ## Python For Kids Course
 
 ## Python For Kids Course (Chapter 1 - Goals)
