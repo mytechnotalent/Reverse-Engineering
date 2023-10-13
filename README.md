@@ -1390,6 +1390,11 @@ This chapter covers the basics of setting up a dev environment and basic templat
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 2: Debugging hello, world)
+This chapter covers the debugging of our firmware for the STM32F401CCU6 MCU hello, world program.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
