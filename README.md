@@ -888,82 +888,82 @@ In this lesson we will debug our simple hello world program.
 ## Lesson 168: ARM-64 Course (Part 5 - Hacking "Hello World")
 In this lesson we will hack our simple hello world program.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 169: ARM-64 Course (Part 6 - Basic I/O)
 In this lesson we will discuss how to write and compile a simple basicio program in C++ and discuss basic input validation.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-6-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 170: ARM-64 Course (Part 7 - Debugging Basic I/O)
 In this lesson we will discuss how to debug a simple basicio program in C++ and discuss basic input validation.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-7-hacking-c-arm-64-part-debugging-basic-io-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 171: ARM-64 Course (Part 8 - Hacking Basic I/O)
 In this lesson we will discuss how to hack a simple basicio program in C++ and discuss basic input validation.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-8-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 172: ARM-64 Course (Part 9 - Character Primitive Datatype)
 In this lesson we will discuss the char primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-9-hacking-c-arm-64-part-character-primitive-datatype-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 173: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
 In this lesson we will discuss debugging the char primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-10-hacking-c-arm-64-part-debugging-character-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 174: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
 In this lesson we will discuss hacking the char primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/lesson-11-hacking-c-arm-64-part-character-primitive-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 175: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
 In this lesson we will discuss the boolean primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-12-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 176: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
 In this lesson we will discuss debugging the boolean primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-13-debugging-boolean-primitive-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 177: ARM-64 Course (Part 14 - Hacking Boolean Primitive Datatype)
 In this lesson we will discuss hacking the boolean primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-14-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 178: ARM-64 Course (Part 15 - Float Primitive Datatype)
 In this lesson we will discuss the float primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-15-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 179: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
 In this lesson we will discuss debugging the float primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-16-debugging-float-primitive-datatype-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 180: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
 In this lesson we will discuss hacking the float primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-17-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 181: ARM-64 Course (Part 18 - Double Primitive Datatype)
 In this lesson we will discuss the double primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-18-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 182: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
 In this lesson we will discuss debugging the double primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-19-debugging-double-primitive-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 183: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
 In this lesson we will discuss hacking the double primitive datatype.
 
--> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-20-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
@@ -972,102 +972,102 @@ In this lesson we will discuss hacking the double primitive datatype.
 ## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
 In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
  
 ## Lesson 185: Pico Hacking Course (Part 2 - Hello World)
 In this lesson we will discuss the basic Hello World program.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-2-hello-world-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
  
 ## Lesson 186: Pico Hacking Course (Part 3 - Debugging Hello World)
 In this lesson we will discuss debugging the basic Hello World program.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-3-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 187: Pico Hacking Course (Part 4 - Hacking Hello World)
 In this lesson we will discuss hacking the basic Hello World program.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 188: Pico Hacking Course (Part 5 - char)
 In this lesson we will discuss the char data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 189: Pico Hacking Course (Part 6 - Debugging char)
 In this lesson we will discuss debugging the char data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-6-debugging-char-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 190: Pico Hacking Course (Part 7 - Hacking char)
 In this lesson we will discuss hacking the char data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-7-char-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 191: Pico Hacking Course (Part 8 - int)
 In this lesson we will discuss the int data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-8-int-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 192: Pico Hacking Course (Part 9 - Debugging int)
 In this lesson we will discuss debugging the int data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-9-debugging-int-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 193: Pico Hacking Course (Part 10 - Hacking int)
 In this lesson we will discuss hacking the int data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-10-int-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 194: Pico Hacking Course (Part 11 - float)
 In this lesson we will discuss the float data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-11-float-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 195: Pico Hacking Course (Part 12 - Debugging float)
 In this lesson we will discuss debugging the float data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-12-debugging-float-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 196: Pico Hacking Course (Part 13 - Hacking float)
 In this lesson we will discuss hacking the float data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 197: Pico Hacking Course (Part 14 - double)
 In this lesson we will discuss the double data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 198: Pico Hacking Course (Part 15 - Debugging double)
 In this lesson we will discuss debugging the double data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 199: Pico Hacking Course (Part 16 - Hacking double)
 In this lesson we will discuss hacking the double data type.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 200: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
 In this lesson we will discuss the concept of proper input handling.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 201: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
 In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 202: Pico Hacking Course (Part 19 - Input)
 In this lesson we will discuss creating an effective input architecture.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 203: Pico Hacking Course (Part 20 - Debugging Input)
 In this lesson we will discuss debugging input.
 
--> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
