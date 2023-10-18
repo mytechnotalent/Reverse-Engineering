@@ -33,12 +33,12 @@ Assembled by @0xInfection (Twitter)
 ## Lesson 1: x86 Course (Part 1: Goals)
 This tutorial will begin with the basic concepts of malware reverse engineering and graduate to an entry-level basic examination of Assembly Language.
 
--> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 2: x86 Course (Part 2: Techniques)
 This tutorial will address the two basic techniques that you can employ when analyzing malware. The first being static analysis and the other being dynamic analysis.
 
--> Click [HERE](https://www.linkedin.com/pulse/assembly-language-basic-malware-reverse-engineering-kevin-m-thomas-1/) to read the article on LinkedIn.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 3: x86 Course (Part 3: Types Of Malware)
 This tutorial will address the basic forms of malware and how they work in simple terms.
