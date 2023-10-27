@@ -1415,6 +1415,11 @@ This chapter covers the hacking of our firmware for the Pico W MCU hello, world 
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 4: Embedded System Analysis)
+This chapter covers a comprehensive embedded system analysis reviewing parts of the RP2040 datasheet and helpful firmware analysis tools.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
