@@ -25,7 +25,7 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
 ## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
 ## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
-## DC540 Hacking Challenge 0x00005b [UNKNOWN ARCHITECTURE CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
+## DC540 Hacking Challenge 0x00005b [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
 
 <br>
 
