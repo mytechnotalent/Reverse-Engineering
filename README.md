@@ -8,6 +8,11 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+<img src="https://github.com/mytechnotalent/IoT/blob/main/IoT.png?raw=true" width="400">
+## FEATURED: Iot TLS minimalistic project utilizing a Raspberry Pi 5 as a TLS server and a PicoW as a TLS client. [HERE](https://github.com/mytechnotalent/IoT)
+
+<br>
+
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
