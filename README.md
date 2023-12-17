@@ -11,10 +11,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <img src="https://github.com/mytechnotalent/Gemini/blob/main/Gemini.gif?raw=true" width="400">
 
 ## FEATURED
-### Google Gemini AI model w/speech recognition and voice. [HERE](https://github.com/mytechnotalent/Gemini)
-
-<br>
-
+## Gemini [HERE](https://github.com/mytechnotalent/Gemini)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
