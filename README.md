@@ -8,10 +8,10 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-<img src="https://github.com/mytechnotalent/Gemini/blob/main/Gemini.gif?raw=true" width="400">
+<img src="https://github.com/mytechnotalent/IoT/blob/main/IoT.png?raw=true" width="400">
 
 ## FEATURED
-## Gemini [HERE](https://github.com/mytechnotalent/Gemini)
+## IoT [HERE](https://github.com/mytechnotalent/IoT)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
