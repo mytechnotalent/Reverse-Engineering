@@ -1,4 +1,4 @@
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering%20Tutorial.gif?raw=true" width="400">
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering%20Tutorial%20M.gif?raw=true" width="400">
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
@@ -11,7 +11,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <img src="https://github.com/mytechnotalent/IoT/blob/main/IoT.png?raw=true" width="400">
 
 ## FEATURED
-## IoT [HERE](https://github.com/mytechnotalent/IoT)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
