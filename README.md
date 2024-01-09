@@ -1,4 +1,4 @@
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering%20Tutorial%20M.png?raw=true" width="400">
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true" width="400">
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
