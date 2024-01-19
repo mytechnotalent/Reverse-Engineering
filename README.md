@@ -815,17 +815,17 @@ This tutorial will discuss more x64 assembly.
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 154: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
-This tutorial will discuss c++ code as it relates to 64-bit assembly.
+This tutorial will discuss C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 155: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
-This tutorial will discuss more c++ code as it relates to 64-bit assembly.
+This tutorial will discuss more C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
-This tutorial will discuss more c++ code as it relates to 64-bit assembly.
+This tutorial will discuss more C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
@@ -1310,32 +1310,47 @@ This chapter covers hacking the basic hello world style Rust program for the x64
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 4: Scalar Data Types)
-This chapter covers scalar data types Rust program for the x64 architecture.
+This chapter covers scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 5: Debugging Scalar Data Types)
-This chapter covers debugging scalar data types Rust program for the x64 architecture.
+This chapter covers debugging scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 6: Hacking Scalar Data Types)
-This chapter covers hacking scalar data types Rust program for the x64 architecture.
+This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 7: Compound Data Types)
-This chapter covers compound data types Rust program for the x64 architecture.
+This chapter covers compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 8: Debugging Compound Data Types)
-This chapter covers debugging compound data types Rust program for the x64 architecture.
+This chapter covers debugging compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 9: Hacking Compound Data Types)
-This chapter covers hacking compound data types Rust program for the x64 architecture.
+This chapter covers hacking compound data types within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 10: Functions)
+This chapter covers functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 11: Debugging Functions)
+This chapter covers debugging functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 12: Hacking Functions)
+This chapter covers hacking functions within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
