@@ -1543,49 +1543,41 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 This lesson will begin with the basic concepts of why kids should learn to program in Python.
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/eAkOAuHkroI) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 2 - "Hello World")
 This lesson will step-by-step code our first program to have our little microcontroller say hello to the world!
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/QnlBMgSZUzU) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 3 - FUN With Images)
 This lesson will step-by-step code a FUN image making program where our little microcontroller will make various faces to his new friend.
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/L6-R7LRj5ik) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 4 - FUN With Numbers)
 This lesson will step-by-step code a FUN program where we will work with numbers and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/uSRpjvSyhC8) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 5 - FUN With Words)
 This lesson will step-by-step code a FUN program where we will work with words and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/cMrzeprc3j4) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 6 - Fun With Word Lists)
 This lesson will step-by-step code a FUN program where we will work with word lists and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/2cYZt0imQBk) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 7 - Fun With Music)
 This lesson will step-by-step code a FUN song making program where our little microcontroller will play various songs to his new friend. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/JMXXGRnR7fo) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 8 - Fun With Talking Robots)
 This lesson will step-by-step interact with a FUN talking robot where we can ask him questions and he will respond to us using his voice. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/lBEWy5M4fuI) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 9 - Basic I/O)
 This lesson will discuss MicroPython basic input and output for the micro:bit.
