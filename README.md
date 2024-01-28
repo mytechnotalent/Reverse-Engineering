@@ -1354,6 +1354,21 @@ This chapter covers hacking functions within a Rust program for the x64 architec
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
+## Hacking Rust Course (Chapter 13: Control Flow)
+This chapter covers control flow within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 14: Debugging Control Flow)
+This chapter covers debugging control flow within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 15: Hacking Control Flow)
+This chapter covers hacking control flow within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
