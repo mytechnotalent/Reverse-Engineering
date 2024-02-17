@@ -1548,6 +1548,21 @@ This chapter covers hacking static variables as it relates to embedded developme
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 23: Constants)
+This chapter covers constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 24): Debugging Constants
+This chapter covers debugging constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 25): Hacking Constants
+This chapter covers hacking constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
