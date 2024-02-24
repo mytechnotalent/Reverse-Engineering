@@ -1553,13 +1553,28 @@ This chapter covers constants as it relates to embedded development on the Pico 
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (Chapter 24): Debugging Constants
+## Embedded Hacking Course (Chapter 24: Debugging Constants)
 This chapter covers debugging constants as it relates to embedded development on the Pico W.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (Chapter 25): Hacking Constants
+## Embedded Hacking Course (Chapter 25: Hacking Constants)
 This chapter covers hacking constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 26: Operators)
+This chapter covers operators as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 27: Debugging Operators)
+This chapter covers debugging operators as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 28: Hacking Operators)
+This chapter covers hacking operators as it relates to embedded development on the Pico W.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
