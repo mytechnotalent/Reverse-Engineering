@@ -1578,6 +1578,21 @@ This chapter covers hacking operators as it relates to embedded development on t
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 29: Static Conditionals)
+This chapter covers static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 30: Debugging Static Conditionals)
+This chapter covers debugging static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 31: Hacking Static Conditionals)
+This chapter covers hacking static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
