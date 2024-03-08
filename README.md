@@ -15,6 +15,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <br>
 
 ## DRIVERS
+## STM32F4 Persistent Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
 
 <br>
