@@ -8,6 +8,13 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## Book
+## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+Assembled by @0xInfection (Twitter)
+
+<BR>
+
 ## Tools
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
@@ -19,13 +26,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
-
-<br>
-
-## Book
-## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
-Assembled by @0xInfection (Twitter)
 
 <br>
 
