@@ -1385,10 +1385,6 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 ## Embedded Assembler Course
 
-## ARM Cortex Assembler Primer
-
--> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf) to read the FREE pdf book.
-
 ## Embedded Assembler Course (Chapter 1: Toolchain)
 This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
 
