@@ -1599,6 +1599,21 @@ This chapter covers hacking static conditionals as it relates to embedded develo
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 32: Dynamic Conditionals)
+This chapter covers dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 33: Debugging Dynamic Conditionals)
+This chapter covers debugging dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 34: Hacking Dynamic Conditionals)
+This chapter covers hacking dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
