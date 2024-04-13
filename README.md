@@ -1615,6 +1615,21 @@ This chapter covers hacking dynamic conditionals as it relates to embedded devel
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 35: Functions, w/o Param, w/o Return)
+This chapter covers functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 36: Debugging Functions, w/o Param, w/o Return)
+This chapter covers debugging functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 37: Hacking Functions, w/o Param, w/o Return)
+This chapter covers hacking functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
