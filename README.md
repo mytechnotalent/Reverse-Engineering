@@ -5,7 +5,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
-## DC540 Chakra Badge [![Watch the video](https://img.youtube.com/vi/tk5x3JOPE9s/maxresdefault.jpg)](https://youtu.be/tk5x3JOPE9s)
+## DC540 Chakra Badge [VIDEO](https://youtu.be/tk5x3JOPE9s) [![WATCH THE VIDEO](https://img.youtube.com/vi/tk5x3JOPE9s/maxresdefault.jpg)](https://youtu.be/tk5x3JOPE9s)
 
 <br>
 
