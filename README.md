@@ -5,6 +5,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+## DC540 Chakra Badge [![Watch the video](https://img.youtube.com/vi/tk5x3JOPE9s/maxresdefault.jpg)](https://youtu.be/tk5x3JOPE9s)
 
 <br>
 
@@ -13,7 +14,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
-<BR>
+<br>
 
 ## Tools
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
