@@ -27,7 +27,6 @@ Assembled by @0xInfection (Twitter)
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
-## Pico WS2812 Driver [HERE](https://github.com/mytechnotalent/Pico_WS2812_Driver)
 
 <br>
 
