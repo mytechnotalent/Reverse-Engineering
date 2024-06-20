@@ -10,7 +10,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 <br>
 
 ## mojonet
-## The world's first Neural Network written in the Mojo programming language for all AI developers. [HERE](https://github.com/mytechnotalent/mojonet)
+## The world's first PyTorch Neural Network wrapper to help transition existing projects into the Mojo programming language. [HERE](https://github.com/mytechnotalent/mojonet)
 
 <br>
 
