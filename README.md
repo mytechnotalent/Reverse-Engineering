@@ -9,6 +9,11 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## mojonet
+## The world's first Neural Network written in the Mojo programming language for all AI developers. [HERE](https://github.com/mytechnotalent/mojonet)
+
+<br>
+
 ## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
