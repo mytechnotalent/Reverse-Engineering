@@ -9,8 +9,8 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## mojonet
-## The world's first PyTorch Neural Network wrapper to help transition existing projects into the Mojo programming language. [HERE](https://github.com/mytechnotalent/mojonet)
+## Deepfake Detector
+## Deekfake Detector is an AI/ML model designed to detect AI generated or manipulated images. [HERE](https://github.com/mytechnotalent/deepfake-detector)
 
 <br>
 
