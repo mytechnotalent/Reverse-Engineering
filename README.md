@@ -8,8 +8,11 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## Deepfake Detector
-## Deekfake Detector is an AI/ML model designed to detect AI generated or manipulated images. [HERE](https://github.com/mytechnotalent/deepfake-detector)
+## Presidential Election Favorability 2024 [HERE](https://github.com/mytechnotalent/Presidential-Election-Favorability-2024)
+
+<br>
+
+## Deekfake Detector [HERE](https://github.com/mytechnotalent/deepfake-detector)
 
 <br>
 
