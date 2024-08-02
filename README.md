@@ -6,7 +6,9 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
-<br>
+<br><br>
+
+<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse%20Engineering%20Assistant.png?raw=true">
 
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
 
