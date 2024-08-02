@@ -8,7 +8,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## Deekfake Detector [HERE](https://github.com/mytechnotalent/deepfake-detector)
+## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
