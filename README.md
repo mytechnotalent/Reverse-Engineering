@@ -8,11 +8,17 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br><br>
 
+<img src="https://github.com/mytechnotalent/pa/blob/main/Personal%20Assistant.png?raw=true">
+
+## Personal Assistant [HERE](https://github.com/mytechnotalent/pa)
+
+<br><br>
+
 <img src="https://github.com/mytechnotalent/rea/blob/main/Reverse%20Engineering%20Assistant.png?raw=true">
 
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
 
-<br>
+<br><br>
 
 ## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
