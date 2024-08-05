@@ -12,7 +12,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
   <img src="https://github.com/mytechnotalent/rea/blob/main/Reverse%20Engineering%20Assistant.png?raw=true">
   <br>
   <a href="https://github.com/mytechnotalent/rea">
-    CLICK
+    DOWNLOAD
   </a>
 </h1>
 
@@ -22,7 +22,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
   <img src="https://github.com/mytechnotalent/pa/blob/main/Personal%20Assistant.png?raw=true">
   <br>
   <a href="https://github.com/mytechnotalent/pa">
-    CLICK
+    DOWNLOAD
   </a>
 </h1>
 
