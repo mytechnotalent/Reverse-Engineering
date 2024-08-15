@@ -18,16 +18,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br><br>
 
-<h1 align="center">
-  <img src="https://github.com/mytechnotalent/pa/blob/main/Personal%20Assistant.png?raw=true">
-  <br>
-  <a href="https://github.com/mytechnotalent/pa">
-    DOWNLOAD
-  </a>
-</h1>
-
-<br><br>
-
 ## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
@@ -1648,6 +1638,15 @@ This chapter covers debugging functions, w/o params and without a return value a
 This chapter covers hacking functions, w/o params and without a return value as it relates to embedded development on the Pico W.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+<br>
+
+## Hacking RISC-V Course
+
+## Hacking RISC-V Course (Chapter 1: Why RISC-V)
+This chapter covers the "why" of learning RISC-V hacking as we discuss the rise of RISC-V and introduce our ESP32-C3 dev board.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
