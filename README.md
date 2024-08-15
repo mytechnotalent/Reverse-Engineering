@@ -1,6 +1,6 @@
 <img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true">
 
-A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM architectures & embedded RISC-V architecture.
 
 <br>
 
