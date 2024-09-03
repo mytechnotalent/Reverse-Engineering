@@ -18,16 +18,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 <br><br>
 
-<h1 align="center">
-  <img src="https://github.com/mytechnotalent/MicroSTEM/blob/main/MicroSTEM.png?raw=true">
-  <br>
-  <a href="https://github.com/mytechnotalent/MicroSTEM">
-    Empower kids today with STEM and Python on the Raspberry Pi Pico to secure tomorrow’s AI-driven careers using a Jupyter Notebook w/ the Pico to teach Python, Data Science and Electrical Engineering for kids!
-  </a>
-</h1>
-
-<br><br>
-
 ## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
