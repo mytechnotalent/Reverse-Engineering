@@ -1677,22 +1677,6 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
 
-## MicroSTEM Course
-
-## MicroSTEM Course (Chapter 1 - Igniting The Future)
-This chapter covers the criticality of a STEM tutorial focusing on kids securing tomorrow's AI-driven careers.
-
--> Click [HERE](https://github.com/mytechnotalent/MicroSTEM/blob/main/MicroSTEM.pdf) to read the lesson in PDF format. <br>
-
-## MicroSTEM Course (Chapter 2 - Setup)
-This chapter covers the setup and items needed for the project and at then end you will have a fully-connected Raspberry Pi Pico to a Jupyter Notebook.
-
--> Click [HERE](https://github.com/mytechnotalent/MicroSTEM/blob/main/MicroSTEM.pdf) to read the lesson in PDF format. <br>
-
-IN DEVELOPMENT...  MORE TO COME SOON!!!
-
-<br>
-
 ## Python For Kids Course
 
 ## Python For Kids Course (Chapter 1 - Goals)
