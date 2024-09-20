@@ -1673,6 +1673,11 @@ This chapter covers the advanced operations using hex and binary in addition to 
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
+## Hacking RISC-V Course (Chapter 7: Registers)
+This chapter covers the registers for the RISC-V ESP32-C3.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
