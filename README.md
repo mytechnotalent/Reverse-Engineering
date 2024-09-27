@@ -1678,6 +1678,11 @@ This chapter covers the registers for the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
+## Hacking RISC-V Course (Chapter 8: ADD)
+This chapter covers how to add within the RISC-V ESP32-C3.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
