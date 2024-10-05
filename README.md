@@ -1683,6 +1683,11 @@ This chapter covers how to add within the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
+## Hacking RISC-V Course (Chapter 9: Debugging ADD)
+This chapter covers how to debug add within the RISC-V ESP32-C3.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
