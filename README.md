@@ -58,7 +58,7 @@ This tutorial will begin with the basic concepts of malware reverse engineering 
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 <br>
-[Play x86 Course - Part 1 Goals on Spotify](https://podcasters.spotify.com/pod/show/kevin-m-thomas/episodes/x86-Course---Part-1-Goals-e2ptquq)
+[LISTEN on Spotify](https://podcasters.spotify.com/pod/show/kevin-m-thomas/episodes/x86-Course---Part-1-Goals-e2ptquq)
 
 ## Lesson 2: x86 Course (Part 2: Techniques)
 This tutorial will address the two basic techniques that you can employ when analyzing malware. The first being static analysis and the other being dynamic analysis.
