@@ -25,6 +25,10 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+[LISTEN on Spotify](https://podcasters.spotify.com/pod/show/kevin-m-thomas/episodes/x86-Course---Part-1-Goals-e2ptquq?fbclid=IwY2xjawGCO-hleHRuA2FlbQIxMQABHS-B0dsKtqxeer8qF24-vqfSA7ddbXDiO4HxFPWTKncEkUC8GY6R7Y59Fg_aem
+
+<br>
+
 ## Tools
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
