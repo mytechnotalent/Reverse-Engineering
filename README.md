@@ -2,31 +2,20 @@
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
 
-<br>
+<br><br>
+
+# Reverse Engineering Podcast [LISTEN on Spotify](https://open.spotify.com/show/5Su24RZwZcqQJrFhbGjYZq)
+
+<br><br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
-<br><br>
-
-<h1 align="center">
-  <img src="https://github.com/mytechnotalent/rea/blob/main/Reverse%20Engineering%20Assistant.png?raw=true">
-  <br>
-  <a href="https://github.com/mytechnotalent/rea">
-    DOWNLOAD
-  </a>
-</h1>
-
-<br><br>
+<br>
 
 ## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
-
-<br>
-
-## Podcast
-## Reverse Engineering [LISTEN on Spotify](https://open.spotify.com/show/5Su24RZwZcqQJrFhbGjYZq)
 
 <br>
 
