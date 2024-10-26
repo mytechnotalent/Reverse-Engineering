@@ -4,7 +4,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 <br><br>
 
-# Cybersode Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/reverse-engineering)
+# Cyberisode Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/reverse-engineering)
 # Reverse Engineering Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/cyberisode)
 
 <br><br>
