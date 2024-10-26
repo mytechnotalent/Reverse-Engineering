@@ -5,8 +5,10 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 <br><br>
 
 # Daily Cyber Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/daily-cyber)
+![Daily Cyber Podcast Image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Daily%20Cyber.jpg?raw=true)
+
 # Daily Data Science Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/daily-data-science)
-# Reverse Engineering Podcast [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/reverse-engineering)
+![Daily Data Science Podcast Image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Daily%20Data%20Science.jpg?raw=true)
 
 <br><br>
 
