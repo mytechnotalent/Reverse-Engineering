@@ -52,8 +52,6 @@ Assembled by @0xInfection (Twitter)
 This tutorial will begin with the basic concepts of malware reverse engineering and graduate to an entry-level basic examination of Assembly Language.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
-<br>
-[LISTEN on Spotify](https://podcasters.spotify.com/pod/show/reverse-engineering)
 
 ## Lesson 2: x86 Course (Part 2: Techniques)
 This tutorial will address the two basic techniques that you can employ when analyzing malware. The first being static analysis and the other being dynamic analysis.
