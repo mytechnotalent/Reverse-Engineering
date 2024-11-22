@@ -13,8 +13,14 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 <br>
 
+## Neural Network Hacking
+## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
+## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
+
+<br>
+
 ## Book
-## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
