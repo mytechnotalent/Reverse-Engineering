@@ -23,7 +23,9 @@ Assembled by @0xInfection (Twitter)
 ## Neural Network Hacking
 ## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
+## Personal Assistant [HERE](https://github.com/mytechnotalent/pa)
 ## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
+## KNET [HERE](https://github.com/mytechnotalent/KNET)
 
 <br>
 
