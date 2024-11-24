@@ -26,6 +26,7 @@ Assembled by @0xInfection (Twitter)
 ## Personal Assistant [HERE](https://github.com/mytechnotalent/pa)
 ## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
 ## KNET [HERE](https://github.com/mytechnotalent/KNET)
+## PyTorch Internals [HERE](https://github.com/mytechnotalent/PyTorch-Internals)
 
 <br>
 
