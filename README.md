@@ -52,6 +52,10 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
 ## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
 
+## STEM
+## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
+## ToyGPT [HERE](https://github.com/mytechnotalent/ToyGPT)
+
 <br>
 
 ## x86 Course
