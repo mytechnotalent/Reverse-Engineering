@@ -21,10 +21,9 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Neural Network Hacking
-## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
-## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
-## Deepfake Detector [HERE](https://github.com/mytechnotalent/deepfake-detector)
+## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
+## Reverse Engineering GPT TBD
 
 <br>
 
