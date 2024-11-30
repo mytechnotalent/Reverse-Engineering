@@ -55,7 +55,6 @@ Assembled by @0xInfection (Twitter)
 
 ## STEM
 ## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
-## ToyGPT [HERE](https://github.com/mytechnotalent/ToyGPT)
 
 <br>
 
