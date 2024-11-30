@@ -23,7 +23,7 @@ Assembled by @0xInfection (Twitter)
 ## Neural Network Hacking
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
 ## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
-## Reverse Engineering GPT TBD
+## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
 
 <br>
 
