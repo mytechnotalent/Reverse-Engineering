@@ -20,6 +20,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## AgenticAI
+## Simple Agent[HERE](https://github.com/mytechnotalent/Simple-Agent)
+
+<br>
+
 ## Neural Network Hacking
 ## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
 ## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
