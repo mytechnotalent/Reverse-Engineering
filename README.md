@@ -20,7 +20,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## AgenticAI
+## Agentic AI
 ## Simple Agent [HERE](https://github.com/mytechnotalent/Simple-Agent)
 
 <br>
