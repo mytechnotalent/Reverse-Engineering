@@ -20,14 +20,13 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Agentic AI
-## Simple Agent [HERE](https://github.com/mytechnotalent/Simple-Agent)
+## Neural Network Hacking
+## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
 
 <br>
-
-## Neural Network Hacking
-## Reverse Engineering Assistant [HERE](https://github.com/mytechnotalent/rea)
-## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
+## Agentic AI
+## Simple Agent [HERE](https://github.com/mytechnotalent/Simple-Agent)
+## Simple RAG Agent [HERE](https://github.com/mytechnotalent/Simple-RAG-Agent)
 
 <br>
 
