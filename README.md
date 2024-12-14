@@ -21,6 +21,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Neural Network Hacking
+## Hacking Neural Networks [HERE](https://github.com/mytechnotalent/HNN)
 ## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
 
 <br>
