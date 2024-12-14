@@ -29,6 +29,7 @@ Assembled by @0xInfection (Twitter)
 ## Agentic AI
 ## Simple Agent [HERE](https://github.com/mytechnotalent/Simple-Agent)
 ## Simple RAG Agent [HERE](https://github.com/mytechnotalent/Simple-RAG-Agent)
+## AgentK [HERE](https://github.com/mytechnotalent/AgentK)
 
 <br>
 
