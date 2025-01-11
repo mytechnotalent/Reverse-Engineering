@@ -39,9 +39,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Drivers
-## ATmega128P Blinky [HERE](https://wokwi.com/projects/418356728594745345)
-## ATmega128P Basic I/O [HERE](https://wokwi.com/projects/418439550221954049)
-## ATmega128P Basic UART [HERE](https://wokwi.com/projects/418645090131140609)
+## ATmega328P Blink [HERE](https://github.com/mytechnotalent/ATmega328P_Blink_Driver)
 ## STM32F4 Persistent Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
