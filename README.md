@@ -41,6 +41,8 @@ Assembled by @0xInfection (Twitter)
 ## Drivers
 ## ATmega328P Blink Driver [HERE](https://github.com/mytechnotalent/ATmega328P_Blink_Driver)
 ## ATmega328P IO Driver [HERE](https://github.com/mytechnotalent/ATmega328P_IO_Driver)
+## ATmega328P UART Driver [HERE](https://github.com/mytechnotalent/ATmega328P_UART_Driver)
+## ATmega328P SSD1306 Driver [HERE](https://github.com/mytechnotalent/ATmega328P_SSD1306_Driver)
 ## STM32F4 Persistent Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
