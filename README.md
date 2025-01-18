@@ -206,7 +206,7 @@ This tutorial will address how to hack our second real Assembly Program by movin
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 28: x86 Course (Part 28 - ASM Program 3 [Moving Data Between Memory And Registers])
-This tutorial will address how to create our third real Assembly Program by moving between memory and registers
+This tutorial will address how to create our third real Assembly Program by moving between memory and registers.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
