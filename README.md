@@ -4,10 +4,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 <br><br>
 
-# Daily Cyber [LISTEN on Spotify](https://podcasters.spotify.com/pod/show/daily-cyber)
-
-<br><br>
-
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
@@ -35,6 +31,7 @@ Assembled by @0xInfection (Twitter)
 ## Tools
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+## Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/imcc)
 
 <br>
 
