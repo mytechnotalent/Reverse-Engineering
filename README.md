@@ -32,6 +32,7 @@ Assembled by @0xInfection (Twitter)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 ## Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/imcc)
+## BLE Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/imcc)
 
 <br>
 
