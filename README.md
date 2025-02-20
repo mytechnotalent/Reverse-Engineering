@@ -33,7 +33,7 @@ Assembled by @0xInfection (Twitter)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 ## Serial Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/simcc)
 ## Serial Interactive LLM Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/sillmmcc)
-## Serial Interactive LLM Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/sillmmcccc)
+## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/sillmmcccc)
 ## BLE Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/bimcc)
 
 <br>
