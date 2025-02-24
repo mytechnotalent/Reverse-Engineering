@@ -32,9 +32,10 @@ Assembled by @0xInfection (Twitter)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 ## Serial Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/simcc)
-## Serial Interactive LLM Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/sillmmcc)
-## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/sillmmcccc)
+## Serial Interactive LLM Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/simmcc)
+## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/simcccc)
 ## BLE Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/bimcc)
+## BLE Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/bimcccc)
 
 <br>
 
