@@ -1659,6 +1659,60 @@ This chapter covers hacking functions, w/o params and without a return value as 
 
 <br>
 
+## Hacking Bits Course
+
+## Hacking Bits Course (Chapter 1: Ohm's Law - The Foundation of Electronics)
+This chapter covers the basics Ohm's Law and basic electronics.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 2: The Binary Number System)
+This chapter covers the basics of the binary number system.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 3: The Hexadecimal Number System)
+This chapter covers the basics of the hexadecimal number system.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 4: The ATmega328P Architecture)
+This chapter covers the basics of the ATmega328P Architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 5: Tools)
+This chapter covers the basics of setting up a toolchain and development environment.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 6: ATmega328P Datasheet)
+This chapter covers the basics of the ATmega328P datasheet.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 7: Blink Driver in C)
+This chapter covers the development and reverse engineering of a blink driver in AVR C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 8: Blink Driver in Assembler)
+This chapter covers the development of a blink driver in AVR Assembler.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 9: IO Driver in C)
+This chapter covers the development and reverse engineering of an IO driver in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+## Hacking Bits Course (Chapter 10: STUXNET)
+This chapter covers the development and reverse engineering of an servo motor in C including a mock STUXNET hack.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+<br>
+
 ## Hacking RISC-V Course
 
 ## Hacking RISC-V Course (Chapter 1: Why RISC-V)
