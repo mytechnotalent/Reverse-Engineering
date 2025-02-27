@@ -31,6 +31,8 @@ Assembled by @0xInfection (Twitter)
 ## Tools
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+## IoT Pico W TLS Client [HERE](https://github.com/mytechnotalent/iptc)
+## IoT Pico W TLS Server [HERE](https://github.com/mytechnotalent/ipts)
 ## Serial Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/simcc)
 ## Serial Interactive LLM Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/sillmmcc)
 ## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/simcccc)
