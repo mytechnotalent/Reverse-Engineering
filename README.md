@@ -22,9 +22,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Agentic AI
-## Simple Agent [HERE](https://github.com/mytechnotalent/Simple-Agent)
-## Simple RAG Agent [HERE](https://github.com/mytechnotalent/Simple-RAG-Agent)
-## AgentK [HERE](https://github.com/mytechnotalent/AgentK)
+## MalwareBazaar_MCP [HERE](https://github.com/mytechnotalent/MalwareBazaar_MCP)
 
 <br>
 
