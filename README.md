@@ -23,7 +23,6 @@ Assembled by @0xInfection (Twitter)
 
 ## Agentic AI - MCP
 ## MalwareBazaar_MCP [HERE](https://github.com/mytechnotalent/MalwareBazaar_MCP)
-## RAG_MCP [HERE](https://github.com/mytechnotalent/RAG_MCP)
 
 <br>
 
