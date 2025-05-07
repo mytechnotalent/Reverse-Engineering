@@ -63,6 +63,7 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
 ## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
 ## DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
+## DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
 
 <br>
 
