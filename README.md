@@ -50,7 +50,6 @@ Assembled by @0xInfection (Twitter)
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
-## Pico Button & NeoPixel Driver [HERE](https://github.com/mytechnotalent/embassy-pico-neo-button)
 
 <br>
 
