@@ -1410,7 +1410,41 @@ This chapter covers hacking control flow within a Rust program for the x64 archi
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
-IN DEVELOPMENT...  MORE TO COME SOON!!!
+<br>
+
+## Hacking Embedded Rust Course
+
+## Hacking Embedded Rust Course (Chapter 1: Wiring)
+This chapter covers the basics of setting up wiring for an embedded Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course (Chapter 2: Features)
+This chapter covers the features of Reverse Engineering Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course (Chapter 3: Project Structure)
+This chapter covers the project structure of Reverse Engineering Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course (Chapter 4: How It Works (Step-By-Step))
+This chapter covers the project step-by-step of Reverse Engineering Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course (Chapter 5: Embassy Executor Enqueue/Dequeue In Detail)
+
+This chapter covers the project step-by-step enqueue/dequeue of Reverse Engineering Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course (Chapter 6: Building and Flashing)
+
+This chapter covers the project step-by-step of building and flashing Reverse Engineering Rust Pico.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Rust_Embassy_Pico_Project.pdf) to read the FREE pdf book.
 
 <br>
 
