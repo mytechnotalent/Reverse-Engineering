@@ -1446,6 +1446,35 @@ This chapter covers the project step-by-step of building and flashing Reverse En
 
 <br>
 
+## Hacking Embedded Rust Course w/ microbit
+
+## Hacking Embedded Rust Course w/ microbit (Chapter 1: Foundation Analysis and Binary Structure)
+This chapter covers the foundation analysis and binary structure for an embedded Rust microbit.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course w/ microbit (Chapter 2: Embassy Async Runtime Deep Dive)
+This chapter covers the Embassy async runtime for an embedded Rust microbit.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course w/ microbit (Chapter 3: Interrupt Handlers and Hardware Abstraction)
+This chapter covers the interrupt handlers and hardware abstraction for an embedded Rust microbit.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course w/ microbit (Chapter 4: Advanced System Components)
+This chapter covers the advanced system components for an embedded Rust microbit.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+
+## Hacking Embedded Rust Course w/ microbit (Chapter 5: Exploitation and Security Assessment)
+This chapter covers the exploitation and security assessment for an embedded Rust microbit.
+
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+
+<br>
+
 ## Embedded Assembler Course
 
 ## Embedded Assembler Course (Chapter 1: Toolchain)
