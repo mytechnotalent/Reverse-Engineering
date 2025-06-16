@@ -29,6 +29,7 @@ Assembled by @0xInfection (Twitter)
 
 ## Tools
 ## Automatrix [HERE](https://github.com/mytechnotalent/Automatrix)
+## WARP [HERE](https://github.com/mytechnotalent/WARP)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 ## IoT Pico W TLS Client [HERE](https://github.com/mytechnotalent/iptc)
@@ -38,6 +39,10 @@ Assembled by @0xInfection (Twitter)
 ## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/simcccc)
 ## BLE Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/bimcc)
 ## BLE Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/bimcccc)
+## Pico C Stepper [HERE](https://github.com/mytechnotalent/pico_c_stepper)
+## Pico C LoRa [HERE](https://github.com/mytechnotalent/pico_c_lora)
+## Rust Embassy Pico Project [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project)
+## Rust Embassy microbit Project [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project)
 
 <br>
 
