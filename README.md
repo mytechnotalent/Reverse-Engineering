@@ -27,7 +27,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Tools
+## Projects
 ## Automatrix [HERE](https://github.com/mytechnotalent/Automatrix)
 ## WARP [HERE](https://github.com/mytechnotalent/WARP)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
