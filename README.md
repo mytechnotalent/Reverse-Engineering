@@ -27,7 +27,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Projects
+## Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
