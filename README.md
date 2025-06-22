@@ -28,21 +28,8 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Projects
-## Automatrix [HERE](https://github.com/mytechnotalent/Automatrix)
-## WARP [HERE](https://github.com/mytechnotalent/WARP)
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
-## IoT Pico W TLS Client [HERE](https://github.com/mytechnotalent/iptc)
-## IoT Pico W TLS Server [HERE](https://github.com/mytechnotalent/ipts)
-## Serial Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/simcc)
-## Serial Interactive LLM Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/sillmmcc)
-## Serial Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/simcccc)
-## BLE Interactive Meshtastic Chat Client [HERE](https://github.com/mytechnotalent/bimcc)
-## BLE Interactive Meshtastic Custom Channel Chat Client [HERE](https://github.com/mytechnotalent/bimcccc)
-## Pico C Stepper [HERE](https://github.com/mytechnotalent/pico_c_stepper)
-## Pico C LoRa [HERE](https://github.com/mytechnotalent/pico_c_lora)
-## Rust Embassy Pico Project [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project)
-## Rust Embassy microbit Project [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project)
 
 <br>
 
@@ -51,7 +38,7 @@ Assembled by @0xInfection (Twitter)
 ## ATmega328P IO Driver [HERE](https://github.com/mytechnotalent/ATmega328P_IO_Driver)
 ## ATmega328P UART Driver [HERE](https://github.com/mytechnotalent/ATmega328P_UART_Driver)
 ## ATmega328P SSD1306 Driver [HERE](https://github.com/mytechnotalent/ATmega328P_SSD1306_Driver)
-## STM32F4 Persistent Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)
+## STM32F401 EEPROM Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_EEPROM_Flash_Driver)
 ## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
 ## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
