@@ -34,9 +34,9 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Windows Assembler
-## 0x0000-ASM-Hello-World Windows Console App written in Assembler [HERE](https://github.com/mytechnotalent/0x0000-ASM-Hello-World)
-## 0x0001-ASM-Hello-World Windows App written in Assembler [HERE](https://github.com/mytechnotalent/0x0001-ASM-Hello-World)
-## UiDll is a 64-bit Windows DLL exporting Windows API UI functionality written in Assembler [HERE](https://github.com/mytechnotalent/UiDll)
+## 0x0000-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0000-ASM-Hello-World)
+## 0x0001-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0001-ASM-Hello-World)
+## UiDll [HERE](https://github.com/mytechnotalent/UiDll)
 
 <br>
 
