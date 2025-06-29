@@ -33,7 +33,14 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Drivers
+## Windows Assembler
+## 0x0000-ASM-Hello-World Windows Console App written in Assembler [HERE](https://github.com/mytechnotalent/0x0000-ASM-Hello-World)
+## 0x0001-ASM-Hello-World Windows App written in Assembler [HERE](https://github.com/mytechnotalent/0x0001-ASM-Hello-World)
+## UiDll is a 64-bit Windows DLL exporting Windows API UI functionality written in Assembler [HERE](https://github.com/mytechnotalent/UiDll)
+
+<br>
+
+## Embedded Drivers
 ## ATmega328P Blink Driver [HERE](https://github.com/mytechnotalent/ATmega328P_Blink_Driver)
 ## ATmega328P IO Driver [HERE](https://github.com/mytechnotalent/ATmega328P_IO_Driver)
 ## ATmega328P UART Driver [HERE](https://github.com/mytechnotalent/ATmega328P_UART_Driver)
