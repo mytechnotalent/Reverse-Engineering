@@ -33,6 +33,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Windows Kernel Hacking
+## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
+
+<br>
+
 ## Windows Assembler
 ## 0x0000-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0000-ASM-Hello-World)
 ## 0x0001-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0001-ASM-Hello-World)
