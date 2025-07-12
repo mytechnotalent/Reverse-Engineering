@@ -34,8 +34,8 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Windows Kernel Hacking
-## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
 ## Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
+## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
 
 <br>
 
