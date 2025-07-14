@@ -53,7 +53,7 @@ Assembled by @0xInfection (Twitter)
 ## ATmega328P SSD1306 Driver [HERE](https://github.com/mytechnotalent/ATmega328P_SSD1306_Driver)
 ## STM32F401 EEPROM Driver [HERE](https://github.com/mytechnotalent/STM32F401_EEPROM_Driver)
 ## STM32F401 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F401_Button_Interrupt_Driver)
-## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
+## STM32F401 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F401_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
 
 <br>
