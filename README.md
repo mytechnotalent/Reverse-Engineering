@@ -1728,6 +1728,22 @@ This chapter covers hacking functions, w/o params and without a return value as 
 
 <br>
 
+## Embedded Reverse Engineering Course
+
+## Embedded Reverse Engineering Course (Chapter 1: Memory Map)
+This chapter covers the basics of understanding the STM32F401 memory map for the STM32F4 ARM architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Reverse-Engineering/blob/main/Embedded-Reverse-Engineering.pdf) to read the FREE pdf book.
+
+## Embedded Reverse Engineering Course (Chapter 2: Clock)
+This chapter covers the basics of understanding the STM32F401 clock for the STM32F4 ARM architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Reverse-Engineering/blob/main/Embedded-Reverse-Engineering.pdf) to read the FREE pdf book.
+
+## IN DEVELOPMENT...
+
+<br>
+
 ## Hacking Bits Course
 
 ## Hacking Bits Course (Chapter 1: Ohm's Law - The Foundation of Electronics)
@@ -1831,7 +1847,7 @@ This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 <br>
 
-## Data Science
+## Reversing Engineering Data
 
 TBD
 
