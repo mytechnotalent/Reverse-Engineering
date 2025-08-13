@@ -1835,9 +1835,14 @@ This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 <br>
 
-## Reversing Engineering Data
+## Reversing Engineering Data Course
 
-TBD COMING SOON!
+## Reversing Engineering Data Course (00-CLT: Central Limit Theorem)
+This chapter covers the Central Limit Theorem within Data Science.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE pdf book.
+
+UNDER DEVELOPMENT
 
 <br>
 
