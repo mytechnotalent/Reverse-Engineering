@@ -2,10 +2,6 @@
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
-<br><br>
-
-## Merch [HERE](https://reverse-engineering.myspreadshop.com/all)
-
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
