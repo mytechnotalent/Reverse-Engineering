@@ -21,12 +21,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Agentic AI - MCP
-## Local MCP Client [HERE](https://github.com/mytechnotalent/Local_MCP_Client)
-## MalwareBazaar_MCP [HERE](https://github.com/mytechnotalent/MalwareBazaar_MCP)
-
-<br>
-
 ## Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
