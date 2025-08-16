@@ -1832,6 +1832,16 @@ This chapter covers the Central Limit Theorem within Data Science.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE pdf book.
 
+## Reversing Engineering Data Course (01-EDA: Exploratory Data Analysis)
+This chapter covers an extensive exploratory data analysis of the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (02-Clustering: Clustering)
+This chapter covers an extensive KMeans and PCA clustering within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
+
 UNDER DEVELOPMENT
 
 <br>
