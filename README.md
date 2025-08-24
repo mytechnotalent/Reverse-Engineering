@@ -1842,6 +1842,26 @@ This chapter covers an extensive KMeans and PCA clustering within the Penguins d
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
 
+## Reversing Engineering Data Course (03-SLR-LR: Simple Linear Regression - Linear Relationship)
+This chapter covers simple Linear Regression utilizing a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship)
+This chapter covers simple Linear Regression utilizing a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature)
+This chapter covers simple Linear Regression fitting a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature)
+This chapter covers simple Linear Regression fitting a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE pdf book.
+
 UNDER DEVELOPMENT
 
 <br>
