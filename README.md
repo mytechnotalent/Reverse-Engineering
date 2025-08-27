@@ -1872,6 +1872,16 @@ This chapter covers simple Linear Regression fitting a single non-linear feature
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the FREE pdf book.
 
+## Reversing Engineering Data Course (09-SLR-MLFP: Simple Linear Regression - Measuring Linear Feature Performance)
+This chapter covers simple Linear Regression measuring a single non-linear feature model's performance within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (10-SLR-FMM: Simple Linear Regression - Fitting Multiple Models)
+This chapter covers simple Linear Regression fitting multiple models for a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE pdf book.
+
 UNDER DEVELOPMENT
 
 <br>
