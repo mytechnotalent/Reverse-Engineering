@@ -1882,6 +1882,16 @@ This chapter covers simple Linear Regression fitting multiple models for a singl
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE pdf book.
 
+## Reversing Engineering Data Course (11-MLR-AF: Multiple Linear Regression - Additive Features)
+This chapter covers simple Linear Regression additive features and how they shift the best fit line up or down.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the FREE pdf book.
+
+## Reversing Engineering Data Course (12-MLR-AF: Multiple Linear Regression - Interactive Features)
+This chapter covers simple Linear Regression additive features and how they rotate the best fit line and change the slope.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the FREE pdf book.
+
 UNDER DEVELOPMENT
 
 <br>
