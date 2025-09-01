@@ -1897,6 +1897,11 @@ This chapter covers multiple Linear Regression by comprehensively modeling with 
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-MLR-LR.ipynb) to read the FREE pdf book.
 
+## Reversing Engineering Data Course (14-EDA: Exploratory Data Analysis)
+This chapter covers an extensive exploratory data analysis of the Cybersecurity Intrusion Detection dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-EDA.ipynb) to read the FREE pdf book.
+
 UNDER DEVELOPMENT
 
 <br>
