@@ -49,6 +49,7 @@ Assembled by @0xInfection (Twitter)
 ## STM32F401 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F401_Button_Interrupt_Driver)
 ## STM32F401 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F401_SSD1306_Driver)
 ## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
+## RP2350 Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver)
 
 <br>
 
