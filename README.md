@@ -40,6 +40,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Robotics
+## C Robot [HERE](https://github.com/mytechnotalent/C-Robot)
+## Rust Robot [HERE](https://github.com/mytechnotalent/Rust-Robot)
+
+<br>
+
 ## Embedded Assembler Drivers
 ## ATmega328P Blink Driver [HERE](https://github.com/mytechnotalent/ATmega328P_Blink_Driver)
 ## ATmega328P IO Driver [HERE](https://github.com/mytechnotalent/ATmega328P_IO_Driver)
