@@ -1644,7 +1644,7 @@ This chapter covers static variables as well as an intro to GPIO inputs as we wo
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (hapter 21: Debugging Static Variables)
+## Embedded Hacking Course (Chapter 21: Debugging Static Variables)
 This chapter covers debugging static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
@@ -1670,47 +1670,47 @@ This chapter covers hacking constants as well as an intro to I2C as we work a 16
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 26: Operators)
-This chapter covers operators as well as an intro to single-wire protocol as we work a DHT11 temperature sensor as it relates to embedded development on the Pico 2.
+This chapter covers operators as well as an intro to single-wire protocol as we work a DHT11 temperature and humidity sensor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 27: Debugging Operators)
-This chapter covers debugging operators as well as an intro to single-wire protocol as we work a DHT11 temperature sensor as it relates to embedded development on the Pico 2.
+This chapter covers debugging operators as well as an intro to single-wire protocol as we work a DHT11 temperature and humidity sensor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 28: Hacking Operators)
-This chapter covers hacking operators as well as an intro to single-wire protocol as we work a DHT11 temperature sensor as it relates to embedded development on the Pico 2.
+This chapter covers hacking operators as well as an intro to single-wire protocol as we work a DHT11 temperature and humidity sensor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 29: Static Conditionals)
-This chapter covers static conditionals as it relates to embedded development on the Pico 2.
+This chapter covers static conditionals as well as an intro to PWM as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 30: Debugging Static Conditionals)
-This chapter covers debugging static conditionals as it relates to embedded development on the Pico 2.
+This chapter covers debugging static conditionals as well as an intro to PWM as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 31: Hacking Static Conditionals)
-This chapter covers hacking static conditionals as it relates to embedded development on the Pico 2.
+This chapter covers hacking static conditionals as well as an intro to PWM as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 32: Dynamic Conditionals)
-This chapter covers dynamic conditionals as it relates to embedded development on the Pico 2.
+This chapter covers dynamic conditionals as well as additional PWM examples as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 33: Debugging Dynamic Conditionals)
-This chapter covers debugging dynamic conditionals as it relates to embedded development on the Pico 2.
+This chapter covers debugging dynamic conditionals as well as additional PWM examples as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 34: Hacking Dynamic Conditionals)
-This chapter covers hacking dynamic conditionals as it relates to embedded development on the Pico 2.
+This chapter covers hacking dynamic conditionals as well as additional PWM examples as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -1730,12 +1730,12 @@ This chapter covers hacking functions, w/o params and w/o a return value as well
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 38: Functions, w/ Param, w/ Return)
-This chapter covers functions, w/ params and w/ a return value as it relates to embedded development on the Pico 2.
+This chapter covers functions, w/ params and w/ a return value as well as additional infrared examples as we work a infrared receiver and infrared remote controller it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
 ## Embedded Hacking Course (Chapter 39: Debugging Functions, w/ Param, w/ Return)
-This chapter covers debugging functions, w/ params and w/ a return value as it relates to embedded development on the Pico 2.
+This chapter covers debugging functions, w/ params and w/ a return value as well as additional infrared examples as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
