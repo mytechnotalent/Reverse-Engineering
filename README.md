@@ -33,7 +33,8 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Embedded Rust Drivers
-## STM32f303RE Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_blink_driver)
+## STM32f303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
+## STM32f303RE Embassy Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_embassy_blink_driver)
 
 <br>
 
