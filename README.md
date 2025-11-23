@@ -15,12 +15,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Neural Network & GPT Hacking
-## Hacking Neural Networks [HERE](https://github.com/mytechnotalent/HNN)
-## Reverse Engineering GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
-
-<br>
-
 ## Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
@@ -33,32 +27,13 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Windows Assembler
-## 0x0000-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0000-ASM-Hello-World)
-## 0x0001-ASM-Hello-World [HERE](https://github.com/mytechnotalent/0x0001-ASM-Hello-World)
-## UiDll [HERE](https://github.com/mytechnotalent/UiDll)
-
-<br>
-
 ## Robotics
-## C Robot [HERE](https://github.com/mytechnotalent/C-Robot)
 ## Rust Robot [HERE](https://github.com/mytechnotalent/Rust-Robot)
 
 <br>
 
-## Embedded Assembler Drivers
-## ATmega328P Blink Driver [HERE](https://github.com/mytechnotalent/ATmega328P_Blink_Driver)
-## ATmega328P IO Driver [HERE](https://github.com/mytechnotalent/ATmega328P_IO_Driver)
-## ATmega328P UART Driver [HERE](https://github.com/mytechnotalent/ATmega328P_UART_Driver)
-## ATmega328P SSD1306 Driver [HERE](https://github.com/mytechnotalent/ATmega328P_SSD1306_Driver)
-## STM32F401 EEPROM Driver [HERE](https://github.com/mytechnotalent/STM32F401_EEPROM_Driver)
-## STM32F401 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F401_Button_Interrupt_Driver)
-## STM32F401 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F401_SSD1306_Driver)
-## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
-## RP2350 Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver)
-## RP2350 UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Driver)
-## ESP32-C3 Blink Driver [HERE](https://github.com/mytechnotalent/ESP32-C3_Blink_Driver)
-## ESP32-C3 UART Driver [HERE](https://github.com/mytechnotalent/ESP32-C3_UART_Driver)
+## Embedded Rust Drivers
+## STM32f303RE Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_blink_driver)
 
 <br>
 
