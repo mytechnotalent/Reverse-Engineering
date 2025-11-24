@@ -28,7 +28,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## Embedded Rust Drivers
-## STM32F303RE Embassy Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_embassy_blink_driver)
+## ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_embassy_blink_driver)
 
 <br>
 
