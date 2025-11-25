@@ -1687,18 +1687,18 @@ This chapter covers hacking dynamic conditionals as well as additional PWM examp
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (Chapter 35: Functions, w/o Param, w/o Return)
-This chapter covers functions, w/o params and w/o a return value as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
+## Embedded Hacking Course (Chapter 35: Structures)
+This chapter covers structures as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (Chapter 36: Debugging Functions, w/o Param, w/o Return)
-This chapter covers debugging functions, w/o params and w/o a return value as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
+## Embedded Hacking Course (Chapter 36: Debugging Structures)
+This chapter covers debugging structures as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
-## Embedded Hacking Course (Chapter 37: Hacking Functions, w/o Param, w/o Return)
-This chapter covers hacking functions, w/o params and w/o a return value as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
+## Embedded Hacking Course (Chapter 37: Hacking Structures)
+This chapter covers hacking structures as well as an intro to infrared basics as we work a infrared receiver and infrared remote controller as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
