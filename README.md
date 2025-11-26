@@ -4,6 +4,10 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 <br>
 
+VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
+
+<br>
+
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
