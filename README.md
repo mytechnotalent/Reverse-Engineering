@@ -6,61 +6,61 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+# Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
-## Book
-### Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
-### Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+# Book
+## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
+## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Network
-### Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
-### Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+# Network
+## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
 <br>
 
-## Windows Kernel Hacking
-### Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
-### Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
+# Windows Kernel Hacking
+## Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
+## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
 
 <br>
 
-## Embedded Rust Drivers
-### STM32F303RE Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver/blob/main/Chapter1.md)
-### STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
-### ESP32C3 Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver/blob/main/Chapter1.md)
-### ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
-### ESP32C3 Bare-Metal Button Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver/blob/main/Chapter2.md)
-### ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
-### ESP32C3 Bare-Metal UART Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver/blob/main/Chapter3.md)
-### ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
+# Embedded Rust Drivers
+## STM32F303RE Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver/blob/main/Chapter1.md)
+## STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
+## ESP32C3 Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver/blob/main/Chapter1.md)
+## ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
+## ESP32C3 Bare-Metal Button Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver/blob/main/Chapter2.md)
+## ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
+## ESP32C3 Bare-Metal UART Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver/blob/main/Chapter3.md)
+## ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
 
 <br>
 
-## CTF's
-### DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-### DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-### DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
-### DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
-### DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
-### DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
-### DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
-### DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
-### DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
-### DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
+# CTF's
+## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
+## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
+## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
+## DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
+## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
+## DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
+## DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
 
 <br>
 
-## STEM
-### Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
+# STEM
+## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
 
 <br>
 
-## x86 Course
+# x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
 This tutorial will begin with the basic concepts of malware reverse engineering and graduate to an entry-level basic examination of Assembly Language.
@@ -264,7 +264,7 @@ This tutorial will conclude this x86 tutorial.
 
 <br>
 
-## ARM-32 Course 1
+# ARM-32 Course 1
 
 ## Lesson 41: ARM-32 Course 1 (Part 1 – The Meaning Of Life)
 This tutorial will introduce our ARM-32 Course 1 tutorial series.
@@ -393,7 +393,7 @@ This tutorial will discuss hacking the SUB instruction.
 
 <br>
 
-## ARM-32 Course 2
+# ARM-32 Course 2
 
 ## Lesson 66: ARM-32 Course 2 (Part 1 – The Meaning Of Life Part 2)
 This tutorial will introduce our ARM-32 Course 2 course.
@@ -642,7 +642,7 @@ This tutorial will discuss hacking post-decrement operator.
 
 <br>
 
-## ARM-32 Project Course
+# ARM-32 Project Course
 
 ## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
 ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
@@ -676,7 +676,7 @@ ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
 
 <br>
 
-## x64 Course
+# x64 Course
 
 ## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
 This tutorial will discuss the cyber revolution.
@@ -895,7 +895,7 @@ This tutorial will discuss hacking pointers.
 
 <br>
 
-## ARM-64 Course
+# ARM-64 Course
 
 ## Lesson 164: ARM-64 Course (Part 1 - The Meaning Of Life)
 In this lesson we will discuss the course concepts and the meaning of life.
@@ -999,7 +999,7 @@ In this lesson we will discuss hacking the double primitive datatype.
 
 <br>
 
-## Pico Hacking Course
+# Pico Hacking Course
 
 ## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
 In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
@@ -1103,7 +1103,7 @@ In this lesson we will discuss debugging input.
 
 <br>
 
-## Hacking Windows Course
+# Hacking Windows Course
 
 ## Hacking Windows Course (Chapter 1 - Hello World)
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
@@ -1257,7 +1257,7 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 <br>
 
-## Go Hacking Course
+# Go Hacking Course
 
 ## Go Hacking Course (Chapter 1: Hello Distributed System World)
 This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
@@ -1321,7 +1321,7 @@ This chapter covers Golang hacking advanced control flow for the x64 architectur
 
 <br>
 
-## Hacking Rust Course
+# Hacking Rust Course
 
 ## Hacking Rust Course (Chapter 1: Hello Rust)
 This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
@@ -1400,7 +1400,7 @@ This chapter covers hacking control flow within a Rust program for the x64 archi
 
 <br>
 
-## Hacking Embedded Rust Course
+# Hacking Embedded Rust Course
 
 ## Hacking Embedded Rust Course (Chapter 1: Wiring)
 This chapter covers the basics of setting up wiring for an embedded Rust Pico.
@@ -1434,7 +1434,7 @@ This chapter covers the project step-by-step of building and flashing Reverse En
 
 <br>
 
-## Hacking Embedded Rust Course w/ microbit
+# Hacking Embedded Rust Course w/ microbit
 
 ## Hacking Embedded Rust Course w/ microbit (Chapter 1: Foundation Analysis and Binary Structure)
 This chapter covers the foundation analysis and binary structure for an embedded Rust microbit.
@@ -1463,7 +1463,7 @@ This chapter covers the exploitation and security assessment for an embedded Rus
 
 <br>
 
-## Embedded Assembler Course
+# Embedded Assembler Course
 
 ## Embedded Assembler Course (Chapter 1: Toolchain)
 This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
@@ -1522,7 +1522,7 @@ This chapter covers functions, interrupts, UART and a simple STUXNET simulation 
 
 <br>
 
-## Embedded Hacking Course
+# Embedded Hacking Course
 
 ## Embedded Hacking Course (Chapter 1: hello, world)
 This chapter covers the basics of setting up a dev environment and basic template firmware for the Pico 2 MCU in addition to printing hello, world.
@@ -1726,7 +1726,7 @@ This chapter covers hacking functions, w/ params and w/ a return value as it rel
 
 <br>
 
-## Hacking Bits Course
+# Hacking Bits Course
 
 ## Hacking Bits Course (Chapter 1: Ohm's Law - The Foundation of Electronics)
 This chapter covers the basics Ohm's Law and basic electronics.
@@ -1780,7 +1780,7 @@ This chapter covers the development and reverse engineering of an servo motor in
 
 <br>
 
-## Hacking RISC-V Course
+# Hacking RISC-V Course
 
 ## Hacking RISC-V Course (Chapter 1: Why RISC-V)
 This chapter covers the "why" of learning RISC-V hacking as we discuss the rise of RISC-V and introduce our ESP32-C3 dev board.
@@ -1829,5 +1829,5 @@ This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
