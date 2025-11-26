@@ -11,52 +11,52 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 <br>
 
 ## Book
-## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
-## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+### Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
+### Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
 
 ## Network
-## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
-## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+### Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+### Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
 
 <br>
 
 ## Windows Kernel Hacking
-## Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
-## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
+### Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
+### Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
 
 <br>
 
 ## Embedded Rust Drivers
-## STM32F303RE Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver/blob/main/Chapter1.md)
-## STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver/blob/main/Chapter1.md)
-## ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Button Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver/blob/main/Chapter2.md)
-## ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
-## ESP32C3 Bare-Metal UART Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver/blob/main/Chapter3.md)
-## ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
+### STM32F303RE Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver/blob/main/Chapter1.md)
+### STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
+### ESP32C3 Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver/blob/main/Chapter1.md)
+### ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
+### ESP32C3 Bare-Metal Button Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver/blob/main/Chapter2.md)
+### ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
+### ESP32C3 Bare-Metal UART Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver/blob/main/Chapter3.md)
+### ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
 
 <br>
 
 ## CTF's
-## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
-## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
-## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
-## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
-## DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
-## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
-## DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
-## DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
+### DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+### DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+### DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
+### DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+### DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
+### DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
+### DC540 Hacking Challenge 0x00006 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00006)
+### DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
+### DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
+### DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
 
 <br>
 
 ## STEM
-## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
+### Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
 
 <br>
 
