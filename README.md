@@ -29,14 +29,16 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Embedded Assembler Drivers
+## RP2350 Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver)
+## RP2350 UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Driver)
+
+<br>
+
 # Embedded Rust Drivers
-## STM32F303RE Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver/blob/main/Chapter1.md)
 ## STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Blink Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver/blob/main/Chapter1.md)
 ## ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Button Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver/blob/main/Chapter2.md)
 ## ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
-## ESP32C3 Bare-Metal UART Driver Tutorial [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver/blob/main/Chapter3.md)
 ## ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
 
 <br>
