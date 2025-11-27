@@ -38,10 +38,10 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Embedded Rust Drivers
-## STM32F303RE Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_blink_driver)
-## ESP32C3 Bare-Metal Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_button_driver)
-## ESP32C3 Bare-Metal UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_bare_metal_uart_driver)
+## STM32F303RE Rust Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_rust_blink_driver)
+## ESP32C3 Rust Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_blink_driver)
+## ESP32C3 Rust Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_button_driver)
+## ESP32C3 Rust UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_uart_driver)
 
 <br>
 
