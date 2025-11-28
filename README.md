@@ -37,11 +37,16 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Embedded C Drivers
+## RP2350 C Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_C_Blink_Driver)
+
+<br>
+
 # Embedded Rust Drivers
-## STM32F303RE Rust Blink Driver [HERE](https://github.com/mytechnotalent/stm32f303re_rust_blink_driver)
-## ESP32C3 Rust Blink Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_blink_driver)
-## ESP32C3 Rust Button Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_button_driver)
-## ESP32C3 Rust UART Driver [HERE](https://github.com/mytechnotalent/esp32c3_rust_uart_driver)
+## STM32F303RE Rust Blink Driver [HERE](https://github.com/mytechnotalent/STM32F303RE_Rust_Blink_Driver)
+## ESP32C3 Rust Blink Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_Blink_Driver)
+## ESP32C3 Rust Button Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_Button_Driver)
+## ESP32C3 Rust UART Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_UART_Driver)
 
 <br>
 
