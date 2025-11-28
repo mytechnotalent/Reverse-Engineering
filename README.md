@@ -31,6 +31,7 @@ Assembled by @0xInfection (Twitter)
 
 # Embedded Assembler Drivers
 ## RP2350 Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver)
+## RP2350 Button Driver [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver)
 ## RP2350 UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Driver)
 ## ESP32-C3 Blink Driver [HERE](https://github.com/mytechnotalent/ESP32-C3_Blink_Driver)
 ## ESP32-C3 UART Driver [HERE](https://github.com/mytechnotalent/ESP32-C3_UART_Driver)
