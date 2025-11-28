@@ -39,6 +39,7 @@ Assembled by @0xInfection (Twitter)
 
 # Embedded C Drivers
 ## RP2350 C Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_C_Blink_Driver)
+## RP2350 C UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Blink_Driver)
 
 <br>
 
