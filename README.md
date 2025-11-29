@@ -45,13 +45,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Embedded Rust Drivers
-## ESP32-C3 Rust Blink Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_Blink_Driver)
-## ESP32-C3 Rust Button Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_Button_Driver)
-## ESP32-C3 Rust UART Driver [HERE](https://github.com/mytechnotalent/ESP32C3_Rust_UART_Driver)
-
-<br>
-
 # CTF's
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
