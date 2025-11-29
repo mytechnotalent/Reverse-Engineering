@@ -46,6 +46,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Embedded Rust Drivers
+## RP2350 Rust Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Rust_Blink_Driver)
+
+<br>
+
 # CTF's
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
