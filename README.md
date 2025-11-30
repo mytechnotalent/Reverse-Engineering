@@ -29,6 +29,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Embedded AI Assistant (MAC)
+## Embedi [HERE](https://github.com/mytechnotalent/embedi)
+
+<br>
+
 # Embedded Assembler Drivers
 ## RP2350 Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver)
 ## RP2350 Button Driver [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver)
