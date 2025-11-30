@@ -29,7 +29,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Embedded AI Assistant (MAC)
+# Embedded AI
 ## Embedi [HERE](https://github.com/mytechnotalent/embedi)
 
 <br>
