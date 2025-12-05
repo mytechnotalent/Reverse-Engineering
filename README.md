@@ -32,6 +32,7 @@ Assembled by @0xInfection (Twitter)
 # Embedded Rust Drivers
 ## RP2350 Rust UART Driver [HERE](https://github.com/mytechnotalent/RP2350_Rust_UART_Driver)
 ## RP2350 Rust Blink Driver [HERE](https://github.com/mytechnotalent/RP2350_Rust_Blink_Driver)
+## RP2350 Rust Button Driver [HERE](https://github.com/mytechnotalent/RP2350_Rust_Button_Driver)
 
 <br>
 
