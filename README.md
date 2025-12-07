@@ -30,8 +30,9 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Embedded Rust Projects
-## DAY001: Blink a Single LED [HERE](https://github.com/mytechnotalent/DAY001)
-## DAY002: Blink Multiple LEDs in Sequence [HERE](https://github.com/mytechnotalent/DAY002)
+## DAY001: The First Blink [HERE](https://github.com/mytechnotalent/DAY001)
+## DAY002: Blink LEDs in Sequence [HERE](https://github.com/mytechnotalent/DAY002)
+## DAY003: Traffic Light Sim [HERE](https://github.com/mytechnotalent/DAY003)
 
 <br>
 
