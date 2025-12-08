@@ -33,6 +33,8 @@ Assembled by @0xInfection (Twitter)
 ## DAY001: The First Blink [HERE](https://github.com/mytechnotalent/DAY001)
 ## DAY002: Blink LEDs in Sequence [HERE](https://github.com/mytechnotalent/DAY002)
 ## DAY003: Traffic Light Sim [HERE](https://github.com/mytechnotalent/DAY003)
+## DAY004: PWM Brightness Control [HERE](https://github.com/mytechnotalent/DAY004)
+## DAY005: Smooth LED Fade [HERE](https://github.com/mytechnotalent/DAY005)
 
 <br>
 
