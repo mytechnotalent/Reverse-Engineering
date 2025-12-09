@@ -17,6 +17,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Reverse Engineering GPT
+## RE-GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
+
+<br>
+
 # Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
