@@ -17,8 +17,8 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# TinyGPT
-## TinyGPT [HERE](https://github.com/mytechnotalent/TinyGPT)
+# Reverse Engineering GPT
+## RE-GPT [HERE](https://github.com/mytechnotalent/RE-GPT)
 
 <br>
 
