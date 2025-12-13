@@ -19,6 +19,7 @@ Assembled by @0xInfection (Twitter)
 
 # HackingGPT
 ## HackingGPT Part 1 [HERE](https://github.com/mytechnotalent/HackingGPT-1)
+## HackingGPT Part 2 [HERE](https://github.com/mytechnotalent/HackingGPT-2)
 
 <br>
 
