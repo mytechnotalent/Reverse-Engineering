@@ -23,6 +23,8 @@ Assembled by @0xInfection (Twitter)
 ## HackingGPT Part 3 [HERE](https://github.com/mytechnotalent/HackingGPT-3)
 ## HackingGPT Part 4 [HERE](https://github.com/mytechnotalent/HackingGPT-4)
 ## HackingGPT Part 5 [HERE](https://github.com/mytechnotalent/HackingGPT-5)
+## HackingGPT Part 6 [HERE](https://github.com/mytechnotalent/HackingGPT-6)
+## HackingGPT Part 7 [HERE](https://github.com/mytechnotalent/HackingGPT-7)
 
 <br>
 
