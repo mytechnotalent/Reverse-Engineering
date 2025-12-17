@@ -17,11 +17,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# GPT From Scratch
-## GPT From Scratch [HERE](https://github.com/mytechnotalent/gpt_from_scratch)
-
-<br>
-
 # Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
