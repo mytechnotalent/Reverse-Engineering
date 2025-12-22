@@ -10,6 +10,14 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
+# Todays Tutorial [December 22, 2025]
+## Lesson 56: ARM-32 Course 1 (Part 16 - Hacking ADD)
+This tutorial will discuss hacking the add instruction.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
