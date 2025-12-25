@@ -11,8 +11,8 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 <br>
 
 # Todays Tutorial [December 24, 2025]
-## Lesson 58: ARM-32 Course 1 (Part 18 – Debugging ADDS)
-This tutorial will discuss debugging the adds instruction.
+## Lesson 59: ARM-32 Course 1 (Part 19 – Hacking ADDS)
+This tutorial will discuss hacking the adds instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
