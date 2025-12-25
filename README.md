@@ -10,7 +10,7 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [December 24, 2025]
+# Todays Tutorial [December 25, 2025]
 ## Lesson 59: ARM-32 Course 1 (Part 19 – Hacking ADDS)
 This tutorial will discuss hacking the adds instruction.
 
