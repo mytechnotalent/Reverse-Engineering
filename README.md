@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [December 25, 2025]
-## Lesson 59: ARM-32 Course 1 (Part 19 – Hacking ADDS)
-This tutorial will discuss hacking the adds instruction.
+# Todays Tutorial [December 26, 2025]
+## Lesson 60: ARM-32 Course 1 (Part 20 – ADC)
+This tutorial will discuss the ADC instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
