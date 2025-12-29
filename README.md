@@ -10,11 +10,11 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [December 28, 2025]
-## Lesson 62: ARM-32 Course 1 (Part 22 – Hacking ADC)
-This tutorial will discuss hacking the ADC instruction.
+# Todays Tutorial [December 29, 2025]
+## Lesson 63: ARM-32 Course 1 (Part 23 – SUB)
+This tutorial will discuss the SUB instruction.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
+-> Click [HERE](https://0xinfection.github.io/reversing)
 
 <br>
 
