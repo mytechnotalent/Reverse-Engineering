@@ -10,11 +10,11 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [December 29, 2025]
-## Lesson 63: ARM-32 Course 1 (Part 23 – SUB)
-This tutorial will discuss the SUB instruction.
+# Todays Tutorial [December 30, 2025]
+## Lesson 64: ARM-32 Course 1 (Part 24 – Debugging SUB)
+This tutorial will discuss debugging the SUB instruction.
 
--> Click [HERE](https://0xinfection.github.io/reversing)
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
 
 <br>
 
