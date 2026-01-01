@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [December 31, 2025]
-## Lesson 65: ARM-32 Course 1 (Part 25 – Hacking SUB)
-This tutorial will discuss hacking the SUB instruction.
+# Todays Tutorial [January 1, 2026]
+## Lesson 66: ARM-32 Course 2 (Part 1 – The Meaning Of Life Part 2)
+This tutorial will introduce our ARM-32 Course 2 course.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
