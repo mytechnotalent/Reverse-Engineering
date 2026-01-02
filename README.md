@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 1, 2026]
-## Lesson 66: ARM-32 Course 2 (Part 1 – The Meaning Of Life Part 2)
-This tutorial will introduce our ARM-32 Course 2 course.
+# Todays Tutorial [January 2, 2026]
+## Lesson 67: ARM-32 Course 2 (Part 2 – Number Systems)
+This tutorial will discuss number systems.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
