@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 2, 2026]
-## Lesson 67: ARM-32 Course 2 (Part 2 – Number Systems)
-This tutorial will discuss number systems.
+# Todays Tutorial [January 3, 2026]
+## Lesson 68: ARM-32 Course 2 (Part 3 – Binary Addition)
+This tutorial will discuss binary addition.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
