@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 3, 2026]
-## Lesson 68: ARM-32 Course 2 (Part 3 – Binary Addition)
-This tutorial will discuss binary addition.
+# Todays Tutorial [January 4, 2026]
+## Lesson 69: ARM-32 Course 2 (Part 4 – Binary Subtraction)
+This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
