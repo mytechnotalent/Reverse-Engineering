@@ -10,11 +10,11 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 4, 2026]
-## Lesson 69: ARM-32 Course 2 (Part 4 – Binary Subtraction)
-This tutorial will discuss binary subtraction.
+# Todays Tutorial [January 5, 2026]
+## Lesson 70: ARM-32 Course 2 (Part 5 – Word Lengths)
+This tutorial will discuss word lengths.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
 
 <br>
 
