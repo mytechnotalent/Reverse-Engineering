@@ -10,12 +10,11 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 5, 2026]
-## Lesson 70: ARM-32 Course 2 (Part 5 – Word Lengths)
-This tutorial will discuss word lengths.
+# Todays Tutorial [January 6, 2026]
+## Lesson 71: ARM-32 Course 2 (Part 6 – Registers)
+This tutorial will discuss registers.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
-
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 <br>
 
 # Book
