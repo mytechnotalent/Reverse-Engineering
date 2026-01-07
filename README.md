@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 6, 2026]
-## Lesson 71: ARM-32 Course 2 (Part 6 – Registers)
-This tutorial will discuss registers.
+# Todays Tutorial [January 7, 2026]
+## Lesson 72: ARM-32 Course 2 (Part 7 – Program Counter)
+This tutorial will discuss program counter.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 <br>
