@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 7, 2026]
-## Lesson 72: ARM-32 Course 2 (Part 7 – Program Counter)
-This tutorial will discuss program counter.
+# Todays Tutorial [January 8, 2026]
+## Lesson 73: ARM-32 Course 2 (Part 8 - CPSR)
+This tutorial will discuss the CPSR.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 <br>
