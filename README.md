@@ -10,9 +10,9 @@ VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
-# Todays Tutorial [January 9, 2026]
-## Lesson 74: ARM-32 Course 2 (Part 9 - Link Register)
-This tutorial will discuss the link register.
+# Todays Tutorial [January 10, 2026]
+## Lesson 75: ARM-32 Course 2 (Part 10 - Stack Pointer)
+This tutorial will discuss the stack pointer.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
