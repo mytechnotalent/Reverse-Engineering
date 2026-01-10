@@ -52,11 +52,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Bare-Metal Assembler Drivers
-## RP2350 UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Driver)
-
-<br>
-
 # STEM
 ## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
 
