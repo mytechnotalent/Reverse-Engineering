@@ -2,7 +2,7 @@
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
-VIDEO PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
+FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
 <br>
 
@@ -49,6 +49,11 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
 ## DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
 ## DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
+
+<br>
+
+# Bare-Metal Assembler Drivers
+## RP2350 UART Driver [HERE](https://github.com/mytechnotalent/RP2350_UART_Driver)
 
 <br>
 
