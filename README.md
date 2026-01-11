@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Todays Tutorial [January 10, 2026]
-## Lesson 75: ARM-32 Course 2 (Part 10 - Stack Pointer)
-This tutorial will discuss the stack pointer.
+# Todays Tutorial [January 11, 2026]
+## Lesson 76: ARM-32 Course 2 (Part 11 - Firmware Boot Procedures)
+This tutorial will discuss the firmware boot procedures.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
