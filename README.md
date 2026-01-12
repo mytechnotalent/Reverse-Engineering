@@ -57,6 +57,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Arduino Uno Q Apps
+## Iris Species Classification App [HERE](https://github.com/mytechnotalent/iris-species-classification-app)
+
+<br>
+
 # x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
