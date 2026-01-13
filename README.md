@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Todays Tutorial [January 12, 2026]
-## Lesson 77: ARM-32 Course 2 (Part 12 - Von Neumann Architecture)
-This tutorial will discuss the Von Neumann Architecture.
+# Todays Tutorial [January 13, 2026]
+## Lesson 78: ARM-32 Course 2 (Part 13 - Instruction Pipeline)
+This tutorial will discuss the instruction pipeline.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
