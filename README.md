@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Todays Tutorial [January 13, 2026]
-## Lesson 78: ARM-32 Course 2 (Part 13 - Instruction Pipeline)
-This tutorial will discuss the instruction pipeline.
+# Todays Tutorial [January 14, 2026]
+## Lesson 79: ARM-32 Course 2 (Part 14 - Hello World)
+This tutorial will discuss the basics of a hello world program in ARM 32-bit.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
