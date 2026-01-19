@@ -55,6 +55,7 @@ Assembled by @0xInfection (Twitter)
 # STEM
 
 ## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
+## Python Zero To Hero [HERE](https://github.com/mytechnotalent/python_zero_to_hero)
 
 <br>
 
