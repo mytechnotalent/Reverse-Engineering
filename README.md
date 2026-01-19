@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 18, 2026]
-## Lesson 83: ARM-32 Course 2 (Part 18 – Debugging Constants)
-This tutorial will discuss debugging constants.
+# Today's Tutorial [January 19, 2026]
+## Lesson 84: ARM-32 Course 2 (Part 19 – Hacking Constants)
+This tutorial will discuss hacking constants.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
