@@ -52,20 +52,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Reverse Engineering Data
-
-## Iris - MLP
-A scalable multi-layer perceptron (MLP) implementation for the Iris dataset, supporting both classification and regression with PyTorch.
-
--> Click [HERE](https://github.com/mytechnotalent/I-MLP) to model and inference utilizing the FREE Jupyter Notebooks.
-
-<br>
-
-# Arduino Uno Q Apps
-## Iris Species Classification App [HERE](https://github.com/mytechnotalent/iris-species-classification-app)
-
-<br>
-
 # STEM
 
 ## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
