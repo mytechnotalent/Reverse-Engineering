@@ -54,15 +54,10 @@ Assembled by @0xInfection (Twitter)
 
 # Reverse Engineering Data
 
-## Social Media Viral Content & Engagement Metrics
-AI/ML modeling and inference engine utilizing the Social Media Viral Content & Engagement Metrics dataset.
+## Iris - MLP
+A scalable multi-layer perceptron (MLP) implementation for the Iris dataset, supporting both classification and regression with PyTorch.
 
--> Click [HERE](https://github.com/mytechnotalent/m-Social_Media_Viral_Content_and_Engagement_Metrics) to model and inference utilizing the FREE Jupyter Notebooks.
-
-## E-Commerce Business Analysis (2022–2024)
-AI/ML modeling and inference engine utilizing the E-Commerce Business Analysis (2022–2024) dataset.
-
--> Click [HERE](https://github.com/mytechnotalent/m-E_Commerce_Business_Analysis_-2022_2024-) to model and inference utilizing the FREE Jupyter Notebooks.
+-> Click [HERE](https://github.com/mytechnotalent/I-MLP) to model and inference utilizing the FREE Jupyter Notebooks.
 
 <br>
 
