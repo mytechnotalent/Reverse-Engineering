@@ -53,33 +53,27 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Reverse Engineering Data
-## 00-CLT: Central Limit Theorem [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb)
-## 01-EDA: Exploratory Data Analysis [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb)
-## 02-Clustering: Clustering [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb)
-## 03-SLR-LR: SLR - Linear Relationship [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb)
-## 04-SLR-NLR: SLR - Non-Linear Relationship [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb)
-## 05-SLR-FLF: SLR - Fitting Linear Feature [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb)
-## 06-SLR-FNLF: SLR - Fitting Non-Linear Feature [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb)
-## 07-SLR-FNLF: SLR - Fitting Linear Feature Predictions [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb)
-## 08-SLR-FNLF: SLR - Fitting Non-Linear Feature Predictions [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb)
-## 09-SLR-MLFP: SLR - Measuring Linear Feature Performance [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb)
-## 10-SLR-FMM: SLR - Fitting Multiple Models [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb)
-## 11-MLR-AF: MLR - Additive Features [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb)
-## 12-MLR-AF: MLR - Interactive Features [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb)
-## 13-LR: Linear Regression [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb)
-## 14-EDA: Exploratory Data Analysis [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-EDA.ipynb)
-## 15-LR: Logistic Regression [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-LR.ipynb)
-## 16-MLP: Multilayer Perceptron [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-MLP.ipynb)
 
-<br>
+## Social Media Viral Content & Engagement Metrics
+AI/ML modeling and inference engine utilizing the Social Media Viral Content & Engagement Metrics dataset.
 
-# STEM
-## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
+-> Click [HERE](https://github.com/mytechnotalent/m-Social_Media_Viral_Content_and_Engagement_Metrics) to model and inference utilizing the FREE Jupyter Notebooks.
+
+## E-Commerce Business Analysis (2022–2024)
+AI/ML modeling and inference engine utilizing the E-Commerce Business Analysis (2022–2024) dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/m-E_Commerce_Business_Analysis_-2022_2024-) to model and inference utilizing the FREE Jupyter Notebooks.
 
 <br>
 
 # Arduino Uno Q Apps
 ## Iris Species Classification App [HERE](https://github.com/mytechnotalent/iris-species-classification-app)
+
+<br>
+
+# STEM
+
+## Python For Kids [HERE](https://github.com/mytechnotalent/Python-For-Kids)
 
 <br>
 
