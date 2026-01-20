@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 19, 2026]
-## Lesson 84: ARM-32 Course 2 (Part 19 – Hacking Constants)
-This tutorial will discuss hacking constants.
+# Today's Tutorial [January 20, 2026]
+## Lesson 85: ARM-32 Course 2 (Part 20 – Character Variables)
+This tutorial will discuss character variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
