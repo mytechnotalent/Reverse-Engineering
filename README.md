@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 22, 2026]
-## Lesson 87: ARM-32 Course 2 (Part 22 – Hacking Character Variables)
-This tutorial will discuss hacking character variables.
+# Today's Tutorial [January 23, 2026]
+## Lesson 88: ARM-32 Course 2 (Part 23 – Boolean Variables)
+This tutorial will discuss boolean variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
