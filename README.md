@@ -6,6 +6,12 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
+# ⚡️ New: I am now deconstructing AI.
+**I have launched a new engineering log, [Bits & Neurons](https://mytechnotalent.substack.com), where I apply these reverse engineering principles to Artificial Intelligence.**
+[Subscribe here to see me build and break AI models.](https://mytechnotalent.substack.com)
+
+<br>
+
 # Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
