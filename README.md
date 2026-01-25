@@ -16,9 +16,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 24, 2026]
-## Lesson 89: ARM-32 Course 2 (Part 24 – Debugging Boolean Variables)
-This tutorial will discuss debugging boolean variables.
+# Today's Tutorial [January 25, 2026]
+## Lesson 90: ARM-32 Course 2 (Part 25 – Hacking Boolean Variables)
+This tutorial will discuss hacking boolean variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
