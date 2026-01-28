@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 27, 2026]
-## Lesson 92: ARM-32 Course 2 (Part 27 – Debugging Integer Variables)
-This tutorial will discuss debugging integer variables.
+# Today's Tutorial [January 28, 2026]
+## Lesson 93: ARM-32 Course 2 (Part 28 – Hacking Integer Variables)
+This tutorial will discuss hacking integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
