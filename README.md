@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [January 28, 2026]
-## Lesson 93: ARM-32 Course 2 (Part 28 – Hacking Integer Variables)
-This tutorial will discuss hacking integer variables.
+# Today's Tutorial [January 29, 2026]
+## Lesson 94: ARM-32 Course 2 (Part 29 – Float Variables)
+This tutorial will discuss float variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
