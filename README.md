@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 3, 2026]
-## Lesson 99: ARM-32 Course 2 (Part 34 – Hacking Double Variables)
-This tutorial will discuss hacking double variables.
+# Today's Tutorial [February 4, 2026]
+## Lesson 100: ARM-32 Course 2 (Part 35 – SizeOf Operator)
+This tutorial will discuss the sizeof operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
