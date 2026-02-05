@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 4, 2026]
-## Lesson 100: ARM-32 Course 2 (Part 35 – SizeOf Operator)
-This tutorial will discuss the sizeof operator.
+# Today's Tutorial [February 5, 2026]
+## Lesson 101: ARM-32 Course 2 (Part 36 – Debugging SizeOf Operator)
+This tutorial will discuss debugging sizeof operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
