@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 6, 2026]
-## Lesson 102: ARM-32 Course 2 (Part 37 – Hacking SizeOf Operator)
-This tutorial will discuss hacking sizeof operator.
+# Today's Tutorial [February 7, 2026]
+## Lesson 103: ARM-32 Course 2 (Part 38 – Pre-Increment Operator)
+This tutorial will discuss the pre-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
