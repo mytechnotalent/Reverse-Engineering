@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 8, 2026]
-## Lesson 104: ARM-32 Course 2 (Part 39 – Debugging Pre-Increment Operator)
-This tutorial will discuss debugging pre-increment operator.
+# Today's Tutorial [February 9, 2026]
+## Lesson 105: ARM-32 Course 2 (Part 40 – Hacking Pre-Increment Operator)
+This tutorial will discuss hacking pre-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
