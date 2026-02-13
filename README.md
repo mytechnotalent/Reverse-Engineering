@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 9, 2026]
-## Lesson 105: ARM-32 Course 2 (Part 40 – Hacking Pre-Increment Operator)
-This tutorial will discuss hacking pre-increment operator.
+# Today's Tutorial [February 13, 2026]
+## Lesson 106: ARM-32 Course 2 (Part 41 – Post-Increment Operator)
+This tutorial will discuss the post-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
