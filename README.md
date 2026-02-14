@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 13, 2026]
-## Lesson 106: ARM-32 Course 2 (Part 41 – Post-Increment Operator)
-This tutorial will discuss the post-increment operator.
+# Today's Tutorial [February 14, 2026]
+## Lesson 107: ARM-32 Course 2 (Part 42 – Debugging Post-Increment Operator)
+This tutorial will discuss debugging post-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
