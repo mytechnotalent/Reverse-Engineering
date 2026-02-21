@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 20, 2026]
-## Lesson 111: ARM-32 Course 2 (Part 46 – Hacking Pre-Decrement Operator)
-This tutorial will discuss hacking pre-decrement operator.
+# Today's Tutorial [February 21, 2026]
+## Lesson 112: ARM-32 Course 2 (Part 47 – Post-Decrement Operator)
+This tutorial will discuss post-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
