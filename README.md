@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 24, 2026]
-## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
-ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
+# Today's Tutorial [February 25, 2026]
+## Lesson 116: ARM-32 Project (Part 2 – Hacking Int)
+ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
 
--> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World) to read the project on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int) to read the project on GitHub.
 
 <br>
 
