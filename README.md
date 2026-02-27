@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 26, 2026]
-## Lesson 117: ARM-32 Project (Part 3 – Hacking Float)
-ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.
+# Today's Tutorial [February 27, 2026]
+## Lesson 118: ARM-32 Project (Part 4 – Hacking Double)
+ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.
 
--> Click [HERE](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float) to read the project on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double) to read the project on GitHub.
 
 <br>
 
