@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [February 28, 2026]
-## Lesson 119: ARM-32 Project (Part 5 – Hacking Char)
-ARM 32-bit Raspberry Pi Hacking Char example in Kali Linux.
+# Today's Tutorial [March 1, 2026]
+## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
+ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
 
--> Click [HERE](https://github.com/mytechnotalent/0x05-ARM-32-Hacking_Char) to read the project on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer) to read the project on GitHub.
 
 <br>
 
