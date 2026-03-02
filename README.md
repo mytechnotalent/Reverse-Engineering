@@ -25,6 +25,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Anti-AI Reverse Engineering
+## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
+## PixelProof [HERE](https://github.com/mytechnotalent/pixelproof)
+
+<br>
+
 # Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
