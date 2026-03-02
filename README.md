@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 1, 2026]
-## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
-ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
+# Today's Tutorial [March 2, 2026]
+## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
+This tutorial will discuss the cyber revolution.
 
--> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer) to read the project on GitHub.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
