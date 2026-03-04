@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 3, 2026]
-## Lesson 122: x64 Course (Part 2 - Transistors)
-This tutorial will discuss transistors.
+# Today's Tutorial [March 4, 2026]
+## Lesson 123: x64 Course (Part 3 - Logic Gates)
+This tutorial will discuss logic gates.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
