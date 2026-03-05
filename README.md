@@ -25,9 +25,8 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Anti-AI Reverse Engineering
-## KGPT [HERE](https://github.com/mytechnotalent/kgpt)
-## PixelProof [HERE](https://github.com/mytechnotalent/pixelproof)
+# 6502 Reverse Engineering
+## C64 Development Environment [HERE](https://github.com/mytechnotalent/c64-de)
 
 <br>
 
