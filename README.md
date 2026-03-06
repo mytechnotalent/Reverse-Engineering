@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 4, 2026]
-## Lesson 123: x64 Course (Part 3 - Logic Gates)
-This tutorial will discuss logic gates.
+# Today's Tutorial [March 6, 2026]
+## Lesson 124: x64 Course (Part 4 - Number Systems)
+This tutorial will discuss number systems.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
