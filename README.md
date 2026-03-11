@@ -25,11 +25,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# 6502 Reverse Engineering
-## C64 Development Environment [HERE](https://github.com/mytechnotalent/c64-de)
-
-<br>
-
 # Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
