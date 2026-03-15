@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 14, 2026]
-## Lesson 129: x64 Course (Part 9 - Calling Conventions)
-This tutorial will discuss calling conventions.
+# Today's Tutorial [March 15, 2026]
+## Lesson 130: x64 Course (Part 10 - Boolean Instructions)
+This tutorial will discuss boolean instructions.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
