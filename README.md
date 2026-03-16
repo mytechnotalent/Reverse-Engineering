@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 15, 2026]
-## Lesson 130: x64 Course (Part 10 - Boolean Instructions)
-This tutorial will discuss boolean instructions.
+# Today's Tutorial [March 16, 2026]
+## Lesson 131: x64 Course (Part 11 - Pointers)
+This tutorial will discuss pointers.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
