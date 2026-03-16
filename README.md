@@ -141,7 +141,7 @@ This tutorial will address the heap.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 17: x86 Course (Part 17 â€“ How To Install Linux)
+## Lesson 17: x86 Course (Part 17 – How To Install Linux)
 This tutorial will address how to install Ubuntu Linux on both Windows and MAC.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
@@ -265,7 +265,7 @@ This tutorial will conclude this x86 tutorial.
 
 # ARM-32 Course 1
 
-## Lesson 41: ARM-32 Course 1 (Part 1 â€“ The Meaning Of Life)
+## Lesson 41: ARM-32 Course 1 (Part 1 – The Meaning Of Life)
 This tutorial will introduce our ARM-32 Course 1 tutorial series.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
@@ -350,42 +350,42 @@ This tutorial will discuss the adds instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 58: ARM-32 Course 1 (Part 18 â€“ Debugging ADDS)
+## Lesson 58: ARM-32 Course 1 (Part 18 – Debugging ADDS)
 This tutorial will discuss debugging the adds instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 59: ARM-32 Course 1 (Part 19 â€“ Hacking ADDS)
+## Lesson 59: ARM-32 Course 1 (Part 19 – Hacking ADDS)
 This tutorial will discuss hacking the adds instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 60: ARM-32 Course 1 (Part 20 â€“ ADC)
+## Lesson 60: ARM-32 Course 1 (Part 20 – ADC)
 This tutorial will discuss the ADC instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 61: ARM-32 Course 1 (Part 21 â€“ Debugging ADC)
+## Lesson 61: ARM-32 Course 1 (Part 21 – Debugging ADC)
 This tutorial will discuss debugging the ADC instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 62: ARM-32 Course 1 (Part 22 â€“ Hacking ADC)
+## Lesson 62: ARM-32 Course 1 (Part 22 – Hacking ADC)
 This tutorial will discuss hacking the ADC instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
 
-## Lesson 63: ARM-32 Course 1 (Part 23 â€“ SUB)
+## Lesson 63: ARM-32 Course 1 (Part 23 – SUB)
 This tutorial will discuss the SUB instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 64: ARM-32 Course 1 (Part 24 â€“ Debugging SUB)
+## Lesson 64: ARM-32 Course 1 (Part 24 – Debugging SUB)
 This tutorial will discuss debugging the SUB instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
 
-## Lesson 65: ARM-32 Course 1 (Part 25 â€“ Hacking SUB)
+## Lesson 65: ARM-32 Course 1 (Part 25 – Hacking SUB)
 This tutorial will discuss hacking the SUB instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
@@ -394,37 +394,37 @@ This tutorial will discuss hacking the SUB instruction.
 
 # ARM-32 Course 2
 
-## Lesson 66: ARM-32 Course 2 (Part 1 â€“ The Meaning Of Life Part 2)
+## Lesson 66: ARM-32 Course 2 (Part 1 – The Meaning Of Life Part 2)
 This tutorial will introduce our ARM-32 Course 2 course.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 67: ARM-32 Course 2 (Part 2 â€“ Number Systems)
+## Lesson 67: ARM-32 Course 2 (Part 2 – Number Systems)
 This tutorial will discuss number systems.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 68: ARM-32 Course 2 (Part 3 â€“ Binary Addition)
+## Lesson 68: ARM-32 Course 2 (Part 3 – Binary Addition)
 This tutorial will discuss binary addition.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 69: ARM-32 Course 2 (Part 4 â€“ Binary Subtraction)
+## Lesson 69: ARM-32 Course 2 (Part 4 – Binary Subtraction)
 This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 70: ARM-32 Course 2 (Part 5 â€“ Word Lengths)
+## Lesson 70: ARM-32 Course 2 (Part 5 – Word Lengths)
 This tutorial will discuss word lengths.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. 
 
-## Lesson 71: ARM-32 Course 2 (Part 6 â€“ Registers)
+## Lesson 71: ARM-32 Course 2 (Part 6 – Registers)
 This tutorial will discuss registers.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 72: ARM-32 Course 2 (Part 7 â€“ Program Counter)
+## Lesson 72: ARM-32 Course 2 (Part 7 – Program Counter)
 This tutorial will discuss program counter.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
@@ -479,162 +479,162 @@ This tutorial will discuss constants.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 83: ARM-32 Course 2 (Part 18 â€“ Debugging Constants)
+## Lesson 83: ARM-32 Course 2 (Part 18 – Debugging Constants)
 This tutorial will discuss debugging constants.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 84: ARM-32 Course 2 (Part 19 â€“ Hacking Constants)
+## Lesson 84: ARM-32 Course 2 (Part 19 – Hacking Constants)
 This tutorial will discuss hacking constants.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 85: ARM-32 Course 2 (Part 20 â€“ Character Variables)
+## Lesson 85: ARM-32 Course 2 (Part 20 – Character Variables)
 This tutorial will discuss character variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 86: ARM-32 Course 2 (Part 21 â€“ Debugging Character Variables)
+## Lesson 86: ARM-32 Course 2 (Part 21 – Debugging Character Variables)
 This tutorial will discuss debugging character variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 87: ARM-32 Course 2 (Part 22 â€“ Hacking Character Variables)
+## Lesson 87: ARM-32 Course 2 (Part 22 – Hacking Character Variables)
 This tutorial will discuss hacking character variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 88: ARM-32 Course 2 (Part 23 â€“ Boolean Variables)
+## Lesson 88: ARM-32 Course 2 (Part 23 – Boolean Variables)
 This tutorial will discuss boolean variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 89: ARM-32 Course 2 (Part 24 â€“ Debugging Boolean Variables)
+## Lesson 89: ARM-32 Course 2 (Part 24 – Debugging Boolean Variables)
 This tutorial will discuss debugging boolean variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 90: ARM-32 Course 2 (Part 25 â€“ Hacking Boolean Variables)
+## Lesson 90: ARM-32 Course 2 (Part 25 – Hacking Boolean Variables)
 This tutorial will discuss hacking boolean variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 91: ARM-32 Course 2 (Part 26 â€“ Integer Variables)
+## Lesson 91: ARM-32 Course 2 (Part 26 – Integer Variables)
 This tutorial will discuss integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 92: ARM-32 Course 2 (Part 27 â€“ Debugging Integer Variables)
+## Lesson 92: ARM-32 Course 2 (Part 27 – Debugging Integer Variables)
 This tutorial will discuss debugging integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 93: ARM-32 Course 2 (Part 28 â€“ Hacking Integer Variables)
+## Lesson 93: ARM-32 Course 2 (Part 28 – Hacking Integer Variables)
 This tutorial will discuss hacking integer variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 94: ARM-32 Course 2 (Part 29 â€“ Float Variables)
+## Lesson 94: ARM-32 Course 2 (Part 29 – Float Variables)
 This tutorial will discuss float variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 95: ARM-32 Course 2 (Part 30 â€“ Debugging Float Variables)
+## Lesson 95: ARM-32 Course 2 (Part 30 – Debugging Float Variables)
 This tutorial will discuss debugging float variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 96: ARM-32 Course 2 (Part 31 â€“ Hacking Float Variables)
+## Lesson 96: ARM-32 Course 2 (Part 31 – Hacking Float Variables)
 This tutorial will discuss hacking float variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 97: ARM-32 Course 2 (Part 32 â€“ Double Variables)
+## Lesson 97: ARM-32 Course 2 (Part 32 – Double Variables)
 This tutorial will discuss double variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 98: ARM-32 Course 2 (Part 33 â€“ Debugging Double Variables)
+## Lesson 98: ARM-32 Course 2 (Part 33 – Debugging Double Variables)
 This tutorial will discuss debugging double variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 99: ARM-32 Course 2 (Part 34 â€“ Hacking Double Variables)
+## Lesson 99: ARM-32 Course 2 (Part 34 – Hacking Double Variables)
 This tutorial will discuss hacking double variables.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 100: ARM-32 Course 2 (Part 35 â€“ SizeOf Operator)
+## Lesson 100: ARM-32 Course 2 (Part 35 – SizeOf Operator)
 This tutorial will discuss the sizeof operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 101: ARM-32 Course 2 (Part 36 â€“ Debugging SizeOf Operator)
+## Lesson 101: ARM-32 Course 2 (Part 36 – Debugging SizeOf Operator)
 This tutorial will discuss debugging sizeof operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 102: ARM-32 Course 2 (Part 37 â€“ Hacking SizeOf Operator)
+## Lesson 102: ARM-32 Course 2 (Part 37 – Hacking SizeOf Operator)
 This tutorial will discuss hacking sizeof operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 103: ARM-32 Course 2 (Part 38 â€“ Pre-Increment Operator)
+## Lesson 103: ARM-32 Course 2 (Part 38 – Pre-Increment Operator)
 This tutorial will discuss the pre-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 104: ARM-32 Course 2 (Part 39 â€“ Debugging Pre-Increment Operator)
+## Lesson 104: ARM-32 Course 2 (Part 39 – Debugging Pre-Increment Operator)
 This tutorial will discuss debugging pre-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 105: ARM-32 Course 2 (Part 40 â€“ Hacking Pre-Increment Operator)
+## Lesson 105: ARM-32 Course 2 (Part 40 – Hacking Pre-Increment Operator)
 This tutorial will discuss hacking pre-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 106: ARM-32 Course 2 (Part 41 â€“ Post-Increment Operator)
+## Lesson 106: ARM-32 Course 2 (Part 41 – Post-Increment Operator)
 This tutorial will discuss the post-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 107: ARM-32 Course 2 (Part 42 â€“ Debugging Post-Increment Operator)
+## Lesson 107: ARM-32 Course 2 (Part 42 – Debugging Post-Increment Operator)
 This tutorial will discuss debugging post-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 108: ARM-32 Course 2 (Part 43 â€“ Hacking Post-Increment Operator)
+## Lesson 108: ARM-32 Course 2 (Part 43 – Hacking Post-Increment Operator)
 This tutorial will discuss hacking post-increment operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 109: ARM-32 Course 2 (Part 44 â€“ Pre-Decrement Operator)
+## Lesson 109: ARM-32 Course 2 (Part 44 – Pre-Decrement Operator)
 This tutorial will discuss the pre-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 110: ARM-32 Course 2 (Part 45 â€“ Debugging Pre-Decrement Operator)
+## Lesson 110: ARM-32 Course 2 (Part 45 – Debugging Pre-Decrement Operator)
 This tutorial will discuss debugging pre-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 111: ARM-32 Course 2 (Part 46 â€“ Hacking Pre-Decrement Operator)
+## Lesson 111: ARM-32 Course 2 (Part 46 – Hacking Pre-Decrement Operator)
 This tutorial will discuss hacking pre-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 112: ARM-32 Course 2 (Part 47 â€“ Post-Decrement Operator)
+## Lesson 112: ARM-32 Course 2 (Part 47 – Post-Decrement Operator)
 This tutorial will discuss post-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 113: ARM-32 Course 2 (Part 48 â€“ Debugging Post-Decrement Operator)
+## Lesson 113: ARM-32 Course 2 (Part 48 – Debugging Post-Decrement Operator)
 This tutorial will discuss debugging post-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
-## Lesson 114: ARM-32 Course 2 (Part 49 â€“ Hacking Post-Decrement Operator)
+## Lesson 114: ARM-32 Course 2 (Part 49 – Hacking Post-Decrement Operator)
 This tutorial will discuss hacking post-decrement operator.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
@@ -643,32 +643,32 @@ This tutorial will discuss hacking post-decrement operator.
 
 # ARM-32 Project Course
 
-## Lesson 115: ARM-32 Project (Part 1 â€“ Hacking Hello World)
+## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
 ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World) to read the project on GitHub.
 
-## Lesson 116: ARM-32 Project (Part 2 â€“ Hacking Int)
+## Lesson 116: ARM-32 Project (Part 2 – Hacking Int)
 ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int) to read the project on GitHub.
 
-## Lesson 117: ARM-32 Project (Part 3 â€“ Hacking Float)
+## Lesson 117: ARM-32 Project (Part 3 – Hacking Float)
 ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float) to read the project on GitHub.
 
-## Lesson 118: ARM-32 Project (Part 4 â€“ Hacking Double)
+## Lesson 118: ARM-32 Project (Part 4 – Hacking Double)
 ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double) to read the project on GitHub.
 
-## Lesson 119: ARM-32 Project (Part 5 â€“ Hacking Char)
+## Lesson 119: ARM-32 Project (Part 5 – Hacking Char)
 ARM 32-bit Raspberry Pi Hacking Char example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x05-ARM-32-Hacking_Char) to read the project on GitHub.
 
-## Lesson 120: ARM-32 Project (Part 6 â€“ Hacking Char Pointer)
+## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
 ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
 
 -> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer) to read the project on GitHub.
@@ -677,7 +677,7 @@ ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
 
 # x64 Course
 
-## Lesson 121: x64 Course (Part 1 â€“ The Cyber Revolution)
+## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
 This tutorial will discuss the cyber revolution.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
