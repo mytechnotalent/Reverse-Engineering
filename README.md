@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 16, 2026]
-## Lesson 131: x64 Course (Part 11 - Pointers)
-This tutorial will discuss pointers.
+# Today's Tutorial [March 17, 2026]
+## Lesson 132: x64 Course (Part 12 - Load Effective Address)
+This tutorial will discuss load effective address.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
