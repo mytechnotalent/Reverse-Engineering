@@ -2136,5 +2136,313 @@ This chapter covers the project structure, the build pipeline, the memory map af
 
 <br>
 
+# RP2350 Blink Driver Course
+
+## Lesson 402: RP2350 Blink Driver Course (Chapter 1: What Is a Computer?)
+This chapter covers the fetch-decode-execute cycle, the three core components, microcontrollers vs desktop computers, the RP2350, ARM Cortex-M33, assembly language, and what we will build.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-01.md) to read the FREE tutorial on GitHub.
+
+## Lesson 403: RP2350 Blink Driver Course (Chapter 2: Number Systems — Binary, Hexadecimal, and Decimal)
+This chapter covers decimal, binary, and hexadecimal number systems, the 0x prefix, bit numbering, common bit patterns, two's complement, and data sizes on ARM Cortex-M33.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-02.md) to read the FREE tutorial on GitHub.
+
+## Lesson 404: RP2350 Blink Driver Course (Chapter 3: Memory — Addresses, Bytes, Words, and Endianness)
+This chapter covers the address space, bytes, halfwords, words, alignment, little-endian byte order, memory-mapped registers, the stack, flash memory, SRAM, and reading the address map.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-03.md) to read the FREE tutorial on GitHub.
+
+## Lesson 405: RP2350 Blink Driver Course (Chapter 4: What Is a Register?)
+This chapter covers the ARM Cortex-M33 register file, registers r0-r3, r4-r11, r12, r13 (SP), r14 (LR), r15 (PC), special registers, the program status register (xPSR), and register usage in our firmware.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-04.md) to read the FREE tutorial on GitHub.
+
+## Lesson 406: RP2350 Blink Driver Course (Chapter 5: Load-Store Architecture — How ARM Accesses Memory)
+This chapter covers the load instruction (ldr), the store instruction (str), the load-modify-store pattern, byte and halfword access, push and pop, and memory access in our firmware.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-05.md) to read the FREE tutorial on GitHub.
+
+## Lesson 407: RP2350 Blink Driver Course (Chapter 6: The Fetch-Decode-Execute Cycle in Detail)
+This chapter covers the three stages, the pipeline, a concrete example, how branch instructions affect the pipeline, the Cortex-M33 execution model, and clock speed.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-06.md) to read the FREE tutorial on GitHub.
+
+## Lesson 408: RP2350 Blink Driver Course (Chapter 7: ARM Cortex-M33 ISA Overview)
+This chapter covers the ARM design philosophy, Thumb-2 instruction encoding, instruction categories, instruction encoding formats, and instructions used in our firmware.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-07.md) to read the FREE tutorial on GitHub.
+
+## Lesson 409: RP2350 Blink Driver Course (Chapter 8: ARM Immediate and Move Instructions)
+This chapter covers the mov instruction, the ldr Rd, =value pseudo-instruction, literal pool placement, our firmware's use of immediates, and why not always use mov.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-08.md) to read the FREE tutorial on GitHub.
+
+## Lesson 410: RP2350 Blink Driver Course (Chapter 9: ARM Arithmetic and Logic Instructions)
+This chapter covers arithmetic instructions, logic instructions, the APSR flags, and the read-modify-write pattern.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-09.md) to read the FREE tutorial on GitHub.
+
+## Lesson 411: RP2350 Blink Driver Course (Chapter 10: ARM Memory Access Instructions)
+This chapter covers ldr (load register), str (store register), push and pop (stack operations), memory map and peripheral access, alignment requirements, and msr and mrs (special register access).
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-10.md) to read the FREE tutorial on GitHub.
+
+## Lesson 412: RP2350 Blink Driver Course (Chapter 11: ARM Branch Instructions)
+This chapter covers unconditional branches, conditional branches, branch encoding and range, condition codes, and polling loops.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-11.md) to read the FREE tutorial on GitHub.
+
+## Lesson 413: RP2350 Blink Driver Course (Chapter 12: ARM Calls, Returns, and the Stack Frame)
+This chapter covers the link register, leaf vs non-leaf functions, the call chain, the stack frame, nested calls, the ARM calling convention (AAPCS), parameter passing, and Reset_Handler as a special case.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-12.md) to read the FREE tutorial on GitHub.
+
+## Lesson 414: RP2350 Blink Driver Course (Chapter 13: Assembler Directives)
+This chapter covers syntax and instruction set directives, section directives, symbol directives, data directives, function directives, and the include directive.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-13.md) to read the FREE tutorial on GitHub.
+
+## Lesson 415: RP2350 Blink Driver Course (Chapter 14: Labels, Symbols, and the Symbol Table)
+This chapter covers defining labels, global vs local labels, label types in our firmware, the symbol table, .equ constants, cross-file resolution, the linking process, and the Thumb bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-14.md) to read the FREE tutorial on GitHub.
+
+## Lesson 416: RP2350 Blink Driver Course (Chapter 15: Sections, Memory Layout, and the Linker Script)
+This chapter covers what sections are, our linker script, section-by-section walkthrough, the final memory map, the ENTRY directive, symbol exports from the linker script, and why sections matter.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-15.md) to read the FREE tutorial on GitHub.
+
+## Lesson 417: RP2350 Blink Driver Course (Chapter 16: System Registers and Coprocessor Interface)
+This chapter covers special-purpose registers, memory-mapped system registers, barrier instructions, the coprocessor interface, and the complete coprocessor flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-16.md) to read the FREE tutorial on GitHub.
+
+## Lesson 418: RP2350 Blink Driver Course (Chapter 17: Bit Manipulation Patterns)
+This chapter covers the fundamental operations, setting a single bit, clearing a single bit, clearing a multi-bit field, testing a bit, combined patterns, bit fields in our registers, and why this matters.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-17.md) to read the FREE tutorial on GitHub.
+
+## Lesson 419: RP2350 Blink Driver Course (Chapter 18: RP2350 Hardware Architecture)
+This chapter covers the RP2350 block diagram, memory map, crystal oscillator (XOSC), clock system, reset controller, GPIO architecture, GPIO16 and the LED, and the boot sequence.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-18.md) to read the FREE tutorial on GitHub.
+
+## Lesson 420: RP2350 Blink Driver Course (Chapter 19: The Linker Script)
+This chapter covers the entry point, memory constants, memory regions, program headers, section placement, the resulting memory layout, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-19.md) to read the FREE tutorial on GitHub.
+
+## Lesson 421: RP2350 Blink Driver Course (Chapter 20: The Build System)
+This chapter covers the build pipeline, stage 1 (assembly), stage 2 (linking), stage 3 (binary extraction), stage 4 (UF2 conversion), error handling, flashing the firmware, and the clean script.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-20.md) to read the FREE tutorial on GitHub.
+
+## Lesson 422: RP2350 Blink Driver Course (Chapter 21: image_def.s — The PICOBIN Boot Block)
+This chapter covers the complete source code, section placement, block structure, byte-by-byte analysis, and why this matters.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-21.md) to read the FREE tutorial on GitHub.
+
+## Lesson 423: RP2350 Blink Driver Course (Chapter 22: constants.s — Memory Addresses and Constants)
+This chapter covers the preamble, stack constants, crystal oscillator constants, system registers, clock constants, reset controller constants, GPIO constants, how .include works, and design principle.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-22.md) to read the FREE tutorial on GitHub.
+
+## Lesson 424: RP2350 Blink Driver Course (Chapter 23: vector_table.s and stack.s — Boot Foundation)
+This chapter covers the vector_table.s and stack.s complete source code, the boot sequence, and how they work together at startup.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-23.md) to read the FREE tutorial on GitHub.
+
+## Lesson 425: RP2350 Blink Driver Course (Chapter 24: reset_handler.s — The Boot Sequence)
+This chapter covers the complete source code, symbol metadata, the initialization sequence, the dependency chain, and why Reset_Handler is not a normal function.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-24.md) to read the FREE tutorial on GitHub.
+
+## Lesson 426: RP2350 Blink Driver Course (Chapter 25: xosc.s — Crystal Oscillator and Clock Configuration)
+This chapter covers Init_XOSC line-by-line, Enable_XOSC_Peri_Clock line-by-line, both functions as leaf functions, and the clock domain after configuration.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-25.md) to read the FREE tutorial on GitHub.
+
+## Lesson 427: RP2350 Blink Driver Course (Chapter 26: reset.s — Releasing Peripherals from Reset)
+This chapter covers the complete source code, line-by-line walkthrough, reset register bit map, why the wait is necessary, function characteristics, and local labels.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-26.md) to read the FREE tutorial on GitHub.
+
+## Lesson 428: RP2350 Blink Driver Course (Chapter 27: gpio.s Part 1 — GPIO_Config)
+This chapter covers the complete source code for GPIO_Config, function signature, register save and restore, phase 1 (pad configuration), phase 2 (function select), phase 3 (enable output via coprocessor), the three layers of GPIO configuration, and how main.s calls GPIO_Config.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-27.md) to read the FREE tutorial on GitHub.
+
+## Lesson 429: RP2350 Blink Driver Course (Chapter 28: gpio.s Part 2, delay.s, and coprocessor.s — Output Control and Timing)
+This chapter covers GPIO_Set (drive pin high), GPIO_Clear (drive pin low), Delay_MS (millisecond delay), Enable_Coprocessor (CP0 access), and the runtime flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-28.md) to read the FREE tutorial on GitHub.
+
+## Lesson 430: RP2350 Blink Driver Course (Chapter 29: main.s — The Blink Loop)
+This chapter covers the complete source code, function metadata, register save, GPIO16 configuration (one-time setup), the infinite blink loop, unreachable code, data sections, and the complete execution flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-29.md) to read the FREE tutorial on GitHub.
+
+## Lesson 431: RP2350 Blink Driver Course (Chapter 30: Full Integration — From Source to Blinking LED)
+This chapter covers verifying the toolchain, building the firmware, verifying build artifacts, wiring the hardware, flashing the firmware, verifying operation, troubleshooting, the complete architecture, and what you have learned.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
+
+<br>
+
+# RP2350 Blink Driver RISC-V Course
+
+## Lesson 432: RP2350 Blink Driver RISC-V Course (Chapter 1: What Is a Computer?)
+This chapter covers the fetch-decode-execute cycle, the three core components, microcontrollers vs desktop computers, the RP2350, RISC-V, assembly language, and what we are building.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-01.md) to read the FREE tutorial on GitHub.
+
+## Lesson 433: RP2350 Blink Driver RISC-V Course (Chapter 2: Number Systems — Binary, Hexadecimal, and Decimal)
+This chapter covers decimal, binary, and hexadecimal number systems, the 0x prefix, bit numbering, common bit patterns, two's complement, and data sizes on RISC-V Hazard3.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-02.md) to read the FREE tutorial on GitHub.
+
+## Lesson 434: RP2350 Blink Driver RISC-V Course (Chapter 3: Memory — Addresses, Bytes, Words, and Endianness)
+This chapter covers the address space, bytes, halfwords, words, alignment, little-endian byte order, memory-mapped registers, the stack, flash memory, SRAM, and CSR access.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-03.md) to read the FREE tutorial on GitHub.
+
+## Lesson 435: RP2350 Blink Driver RISC-V Course (Chapter 4: What Is a Register?)
+This chapter covers the RISC-V register file, register x0 (the hardwired zero), ABI register names, control and status registers, and visualizing registers.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-04.md) to read the FREE tutorial on GitHub.
+
+## Lesson 436: RP2350 Blink Driver RISC-V Course (Chapter 5: Load-Store Architecture — How RISC-V Accesses Memory)
+This chapter covers the load-store principle, why load-store, RISC-V load instructions, RISC-V store instructions, base + offset addressing, and the memory bus.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-05.md) to read the FREE tutorial on GitHub.
+
+## Lesson 437: RP2350 Blink Driver RISC-V Course (Chapter 6: The Fetch-Decode-Execute Cycle in Detail)
+This chapter covers the cycle step by step, the pipeline concept, tracing through our firmware, and the program counter.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-06.md) to read the FREE tutorial on GitHub.
+
+## Lesson 438: RP2350 Blink Driver RISC-V Course (Chapter 7: RISC-V Hazard3 ISA Overview)
+This chapter covers the RISC-V design philosophy, the ISA string rv32imac_zicsr, instruction encoding formats, the complete instruction table, and how this maps to our firmware.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-07.md) to read the FREE tutorial on GitHub.
+
+## Lesson 439: RP2350 Blink Driver RISC-V Course (Chapter 8: Immediate and Upper-Immediate Instructions)
+This chapter covers what an immediate is, I-type immediates (12-bit signed), U-type instructions (LUI and AUIPC), building 32-bit constants (LUI + ADDI), the LI pseudo-instruction, and the LA pseudo-instruction.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-08.md) to read the FREE tutorial on GitHub.
+
+## Lesson 440: RP2350 Blink Driver RISC-V Course (Chapter 9: Arithmetic and Logic Instructions)
+This chapter covers R-type format, addition and subtraction, logical operations, shift operations, MUL from M extension, no condition flags, and the read-modify-write pattern.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-09.md) to read the FREE tutorial on GitHub.
+
+## Lesson 441: RP2350 Blink Driver RISC-V Course (Chapter 10: Memory Access — Load and Store Deep Dive)
+This chapter covers the load instruction family, the store instruction family, why our firmware uses only LW and SW, stack operations, CSR access instructions, and the complete memory access map.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-10.md) to read the FREE tutorial on GitHub.
+
+## Lesson 442: RP2350 Blink Driver RISC-V Course (Chapter 11: Branch Instructions)
+This chapter covers how branches work, B-type encoding, the six branch instructions, branches in our firmware, and no flags register.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-11.md) to read the FREE tutorial on GitHub.
+
+## Lesson 443: RP2350 Blink Driver RISC-V Course (Chapter 12: Jumps, Calls, and Returns)
+This chapter covers JAL (jump and link), JALR (jump and link register), the CALL pseudo-instruction, the RET pseudo-instruction, the complete call chain, and nested calls and the stack.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-12.md) to read the FREE tutorial on GitHub.
+
+## Lesson 444: RP2350 Blink Driver RISC-V Course (Chapter 13: Pseudo-Instructions — What the Assembler Does For You)
+This chapter covers what a pseudo-instruction is, the complete pseudo-instruction reference, and why pseudo-instructions matter.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-13.md) to read the FREE tutorial on GitHub.
+
+## Lesson 445: RP2350 Blink Driver RISC-V Course (Chapter 14: Assembler Directives — Controlling the Assembly Process)
+This chapter covers sections, symbol visibility, alignment, data embedding, constant definitions, file inclusion, and labels.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-14.md) to read the FREE tutorial on GitHub.
+
+## Lesson 446: RP2350 Blink Driver RISC-V Course (Chapter 15: The Calling Convention and Stack Frames)
+This chapter covers the RISC-V ilp32 calling convention, the stack, stack frame layout, function types in our firmware, and caller-saved in action.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-15.md) to read the FREE tutorial on GitHub.
+
+## Lesson 447: RP2350 Blink Driver RISC-V Course (Chapter 16: Bitwise Operations for Hardware Programming)
+This chapter covers bit numbering, the four fundamental bit operations, the read-modify-write pattern, bit testing, and SIO atomic registers.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-16.md) to read the FREE tutorial on GitHub.
+
+## Lesson 448: RP2350 Blink Driver RISC-V Course (Chapter 17: Memory-Mapped I/O — Controlling Hardware Through Addresses)
+This chapter covers the principle, RP2350 address space map, peripheral register access patterns, and APB vs SIO.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-17.md) to read the FREE tutorial on GitHub.
+
+## Lesson 449: RP2350 Blink Driver RISC-V Course (Chapter 18: The RP2350 — Architecture and Hardware)
+This chapter covers the RP2350 block diagram, the Hazard3 RISC-V core, memory system, clock infrastructure, reset infrastructure, GPIO system, and boot sequence.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-18.md) to read the FREE tutorial on GitHub.
+
+## Lesson 450: RP2350 Blink Driver RISC-V Course (Chapter 19: The Linker Script — Placing Code in Memory)
+This chapter covers the full source (linker.ld), line-by-line walkthrough, memory layout after linking, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-19.md) to read the FREE tutorial on GitHub.
+
+## Lesson 451: RP2350 Blink Driver RISC-V Course (Chapter 20: The Build Pipeline — From Assembly to Flashable Binary)
+This chapter covers the build pipeline, toolchain auto-detection, stage 1 (assembly), stage 2 (linking), stage 3 (binary extraction), stage 4 (UF2 conversion), error handling, flashing the firmware, and the clean script.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-20.md) to read the FREE tutorial on GitHub.
+
+## Lesson 452: RP2350 Blink Driver RISC-V Course (Chapter 21: Boot Metadata — image_def.s)
+This chapter covers the full source, section placement, start marker, image type item, entry point item, last-item marker, and memory layout.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-21.md) to read the FREE tutorial on GitHub.
+
+## Lesson 453: RP2350 Blink Driver RISC-V Course (Chapter 22: The Constants File — constants.s)
+This chapter covers the full source, how .equ works, stack constants, XOSC constants, GPIO constants, and SIO constants.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-22.md) to read the FREE tutorial on GitHub.
+
+## Lesson 454: RP2350 Blink Driver RISC-V Course (Chapter 23: Stack and Vector Table — stack.s and vector_table.s)
+This chapter covers stack.s full source, stack initialization line by line, vector_table.s full source, vector table line by line, and contrast with ARM.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-23.md) to read the FREE tutorial on GitHub.
+
+## Lesson 455: RP2350 Blink Driver RISC-V Course (Chapter 24: Boot Sequence — reset_handler.s)
+This chapter covers the full source, the boot call chain, Reset_Handler line by line, Default_Trap_Handler, Init_Trap_Vector, the complete boot timeline, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-24.md) to read the FREE tutorial on GitHub.
+
+## Lesson 456: RP2350 Blink Driver RISC-V Course (Chapter 25: Oscillator Initialization — xosc.s)
+This chapter covers the full source, Init_XOSC line by line, Enable_XOSC_Peri_Clock line by line, and contrast with ARM.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-25.md) to read the FREE tutorial on GitHub.
+
+## Lesson 457: RP2350 Blink Driver RISC-V Course (Chapter 26: Reset Controller — reset.s)
+This chapter covers the full source, phase 1 (release from reset), phase 2 (wait for completion), and the clear-bit pattern.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-26.md) to read the FREE tutorial on GitHub.
+
+## Lesson 458: RP2350 Blink Driver RISC-V Course (Chapter 27: GPIO Configuration — gpio.s Part 1)
+This chapter covers GPIO_Config full source, parameters, stack frame, phase 1 (pad configuration), phase 2 (function select), and phase 3 (enable output).
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-27.md) to read the FREE tutorial on GitHub.
+
+## Lesson 459: RP2350 Blink Driver RISC-V Course (Chapter 28: GPIO Set/Clear, Delay, and Coprocessor — gpio.s Part 2, delay.s, coprocessor.s)
+This chapter covers GPIO_Set full source, GPIO_Clear full source, delay.s full source, and coprocessor.s full source.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-28.md) to read the FREE tutorial on GitHub.
+
+## Lesson 460: RP2350 Blink Driver RISC-V Course (Chapter 29: Application Entry Point — main.s)
+This chapter covers the full source, GPIO16 configuration, the blink loop, and the call graph.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-29.md) to read the FREE tutorial on GitHub.
+
+## Lesson 461: RP2350 Blink Driver RISC-V Course (Chapter 30: Full Integration — Build, Flash, Wire, and Test)
+This chapter covers the complete source tree, the complete execution path, memory map after linking, hardware wiring, building the firmware, flashing the firmware, and verification.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
+
+<br>
+
 # License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
