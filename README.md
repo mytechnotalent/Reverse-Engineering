@@ -59,6 +59,30 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Table of Contents
+- [x86 Course](#x86-course)
+- [ARM-32 Course 1](#arm-32-course-1)
+- [ARM-32 Course 2](#arm-32-course-2)
+- [ARM-32 Project Course](#arm-32-project-course)
+- [x64 Course](#x64-course)
+- [ARM-64 Course](#arm-64-course)
+- [Pico Hacking Course](#pico-hacking-course)
+- [Hacking Windows Course](#hacking-windows-course)
+- [Go Hacking Course](#go-hacking-course)
+- [Hacking Rust Course](#hacking-rust-course)
+- [Hacking Embedded Rust Course](#hacking-embedded-rust-course)
+- [Hacking Embedded Rust Course w/ microbit](#hacking-embedded-rust-course-w-microbit)
+- [Embedded Assembler Course](#embedded-assembler-course)
+- [Embedded Hacking Course](#embedded-hacking-course)
+- [Hacking Bits Course](#hacking-bits-course)
+- [Hacking RISC-V Course](#hacking-risc-v-course)
+- [RP2350 UART Driver Course](#rp2350-uart-driver-course)
+- [RP2350 UART Driver RISC-V Course](#rp2350-uart-driver-risc-v-course)
+- [RP2350 Blink Driver Course](#rp2350-blink-driver-course)
+- [RP2350 Blink Driver RISC-V Course](#rp2350-blink-driver-risc-v-course)
+
+<br>
+
 # x86 Course
 
 ## Lesson 1: x86 Course (Part 1: Goals)
