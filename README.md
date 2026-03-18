@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 17, 2026]
-## Lesson 132: x64 Course (Part 12 - Load Effective Address)
-This tutorial will discuss load effective address.
+# Today's Tutorial [March 18, 2026]
+## Lesson 133: x64 Course (Part 13 - The Data Segment)
+This tutorial will discuss the data segment.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
