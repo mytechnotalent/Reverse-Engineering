@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 18, 2026]
-## Lesson 133: x64 Course (Part 13 - The Data Segment)
-This tutorial will discuss the data segment.
+# Today's Tutorial [March 19, 2026]
+## Lesson 134: x64 Course (Part 14 - SHL Instruction)
+This tutorial will discuss the shl instruction.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+-> Click [HERE](https://0xinfection.github.io/reversing)
 
 <br>
 
