@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 19, 2026]
-## Lesson 134: x64 Course (Part 14 - SHL Instruction)
-This tutorial will discuss the shl instruction.
+# Today's Tutorial [March 20, 2026]
+## Lesson 135: x64 Course (Part 15 - SHR Instruction)
+This tutorial will discuss the shr instruction.
 
--> Click [HERE](https://0xinfection.github.io/reversing)
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
