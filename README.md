@@ -80,6 +80,8 @@ Assembled by @0xInfection (Twitter)
 ## RP2350 UART Driver RISC-V Course [HERE](#rp2350-uart-driver-risc-v-course)
 ## RP2350 Blink Driver Course [HERE](#rp2350-blink-driver-course)
 ## RP2350 Blink Driver RISC-V Course [HERE](#rp2350-blink-driver-risc-v-course)
+## RP2350 Button Driver Course [HERE](#rp2350-button-driver-course)
+## RP2350 Button Driver RISC-V Course [HERE](#rp2350-button-driver-risc-v-course)
 
 <br>
 
@@ -2465,6 +2467,314 @@ This chapter covers the full source, GPIO16 configuration, the blink loop, and t
 This chapter covers the complete source tree, the complete execution path, memory map after linking, hardware wiring, building the firmware, flashing the firmware, and verification.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350_Blink_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
+
+<br>
+
+# RP2350 Button Driver Course
+
+## Lesson 462: RP2350 Button Driver Course (Chapter 1: What Is a Computer?)
+This chapter covers the fetch-decode-execute cycle, the three core components, microcontrollers vs desktop computers, the RP2350, ARM Cortex-M33, assembly language, and what we will build.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-01.md) to read the FREE tutorial on GitHub.
+
+## Lesson 463: RP2350 Button Driver Course (Chapter 2: Number Systems)
+This chapter covers decimal, binary, and hexadecimal number systems, number prefixes in ARM assembly, bit masks, and register values as hex.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-02.md) to read the FREE tutorial on GitHub.
+
+## Lesson 464: RP2350 Button Driver Course (Chapter 3: Memory)
+This chapter covers addresses and bytes, words, endianness, the RP2350 memory map, flash memory, SRAM, peripheral registers (memory-mapped I/O), addresses in our firmware, and alignment.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-03.md) to read the FREE tutorial on GitHub.
+
+## Lesson 465: RP2350 Button Driver Course (Chapter 4: What Is a Register?)
+This chapter covers general-purpose registers, special-purpose registers, stack limit registers, the program status register (xPSR), CPACR (coprocessor access control), and register usage in our button driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-04.md) to read the FREE tutorial on GitHub.
+
+## Lesson 466: RP2350 Button Driver Course (Chapter 5: Load-Store Architecture)
+This chapter covers the load-store rule, load instructions in our firmware, store instructions in our firmware, the read-modify-write pattern, push and pop (stack access), and why load-store.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-05.md) to read the FREE tutorial on GitHub.
+
+## Lesson 467: RP2350 Button Driver Course (Chapter 6: Fetch-Decode-Execute Cycle in Detail)
+This chapter covers the three phases, the Cortex-M33 pipeline, sequential execution example, branch penalty, conditional execution, and the clock.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-06.md) to read the FREE tutorial on GitHub.
+
+## Lesson 468: RP2350 Button Driver Course (Chapter 7: ARM Cortex-M33 ISA Overview)
+This chapter covers what an ISA is, Thumb-2 mixed 16-bit and 32-bit instructions, instruction categories, condition flags, unified assembly syntax, instruction encoding example, and the complete instruction map for this driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-07.md) to read the FREE tutorial on GitHub.
+
+## Lesson 469: RP2350 Button Driver Course (Chapter 8: Immediate and Upper-Immediate Instructions)
+This chapter covers what an immediate value is, Thumb-2 modified immediate encoding, the barrel shifter, the ldr pseudo-instruction, immediate vs pseudo-instruction usage in our driver, and the movw/movt pair.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-08.md) to read the FREE tutorial on GitHub.
+
+## Lesson 470: RP2350 Button Driver Course (Chapter 9: Arithmetic and Logic Instructions)
+This chapter covers arithmetic instructions, logic instructions, shift instructions, and the instruction summary table.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-09.md) to read the FREE tutorial on GitHub.
+
+## Lesson 471: RP2350 Button Driver Course (Chapter 10: Memory Access — Load and Store Deep Dive)
+This chapter covers register-indirect addressing, register-indirect with offset, PC-relative loads (literal pools), stack operations (push and pop), system register transfers (msr), coprocessor memory access, and memory access timing.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-10.md) to read the FREE tutorial on GitHub.
+
+## Lesson 472: RP2350 Button Driver Course (Chapter 11: Branch Instructions)
+This chapter covers unconditional branch (b), conditional branches, condition code summary, how the processor evaluates conditions, branch encoding, and control flow in main.s.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-11.md) to read the FREE tutorial on GitHub.
+
+## Lesson 473: RP2350 Button Driver Course (Chapter 12: Jumps, Calls, and Returns)
+This chapter covers bl (branch with link / function call), bx lr (branch to link register / return), b (tail call / branch without link), the call stack in action, link register vs stack, and the Thumb bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-12.md) to read the FREE tutorial on GitHub.
+
+## Lesson 474: RP2350 Button Driver Course (Chapter 13: Pseudo-Instructions)
+This chapter covers ldr Rd, =value (load constant), .type (symbol type declaration), .global (export symbol), .size (function size), .equ (define constant), .include (include file), and pseudo-instructions vs directives.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-13.md) to read the FREE tutorial on GitHub.
+
+## Lesson 475: RP2350 Button Driver Course (Chapter 14: Assembler Directives)
+This chapter covers processor configuration directives, section directives, alignment directives, symbol directives, data directives, constant directives, label directives, and the KEEP directive (linker).
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-14.md) to read the FREE tutorial on GitHub.
+
+## Lesson 476: RP2350 Button Driver Course (Chapter 15: Calling Convention and Stack Frames)
+This chapter covers the AAPCS register convention, arguments and return values, saving and restoring registers, stack frame layout, leaf functions, and the full call chain.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-15.md) to read the FREE tutorial on GitHub.
+
+## Lesson 477: RP2350 Button Driver Course (Chapter 16: Bitwise Operations for Hardware Programming)
+This chapter covers modifying individual bits, setting a bit (orr), clearing a bit (bic), clear-then-set pattern, testing a bit (tst), bitwise AND for masking, bitwise XOR for inversion (eor), shift for bit extraction (lsr), the complete button read sequence, and the complete pad configuration sequence.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-16.md) to read the FREE tutorial on GitHub.
+
+## Lesson 478: RP2350 Button Driver Course (Chapter 17: Memory-Mapped I/O)
+This chapter covers the RP2350 address space, how peripherals respond to writes and reads, constants as address guides, the MMIO access pattern, the coprocessor exception, and volatile access.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-17.md) to read the FREE tutorial on GitHub.
+
+## Lesson 479: RP2350 Button Driver Course (Chapter 18: The RP2350 — Architecture and Hardware)
+This chapter covers the RP2350 overview, block diagram, peripherals used by our driver, the GPIO system, boot process, and dual-core and security.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-18.md) to read the FREE tutorial on GitHub.
+
+## Lesson 480: RP2350 Button Driver Course (Chapter 19: The Linker Script — Placing Code in Memory)
+This chapter covers the complete linker script, line-by-line walkthrough, section layout in flash, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-19.md) to read the FREE tutorial on GitHub.
+
+## Lesson 481: RP2350 Button Driver Course (Chapter 20: The Build Pipeline — From Assembly to Flashable Binary)
+This chapter covers the build script, step 1 (assembly — source to object files), step 2 (linking — object files to ELF), step 3 (binary extraction — ELF to raw binary), step 4 (UF2 conversion — binary to UF2), flashing, and the complete pipeline.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-20.md) to read the FREE tutorial on GitHub.
+
+## Lesson 482: RP2350 Button Driver Course (Chapter 21: Boot Metadata — image_def.s)
+This chapter covers the complete source, line-by-line walkthrough, binary layout, and why this file exists.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-21.md) to read the FREE tutorial on GitHub.
+
+## Lesson 483: RP2350 Button Driver Course (Chapter 22: Constants File — constants.s)
+This chapter covers the complete source, line-by-line walkthrough, and the cross-reference table.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-22.md) to read the FREE tutorial on GitHub.
+
+## Lesson 484: RP2350 Button Driver Course (Chapter 23: Stack and Vector Table — stack.s and vector_table.s)
+This chapter covers vector_table.s (the complete source), stack.s (the complete source), initialization order, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-23.md) to read the FREE tutorial on GitHub.
+
+## Lesson 485: RP2350 Button Driver Course (Chapter 24: Boot Sequence — reset_handler.s)
+This chapter covers the complete source, line-by-line walkthrough, initialization order dependencies, why Reset_Handler has no push/pop, and the complete boot timeline.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-24.md) to read the FREE tutorial on GitHub.
+
+## Lesson 486: RP2350 Button Driver Course (Chapter 25: Oscillator Init — xosc.s)
+This chapter covers the complete source, Init_XOSC line-by-line, Enable_XOSC_Peri_Clock line-by-line, both functions as leaf functions, and timing.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-25.md) to read the FREE tutorial on GitHub.
+
+## Lesson 487: RP2350 Button Driver Course (Chapter 26: Reset Controller — reset.s)
+This chapter covers the complete source, line-by-line walkthrough, why this is necessary, the read-modify-write vs atomic clear, and leaf function characteristics.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-26.md) to read the FREE tutorial on GitHub.
+
+## Lesson 488: RP2350 Button Driver Course (Chapter 27: GPIO Configuration — gpio.s)
+This chapter covers the complete source, GPIO_Config line-by-line, GPIO_Set line-by-line, GPIO_Clear line-by-line, and GPIO_Config vs Button_Init.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-27.md) to read the FREE tutorial on GitHub.
+
+## Lesson 489: RP2350 Button Driver Course (Chapter 28: Button Driver — button.s)
+This chapter covers the complete source, Button_Init line-by-line, Button_Read line-by-line, Button_IsPressed line-by-line, the three functions compared, hardware circuit, and mrc vs mcrr.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-28.md) to read the FREE tutorial on GitHub.
+
+## Lesson 490: RP2350 Button Driver Course (Chapter 29: Application Entry Point — main.s)
+This chapter covers the complete source, line-by-line walkthrough, control flow diagram, timing analysis, and why Button_Read instead of Button_IsPressed.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-29.md) to read the FREE tutorial on GitHub.
+
+## Lesson 491: RP2350 Button Driver Course (Chapter 30: Full Integration — Build, Flash, Wire, and Test)
+This chapter covers the complete system, boot order, building the firmware, hardware wiring, flashing the firmware, testing, memory layout, and what we built.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
+
+<br>
+
+# RP2350 Button Driver RISC-V Course
+
+## Lesson 492: RP2350 Button Driver RISC-V Course (Chapter 1: What Is a Computer?)
+This chapter covers the fetch-decode-execute cycle, the three core components, microcontrollers vs desktop computers, the RP2350, RISC-V, assembly language, and what we are building.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-01.md) to read the FREE tutorial on GitHub.
+
+## Lesson 493: RP2350 Button Driver RISC-V Course (Chapter 2: Number Systems — Binary, Hexadecimal, and Decimal)
+This chapter covers decimal, binary, and hexadecimal number systems, the 0x prefix, bit numbering, common bit patterns, two's complement, and data sizes on RISC-V Hazard3.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-02.md) to read the FREE tutorial on GitHub.
+
+## Lesson 494: RP2350 Button Driver RISC-V Course (Chapter 3: Memory — Addresses, Bytes, Words, and Endianness)
+This chapter covers the address space, bytes, halfwords, words, alignment, little-endian byte order, memory-mapped registers, the stack, flash memory, SRAM, and CSR access.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-03.md) to read the FREE tutorial on GitHub.
+
+## Lesson 495: RP2350 Button Driver RISC-V Course (Chapter 4: What Is a Register?)
+This chapter covers the RISC-V register file, register x0 (the hardwired zero), ABI register names, control and status registers, visualizing registers, and register usage in our button driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-04.md) to read the FREE tutorial on GitHub.
+
+## Lesson 496: RP2350 Button Driver RISC-V Course (Chapter 5: Load-Store Architecture)
+This chapter covers the load-store rule, load word (lw), store word (sw), the read-modify-write pattern, stack operations, alignment, and memory-mapped I/O.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-05.md) to read the FREE tutorial on GitHub.
+
+## Lesson 497: RP2350 Button Driver RISC-V Course (Chapter 6: The Fetch-Decode-Execute Cycle in Detail)
+This chapter covers the three stages, tracing a button read, branch penalty, instruction timing, and how this affects our driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-06.md) to read the FREE tutorial on GitHub.
+
+## Lesson 498: RP2350 Button Driver RISC-V Course (Chapter 7: RISC-V Hazard3 ISA Overview)
+This chapter covers the ISA string breakdown, instruction formats, the complete instruction map for our driver, and summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-07.md) to read the FREE tutorial on GitHub.
+
+## Lesson 499: RP2350 Button Driver RISC-V Course (Chapter 8: Immediate and Upper-Immediate Instructions)
+This chapter covers I-type immediates, U-type immediates, building 32-bit constants (the li pseudo-instruction), the la pseudo-instruction, and the immediate usage summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-08.md) to read the FREE tutorial on GitHub.
+
+## Lesson 500: RP2350 Button Driver RISC-V Course (Chapter 9: Arithmetic and Logic Instructions)
+This chapter covers arithmetic instructions, logic instructions, shift instructions, and the instruction summary table.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-09.md) to read the FREE tutorial on GitHub.
+
+## Lesson 501: RP2350 Button Driver RISC-V Course (Chapter 10: Memory Access — Load and Store Deep Dive)
+This chapter covers the addressing mode, the load/store instruction family, every load and store in our driver, the read-modify-write pattern revisited, write-only SIO registers, CSR access, and alignment rules.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-10.md) to read the FREE tutorial on GitHub.
+
+## Lesson 502: RP2350 Button Driver RISC-V Course (Chapter 11: Branch Instructions)
+This chapter covers how branches work, branch instructions in RISC-V, pseudo-instructions, branches in our button driver, no flags register, and branch timing.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-11.md) to read the FREE tutorial on GitHub.
+
+## Lesson 503: RP2350 Button Driver RISC-V Course (Chapter 12: Jumps, Calls, and Returns)
+This chapter covers jal (jump and link), jalr (jump and link register), pseudo-instructions, the call graph of our button driver, leaf vs non-leaf functions, and jumps in our driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-12.md) to read the FREE tutorial on GitHub.
+
+## Lesson 504: RP2350 Button Driver RISC-V Course (Chapter 13: Pseudo-Instructions and Assembler Conveniences)
+This chapter covers what a pseudo-instruction is, pseudo-instructions in our driver, the complete expansion table, and why pseudo-instructions matter.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-13.md) to read the FREE tutorial on GitHub.
+
+## Lesson 505: RP2350 Button Driver RISC-V Course (Chapter 14: Assembler Directives)
+This chapter covers section directives, symbol directives, constant directives, data directives, alignment directives, type and size directives, and the complete directive table.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-14.md) to read the FREE tutorial on GitHub.
+
+## Lesson 506: RP2350 Button Driver RISC-V Course (Chapter 15: Calling Convention and Stack Frames)
+This chapter covers argument and return registers, caller-saved vs callee-saved, stack frame anatomy, stack frame in Button_Init, stack frame in Button_IsPressed, leaf functions need no frame, Reset_Handler as a special case, and the full call chain.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-15.md) to read the FREE tutorial on GitHub.
+
+## Lesson 507: RP2350 Button Driver RISC-V Course (Chapter 16: Bitwise Operations for Hardware Control)
+This chapter covers the bit manipulation toolkit, setting bits (ori), clearing bits (andi), inverting a bit (xori), dynamic bit masks (sll), extracting a bit field (srli + andi), Button_Init complete bit manipulation sequence, and the FUNCSEL write.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-16.md) to read the FREE tutorial on GitHub.
+
+## Lesson 508: RP2350 Button Driver RISC-V Course (Chapter 17: Memory-Mapped I/O and Volatile Access)
+This chapter covers the memory map, APB peripherals, SIO registers, why memory-mapped I/O works, volatile-like access in assembly, read-modify-write vs atomic set/clear, and bus ordering.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-17.md) to read the FREE tutorial on GitHub.
+
+## Lesson 509: RP2350 Button Driver RISC-V Course (Chapter 18: RP2350 Hardware Architecture)
+This chapter covers the Hazard3 core, memory architecture, clock system, reset controller, GPIO system, button input circuit, LED output circuit, and boot sequence.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-18.md) to read the FREE tutorial on GitHub.
+
+## Lesson 510: RP2350 Button Driver RISC-V Course (Chapter 19: The Linker Script — linker.ld)
+This chapter covers the entry point, memory regions, program headers, stack size, sections, section layout in flash, and why PHDRS matters.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-19.md) to read the FREE tutorial on GitHub.
+
+## Lesson 511: RP2350 Button Driver RISC-V Course (Chapter 20: The Build System — build.bat and clean.bat)
+This chapter covers the build pipeline overview, stage 1 (assembly), stage 2 (linking), stage 3 (binary extraction), stage 4 (UF2 conversion), flashing, clean.bat, and error handling.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-20.md) to read the FREE tutorial on GitHub.
+
+## Lesson 512: RP2350 Button Driver RISC-V Course (Chapter 21: Boot Metadata — image_def.s)
+This chapter covers the source code, section placement, block start marker, image type item, entry point item, last item and block end, memory layout, and why this matters.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-21.md) to read the FREE tutorial on GitHub.
+
+## Lesson 513: RP2350 Button Driver RISC-V Course (Chapter 22: Constants and Definitions — constants.s)
+This chapter covers the source code, stack constants, vector table base, crystal oscillator registers, PPB and CSR constants, clock registers, reset controller registers, I/O bank registers, pad registers, SIO registers, and how .include works.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-22.md) to read the FREE tutorial on GitHub.
+
+## Lesson 514: RP2350 Button Driver RISC-V Course (Chapter 23: Stack and Vector Table — stack.s, vector_table.s)
+This chapter covers stack.s source code and line-by-line, vector_table.s source code and line-by-line, and flash layout after linking.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-23.md) to read the FREE tutorial on GitHub.
+
+## Lesson 515: RP2350 Button Driver RISC-V Course (Chapter 24: Reset Handler — reset_handler.s)
+This chapter covers the source code, Reset_Handler initialization sequence, why this order matters, .size directive, Default_Trap_Handler, Init_Trap_Vector, and no stack frame in Reset_Handler.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-24.md) to read the FREE tutorial on GitHub.
+
+## Lesson 516: RP2350 Button Driver RISC-V Course (Chapter 25: Crystal Oscillator — xosc.s)
+This chapter covers the source code, Init_XOSC (setting the startup delay, enabling the oscillator, polling for stability), Enable_XOSC_Peri_Clock (switching the clock source), why two functions, and register usage summary.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-25.md) to read the FREE tutorial on GitHub.
+
+## Lesson 517: RP2350 Button Driver RISC-V Course (Chapter 26: Reset Controller — reset.s)
+This chapter covers the source code, phase 1 (releasing IO_BANK0 from reset), phase 2 (polling for completion), why andi works here, hardware timing, what IO_BANK0 enables, and register usage.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-26.md) to read the FREE tutorial on GitHub.
+
+## Lesson 518: RP2350 Button Driver RISC-V Course (Chapter 27: GPIO Configuration — gpio.s)
+This chapter covers GPIO_Config source code, parameters, stack frame, pad configuration, function select, output enable, GPIO_Set source code, GPIO_Clear source code, and GPIO_Config vs Button_Init.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-27.md) to read the FREE tutorial on GitHub.
+
+## Lesson 519: RP2350 Button Driver RISC-V Course (Chapter 28: Button Driver — button.s)
+This chapter covers Button_Init source code, stack frame, computing the pad address, pad configuration (5 bit operations), function select, disable output, Button_Read source code and how it works, Button_IsPressed source code and logic inversion, and the three-function API.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-28.md) to read the FREE tutorial on GitHub.
+
+## Lesson 520: RP2350 Button Driver RISC-V Course (Chapter 29: Application Entry Point — main.s)
+This chapter covers the source code, phase 1 (LED configuration), phase 2 (button initialization), phase 3 (the polling loop), control flow diagram, empty data sections, why beqz instead of Button_IsPressed, and register usage.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-29.md) to read the FREE tutorial on GitHub.
+
+## Lesson 521: RP2350 Button Driver RISC-V Course (Chapter 30: Full Integration — Build, Flash, Wire, and Test)
+This chapter covers the complete source file map, building the firmware, wiring the hardware, flashing the firmware, testing the system, what happens at power-on, troubleshooting, clean up, and what we built.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
 
 <br>
 
