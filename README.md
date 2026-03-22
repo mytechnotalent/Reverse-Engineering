@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 21, 2026]
-## Lesson 136: x64 Course (Part 16 - ROL Instruction)
-This tutorial will discuss rol instruction.
+# Today's Tutorial [March 22, 2026]
+## Lesson 137: x64 Course (Part 17 - ROR Instruction)
+This tutorial will discuss the ror instruction.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
