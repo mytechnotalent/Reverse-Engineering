@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 22, 2026]
-## Lesson 137: x64 Course (Part 17 - ROR Instruction)
-This tutorial will discuss the ror instruction.
+# Today's Tutorial [March 23, 2026]
+## Lesson 138: x64 Course (Part 18 - Boot Sector Basics [Part 1])
+This tutorial will discuss boot sector basics.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
