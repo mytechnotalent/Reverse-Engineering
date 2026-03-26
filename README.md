@@ -10,8 +10,8 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [March 25, 2026]
-## Lesson 139: x64 Course (Part 19 - Boot Sector Basics [Part 2])
+# Today's Tutorial [March 26, 2026]
+## Lesson 140: x64 Course (Part 20 - Boot Sector Basics [Part 3])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
