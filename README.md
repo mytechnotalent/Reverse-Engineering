@@ -82,6 +82,9 @@ Assembled by @0xInfection (Twitter)
 ## RP2350 Blink Driver RISC-V Course [HERE](#rp2350-blink-driver-risc-v-course)
 ## RP2350 Button Driver Course [HERE](#rp2350-button-driver-course)
 ## RP2350 Button Driver RISC-V Course [HERE](#rp2350-button-driver-risc-v-course)
+## Embedded Wasm UART Echo Course [HERE](#embedded-wasm-uart-echo-course)
+## Embedded Wasm Blinky Course [HERE](#embedded-wasm-blinky-course)
+## Embedded Wasm Button Course [HERE](#embedded-wasm-button-course)
 
 <br>
 
@@ -2775,6 +2778,27 @@ This chapter covers the source code, phase 1 (LED configuration), phase 2 (butto
 This chapter covers the complete source file map, building the firmware, wiring the hardware, flashing the firmware, testing the system, what happens at power-on, troubleshooting, clean up, and what we built.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350_Button_Driver_RISCV/blob/main/TUTORIAL/CHAPTER-30.md) to read the FREE tutorial on GitHub.
+
+# Embedded Wasm UART Echo Course
+
+## Lesson 522: Embedded Wasm UART Echo Course
+A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-uart project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to echo UART characters entirely in bare-metal Rust with no operating system.
+
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-uart-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+
+# Embedded Wasm Blinky Course
+
+## Lesson 523: Embedded Wasm Blinky Course
+A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-blinky project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to blink an LED entirely in bare-metal Rust with no operating system.
+
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+
+# Embedded Wasm Button Course
+
+## Lesson 524: Embedded Wasm Button Course
+A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-button project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to read a button and control an LED entirely in bare-metal Rust with no operating system.
+
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
 
 <br>
 
