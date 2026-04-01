@@ -82,9 +82,11 @@ Assembled by @0xInfection (Twitter)
 ## RP2350 Blink Driver RISC-V Course [HERE](#rp2350-blink-driver-risc-v-course)
 ## RP2350 Button Driver Course [HERE](#rp2350-button-driver-course)
 ## RP2350 Button Driver RISC-V Course [HERE](#rp2350-button-driver-risc-v-course)
+## Wasm Course [HERE](#wasm-course)
 ## Embedded Wasm UART Echo Course [HERE](#embedded-wasm-uart-echo-course)
 ## Embedded Wasm Blinky Course [HERE](#embedded-wasm-blinky-course)
 ## Embedded Wasm Button Course [HERE](#embedded-wasm-button-course)
+## Embedded Wasm Servo Course [HERE](#embedded-wasm-servo-course)
 
 <br>
 
