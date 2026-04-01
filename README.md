@@ -2786,7 +2786,7 @@ This chapter covers the complete source file map, building the firmware, wiring 
 ## Lesson 522: Wasm Course
 A line-by-line, function-by-function guide through every Rust source file in the Wasm project covering how a WebAssembly component is compiled, deployed, and executed on a general-purpose computer entirely Rust.
 
--> Click [HERE](https://github.com/mytechnotalent/Wasm/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/Wasm/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
 -> Click [HERE](https://github.com/mytechnotalent/Wasm/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 # Embedded Wasm UART Echo Course
@@ -2794,7 +2794,7 @@ A line-by-line, function-by-function guide through every Rust source file in the
 ## Lesson 523: Embedded Wasm UART Echo Course
 A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-uart project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to echo UART characters entirely in bare-metal Rust with no operating system.
 
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-uart-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-uart-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
 -> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-uart-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 # Embedded Wasm Blinky Course
@@ -2802,7 +2802,7 @@ A line-by-line, function-by-function guide through every Rust source file in the
 ## Lesson 524: Embedded Wasm Blinky Course
 A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-blinky project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to blink an LED entirely in bare-metal Rust with no operating system.
 
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
 -> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 # Embedded Wasm Button Course
@@ -2810,7 +2810,7 @@ A line-by-line, function-by-function guide through every Rust source file in the
 ## Lesson 525: Embedded Wasm Button Course
 A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-button project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to read a button and control an LED entirely in bare-metal Rust with no operating system.
 
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
 -> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 # Embedded Wasm Servo Course
@@ -2818,7 +2818,7 @@ A line-by-line, function-by-function guide through every Rust source file in the
 ## Lesson 526: Embedded Wasm Servo Course
 A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-servo project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to control a servo motor entirely in bare-metal Rust with no operating system.
 
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-servo-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-servo-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
 -> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-servo-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 <br>
