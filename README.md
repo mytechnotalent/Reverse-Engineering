@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 2, 2026]
-## Lesson 147: x64 Course (Part 27 - x64 Assembly [Part 1])
-This tutorial will discuss x64 assembly.
+# Today's Tutorial [April 3, 2026]
+## Lesson 148: x64 Course (Part 28 - x64 Assembly [Part 2])
+This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
