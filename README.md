@@ -10,8 +10,8 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 10, 2026]
-## Lesson 155: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
+# Today's Tutorial [April 11, 2026]
+## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
 This tutorial will discuss more C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
