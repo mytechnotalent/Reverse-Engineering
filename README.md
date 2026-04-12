@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 11, 2026]
-## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
-This tutorial will discuss more C++ code as it relates to 64-bit assembly.
+# Today's Tutorial [April 12, 2026]
+## Lesson 157: x64 Course (Part 37 - x64 C & Genesis Of Life)
+This tutorial will discuss c and how it relates to x64 assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
