@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 13, 2026]
-## Lesson 158: x64 Course (Part 38 - x64 Networking Basics)
-This tutorial will discuss x64 networking basics.
+# Today's Tutorial [April 14, 2026]
+## Lesson 159: x64 Course (Part 39 - Why C?)
+This tutorial will discuss the power of the c language.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
