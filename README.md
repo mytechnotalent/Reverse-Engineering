@@ -904,7 +904,7 @@ This tutorial will discuss x64 networking basics.
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 159: x64 Course (Part 39 - Why C?)
-This tutorial will discuss the power of the c language.
+This tutorial will discuss the power of the C language.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
