@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 17, 2026]
-## Lesson 162: x64 Course (Part 42 - Hacking Branches!)
-This tutorial will discuss hacking branches.
+# Today's Tutorial [April 18, 2026]
+## Lesson 163: x64 Course (Part 43 - Hacking Pointers!)
+This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
