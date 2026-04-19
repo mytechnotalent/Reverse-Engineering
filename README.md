@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 18, 2026]
-## Lesson 163: x64 Course (Part 43 - Hacking Pointers!)
-This tutorial will discuss hacking pointers.
+# Today's Tutorial [April 19, 2026]
+## Lesson 164: ARM-64 Course (Part 1 - The Meaning Of Life)
+In this lesson we will discuss the course concepts and the meaning of life.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
