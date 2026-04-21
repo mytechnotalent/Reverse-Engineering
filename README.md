@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 20, 2026]
-## Lesson 165: ARM-64 Course (Part 2 - Development Setup)
-In this lesson we will discuss how to set up our development in 64-bit ARM with Kali Linux.
+# Today's Tutorial [April 21, 2026]
+## Lesson 166: ARM-64 Course (Part 3 - "Hello World")
+In this lesson we will discuss how to write and compile a simple hello world program in C++.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
