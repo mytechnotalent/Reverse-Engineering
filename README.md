@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 22, 2026]
-## Lesson 167: ARM-64 Course (Part 4 - Debugging "Hello World")
-In this lesson we will debug our simple hello world program.
+# Today's Tutorial [April 23, 2026]
+## Lesson 168: ARM-64 Course (Part 5 - Hacking "Hello World")
+In this lesson we will hack our simple hello world program.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
