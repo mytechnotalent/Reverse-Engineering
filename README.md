@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 24, 2026]
-## Lesson 169: ARM-64 Course (Part 6 - Basic I/O)
-In this lesson we will discuss how to write and compile a simple basicio program in C++ and discuss basic input validation.
+# Today's Tutorial [April 25, 2026]
+## Lesson 170: ARM-64 Course (Part 7 - Debugging Basic I/O)
+In this lesson we will discuss how to debug a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
