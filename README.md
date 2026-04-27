@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 26, 2026]
-## Lesson 171: ARM-64 Course (Part 8 - Hacking Basic I/O)
-In this lesson we will discuss how to hack a simple basicio program in C++ and discuss basic input validation.
+# Today's Tutorial [April 27, 2026]
+## Lesson 172: ARM-64 Course (Part 9 - Character Primitive Datatype)
+In this lesson we will discuss the char primitive datatype.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
