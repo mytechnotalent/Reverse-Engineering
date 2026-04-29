@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 28, 2026]
-## Lesson 173: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
-In this lesson we will discuss debugging the char primitive datatype.
+# Today's Tutorial [April 29, 2026]
+## Lesson 174: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
+In this lesson we will discuss hacking the char primitive datatype.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
