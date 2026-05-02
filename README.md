@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [April 30, 2026]
-## Lesson 175: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
-In this lesson we will discuss the boolean primitive datatype.
+# Today's Tutorial [may 2, 2026]
+## Lesson 176: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
+In this lesson we will discuss debugging the boolean primitive datatype.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
