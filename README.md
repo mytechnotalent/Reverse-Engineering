@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [May 6, 2026]
-## Lesson 180: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
-In this lesson we will discuss hacking the float primitive datatype.
+# Today's Tutorial [May 7, 2026]
+## Lesson 181: ARM-64 Course (Part 18 - Double Primitive Datatype)
+In this lesson we will discuss the double primitive datatype.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
