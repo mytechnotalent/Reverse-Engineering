@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [May 10, 2026]
-## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
-In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
+# Today's Tutorial [May 11, 2026]
+## Lesson 185: Pico Hacking Course (Part 2 - Hello World)
+In this lesson we will discuss the basic Hello World program.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
