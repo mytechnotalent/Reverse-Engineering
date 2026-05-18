@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [May 17, 2026]
-## Lesson 187: Pico Hacking Course (Part 4 - Hacking Hello World)
-In this lesson we will discuss hacking the basic Hello World program.
+# Today's Tutorial [May 18, 2026]
+## Lesson 188: Pico Hacking Course (Part 5 - char)
+In this lesson we will discuss the char data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
