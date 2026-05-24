@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [May 23, 2026]
-## Lesson 193: Pico Hacking Course (Part 10 - Hacking int)
-In this lesson we will discuss hacking the int data type.
+# Today's Tutorial [May 24, 2026]
+## Lesson 194: Pico Hacking Course (Part 11 - float)
+In this lesson we will discuss the float data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
