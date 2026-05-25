@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [May 24, 2026]
-## Lesson 194: Pico Hacking Course (Part 11 - float)
-In this lesson we will discuss the float data type.
+# Today's Tutorial [May 25, 2026]
+## Lesson 195: Pico Hacking Course (Part 12 - Debugging float)
+In this lesson we will discuss debugging the float data type.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
