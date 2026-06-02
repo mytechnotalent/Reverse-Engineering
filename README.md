@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 1, 2026]
-## Lesson 203: Pico Hacking Course (Part 20 - Debugging Input)
-In this lesson we will discuss debugging input.
+# Today's Tutorial [June 2, 2026]
+## Lesson 204: Hacking Windows Course (Chapter 1 - Hello World)
+This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 <br>
 
