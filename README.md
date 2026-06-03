@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 2, 2026]
-## Lesson 204: Hacking Windows Course (Chapter 1 - Hello World)
-This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
+# Today's Tutorial [June 3, 2026]
+## Lesson 205: Hacking Windows Course (Chapter 2: Debugging Hello World x86)
+This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
