@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 6, 2026]
-## Lesson 207: Hacking Windows Course (Chapter 4: Debugging Hello World x64)
-This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x64 Assembly.
+# Today's Tutorial [June 7, 2026]
+## Lesson 208: Hacking Windows Course (Chapter 5: Hacking Hello World x64)
+This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
