@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 7, 2026]
-## Lesson 208: Hacking Windows Course (Chapter 5: Hacking Hello World x64)
-This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
+# Today's Tutorial [June 8, 2026]
+## Lesson 209: Hacking Windows Course (Chapter 6: Directories)
+This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
