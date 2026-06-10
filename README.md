@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 9, 2026]
-## Lesson 210: Hacking Windows Course (Chapter 7: Debugging Directories x86)
-This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
+# Today's Tutorial [June 10, 2026]
+## Lesson 211: Hacking Windows Course (Chapter 8: Hacking Directories x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
