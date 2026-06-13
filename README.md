@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 12, 2026]
-## Lesson 213: Hacking Windows Course (Chapter 10: Hacking Directories x64)
-This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+# Today's Tutorial [June 13, 2026]
+## Lesson 214: Hacking Windows Course (Chapter 11: CopyFile)
+This chapter covers reviewing the Windows API CopyFileW function in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
