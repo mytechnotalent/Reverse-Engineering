@@ -25,6 +25,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# Ghidra Plugins
+## G-AVR [HERE](https://github.com/mytechnotalent/G-AVR)
+## G-Pulley [HERE](https://github.com/mytechnotalent/G-Pulley)
+
+<br>
+
 # Network
 ## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
 ## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
