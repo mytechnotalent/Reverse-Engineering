@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 16, 2026]
-## Lesson 217: Hacking Windows Course (Chapter 14: Debugging CopyFile x64)
-This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x64 Assembly.
+# Today's Tutorial [June 17, 2026]
+## Lesson 218: Hacking Windows Course (Chapter 15: Hacking CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
