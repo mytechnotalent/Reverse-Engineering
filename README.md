@@ -18,9 +18,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 18, 2026]
-## Lesson 219: Hacking Windows Course (Chapter 16: MoveFile)
-This chapter covers reviewing the Windows API MoveFileW function in C.
+# Today's Tutorial [June 19, 2026]
+## Lesson 220: Hacking Windows Course (Chapter 17: Debugging MoveFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
