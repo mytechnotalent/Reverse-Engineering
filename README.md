@@ -10,7 +10,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 [![Watch the video](https://i.ytimg.com/vi/stYTX0FJluE/maxresdefault.jpg)](https://www.youtube.com/watch?v=stYTX0FJluE)
 
-**WATCH THE TRAILER**
+**WATCH THE TRAILER** [HERE](https://youtu.be/stYTX0FJluE?si=EBakKhWXU299vHP3)
 
 </div>
 
