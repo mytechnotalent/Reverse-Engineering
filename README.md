@@ -18,9 +18,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [June 23, 2026]
-## Lesson 224: Hacking Windows Course (Chapter 21: CreateFile)
-This chapter covers reviewing the Windows API CreateFileW function in C.
+# Today's Tutorial [June 24, 2026]
+## Lesson 225: Hacking Windows Course (Chapter 22: Debugging CreateFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateFileW function in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
