@@ -106,6 +106,7 @@ Assembled by @0xInfection (Twitter)
 ## Embedded Wasm Blinky Course [HERE](#embedded-wasm-blinky-course)
 ## Embedded Wasm Button Course [HERE](#embedded-wasm-button-course)
 ## Embedded Wasm Servo Course [HERE](#embedded-wasm-servo-course)
+## Assembler Course [HERE](#assembler-course)
 
 <br>
 
