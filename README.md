@@ -2844,12 +2844,17 @@ A line-by-line, function-by-function guide through every Rust source file in the
 
 # Assembler Course
 
-## Lesson 527: Assembler Course (Chapter 0: Hello Blinky World)
+## Lesson 527: Assembler Course (Chapter 000: Hello Blinky World)
 This lesson will teach you how to make an LED blink on an ATmega328P using pure AVR assembly, from writing the code to uploading it onto the microcontroller.
 
 -> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/000/lesson.md) to read the lesson and see the code.
 
-### IN DEVELOPMENT 999 MORE LESSONS TO COME
+## Lesson 528: Assembler Course (Chapter 001: Hello Button World
+This lesson will teach you how to read a button press to turn on an LED on an ATmega328P using pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/001/lesson.md) to read the lesson and see the code.
+
+### IN DEVELOPMENT 998 MORE LESSONS TO COME
 
 <br>
 
