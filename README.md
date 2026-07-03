@@ -10,7 +10,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July, 3 2026]
+# Today's Tutorial [July 3, 2026]
 ## Lesson 234: Go Hacking Course (Chapter 1: Hello Distributed System World)
 This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
 
