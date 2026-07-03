@@ -18,11 +18,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July, 2 2026]
-## Lesson 233: Hacking Windows Course (Chapter 30: Hacking WriteFile x64)
-This chapter covers dynamic reverse engineering analysis, hacking, the Windows API WriteFile function in x64 Assembly.
+# Today's Tutorial [July, 3 2026]
+## Lesson 234: Go Hacking Course (Chapter 1: Hello Distributed System World)
+This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
 <br>
 
