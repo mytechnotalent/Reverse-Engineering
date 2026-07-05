@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 4, 2026]
-## Lesson 235: Go Hacking Course (Chapter 2: Debugging Hello Distributed System World)
-This chapter covers debugging of the basic hello world style Go program for the x64 architecture.
+# Today's Tutorial [July 5, 2026]
+## Lesson 236: Go Hacking Course (Chapter 3: Hacking Hello Distributed System World)
+This chapter covers hacking of the basic hello world style Go program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
@@ -33,6 +33,7 @@ Assembled by @0xInfection (Twitter)
 
 # Cryptography
 ## The Ouroboros Engine [HERE](https://github.com/mytechnotalent/ouroboros)
+## Encryption [HERE](https://github.com/mytechnotalent/encryption)
 
 <br>
 
@@ -2842,17 +2843,125 @@ A line-by-line, function-by-function guide through every Rust source file in the
 
 # Assembler Course
 
-## Lesson 527: Assembler Course (Chapter 000: Hello Blinky World)
-This lesson will teach you how to make an LED blink on an ATmega328P using pure AVR assembly, from writing the code to uploading it onto the microcontroller.
-
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/000/lesson.md) to read the lesson and see the code.
-
-## Lesson 528: Assembler Course (Chapter 001: Hello Button World
-This lesson will teach you how to read a button press to turn on an LED on an ATmega328P using pure AVR assembly.
+## Lesson 527: Assembler Course (Chapter 001: Serial)
+This lesson will teach you how to implement the Serial demo on an ATmega328P using pure AVR assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/001/lesson.md) to read the lesson and see the code.
 
-### IN DEVELOPMENT 998 MORE LESSONS TO COME
+## Lesson 528: Assembler Course (Chapter 002: Blink)
+This lesson will teach you how to blink the built-in LED on an ATmega328P using pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/002/lesson.md) to read the lesson and see the code.
+
+## Lesson 529: Assembler Course (Chapter 003: LED Fading (PWM))
+This lesson will teach you how to use Timer 1 and Pulse Width Modulation (PWM) to smoothly fade an LED on an ATmega328P using pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/003/lesson.md) to read the lesson and see the code.
+
+## Lesson 530: Assembler Course (Chapter 004: RGB LED)
+This lesson will teach you how to control an RGB LED by manipulating multiple output pins simultaneously using pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/004/lesson.md) to read the lesson and see the code.
+
+## Lesson 531: Assembler Course (Chapter 005: Digital Inputs (Buttons))
+This lesson will teach you how to read digital inputs and use internal pull-up resistors to control an LED based on push buttons using pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/005/lesson.md) to read the lesson and see the code.
+
+## Lesson 532: Assembler Course (Chapter 006: Active Buzzer)
+This lesson will teach you how to generate a beeping sound using an active buzzer and pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/006/lesson.md) to read the lesson and see the code.
+
+## Lesson 533: Assembler Course (Chapter 007: Passive Buzzer)
+This lesson will teach you how to generate musical tones (frequencies) using a passive buzzer and Timer1 CTC mode in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/007/lesson.md) to read the lesson and see the code.
+
+## Lesson 534: Assembler Course (Chapter 008: Tilt Switch)
+This lesson will teach you how to detect physical orientation and gravity using a digital tilt switch in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/008/lesson.md) to read the lesson and see the code.
+
+## Lesson 535: Assembler Course (Chapter 009: Servo Motor)
+This lesson will teach you how to control a mechanical Servo Motor by generating precise Pulse Width Modulation (PWM) signals using Timer1 in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/009/lesson.md) to read the lesson and see the code.
+
+## Lesson 536: Assembler Course (Chapter 010: Ultrasonic Sensor)
+This lesson will teach you how to implement sub-millisecond precision timing loops to measure physical distance using an HC-SR04 ultrasonic sensor in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/010/lesson.md) to read the lesson and see the code.
+
+## Lesson 537: Assembler Course (Chapter 011: DHT11 Sensor)
+This lesson will teach you how to write a software driver for a single-wire digital communications protocol to read humidity and temperature from a DHT11 sensor in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/011/lesson.md) to read the lesson and see the code.
+
+## Lesson 538: Assembler Course (Chapter 012: Analog Joystick)
+This lesson will teach you how to interface with the physical analog world by directly commanding the ATmega328P's Analog to Digital Converter (ADC) peripheral in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/012/lesson.md) to read the lesson and see the code.
+
+## Lesson 539: Assembler Course (Chapter 013: Infrared (IR) Receiver)
+This lesson will teach you how to write a high-speed assembly loop to visualize the invisible digital data packets transmitted through the air by a TV remote control.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/013/lesson.md) to read the lesson and see the code.
+
+## Lesson 540: Assembler Course (Chapter 014: LCD Display)
+This lesson will teach you how to write a software driver for a 16x2 Character LCD Display (HD44780), utilizing advanced bit manipulation (BST/BLD) to correct hardware wiring inconsistencies in pure AVR assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/014/lesson.md) to read the lesson and see the code.
+
+## Lesson 541: Assembler Course (Chapter 015: Thermometer (Thermistor + LCD))
+This lesson will teach you how to read a 10-bit analog Thermistor value via the ADC and implement a "repeated subtraction" algorithm to convert the 16-bit binary integer into ASCII text digits for display on a 16x2 LCD screen.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/015/lesson.md) to read the lesson and see the code.
+
+## Lesson 542: Assembler Course (Chapter 016: 74HC595 Shift Register)
+This lesson will teach you how to expand your microcontroller's outputs by implementing a custom Serial Peripheral interface driver (bit-banging) to drive an 8-bit Shift Register, animating a "Knight Rider" LED chaser.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/016/lesson.md) to read the lesson and see the code.
+
+## Lesson 543: Assembler Course (Chapter 017: Serial Control)
+This lesson will teach you how to implement a full two-way Serial Communications (USART) interface in bare metal assembly, parsing incoming byte commands from a desktop computer to remotely control the 8-bit Shift Register array.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/017/lesson.md) to read the lesson and see the code.
+
+## Lesson 544: Assembler Course (Chapter 018: Photocell (Light Sensor))
+This lesson will teach you how to divide ADC sensor data using a "repeated subtraction" algorithm and use the `SEC` (Set Carry) and `ROL` (Rotate Left through Carry) instructions to dynamically build and display an LED bar graph on a Shift Register.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/018/lesson.md) to read the lesson and see the code.
+
+## Lesson 545: Assembler Course (Chapter 019: 7-Segment Display)
+This lesson introduces Harvard Architecture memory spaces by teaching you how to permanently bake data arrays into the ATmega328P's Flash Program Memory (`.text`) and retrieve them using 16-bit pointer arithmetic and the Z-Pointer (`LPM`) to draw numbers on a 7-Segment Display.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/019/lesson.md) to read the lesson and see the code.
+
+## Lesson 546: Assembler Course (Chapter 020: 4-Digit 7-Segment Display)
+This lesson will teach you how to write time-critical execution loops to achieve time-domain multiplexing, using the Persistence of Vision (POV) optical illusion to drive a 4-Digit 7-Segment Display with a minimal number of pins.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/020/lesson.md) to read the lesson and see the code.
+
+## Lesson 547: Assembler Course (Chapter 021: DC Motor with L293D)
+This lesson will teach you how to configure 16-bit Timer Peripherals in Fast PWM Mode to generate high-frequency logic signals that control the speed and direction of a physical DC Motor via an L293D H-Bridge driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/021/lesson.md) to read the lesson and see the code.
+
+## Lesson 548: Assembler Course (Chapter 022: Relay Module)
+This lesson will teach you how to use Galvanic Isolation and Electromechanical Relays to safely control high-voltage, high-current appliances using low-voltage logic signals from your ATmega328P.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/022/lesson.md) to read the lesson and see the code.
+
+## Lesson 549: Assembler Course (Chapter 023: Stepper Motor)
+This lesson will teach you the physics of Stepper Motors and how to write a manual "Wave Drive" sequence algorithm in assembly to control a ULN2003 Darlington Array Driver.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/023/lesson.md) to read the lesson and see the code.
+
+## Lesson 550: Assembler Course (Chapter 024: IR Controlled Stepper)
+This final lesson combines hardware interrupts, peripheral polling, and wave-drive sequence algorithms to build a completely wireless, remote-controlled motorized system in pure assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/024/lesson.md) to read the lesson and see the code.
 
 <br>
 
