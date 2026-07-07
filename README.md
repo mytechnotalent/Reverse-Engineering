@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 5, 2026]
-## Lesson 236: Go Hacking Course (Chapter 3: Hacking Hello Distributed System World)
-This chapter covers hacking of the basic hello world style Go program for the x64 architecture.
+# Today's Tutorial [July 7, 2026]
+## Lesson 237: Go Hacking Course (Chapter 4: Primitive Types)
+This chapter covers Golang primitive types for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
