@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 9, 2026]
-## Lesson 239: Go Hacking Course (Chapter 6: Hacking Primitive Types)
-This chapter covers Golang hacking of the primitive types for the x64 architecture.
+# Today's Tutorial [July 10, 2026]
+## Lesson 240: Go Hacking Course (Chapter 7: Control Flow)
+This chapter covers Golang control flow for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
 
