@@ -33,6 +33,7 @@ Assembled by @0xInfection (Twitter)
 
 # Cryptography
 ## Encryption [HERE](https://github.com/mytechnotalent/encryption)
+## Encryption-C-RP2350 [HERE](https://github.com/mytechnotalent/encryption-c-rp2350)
 
 <br>
 
