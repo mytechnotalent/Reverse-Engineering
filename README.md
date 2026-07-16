@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 15, 2026]
-## Lesson 245: Go Hacking Course (Chapter 12: Hacking Advanced Control Flow)
-This chapter covers Golang hacking advanced control flow for the x64 architecture.
+# Today's Tutorial [July 16, 2026]
+## Lesson 246: Hacking Rust Course (Chapter 1: Hello Rust)
+This chapter covers the basics of setting up a dev environment and basic hello world style Rust program for the x64 architecture.
 
--> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 <br>
 
