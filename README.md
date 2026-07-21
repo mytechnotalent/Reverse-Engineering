@@ -10,7 +10,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# BADGE - CLICK IMAGE BELOW!
+# ELECTRONIC BADGE - CLICK IMAGE BELOW!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
@@ -19,9 +19,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 20, 2026]
-## Lesson 250: Hacking Rust Course (Chapter 5: Debugging Scalar Data Types)
-This chapter covers debugging scalar data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 21, 2026]
+## Lesson 251: Hacking Rust Course (Chapter 6: Hacking Scalar Data Types)
+This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
