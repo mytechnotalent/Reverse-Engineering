@@ -10,7 +10,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# BADGE - CLICK IMAGE BELOW TO WATCH TRAILER AND BY FOR $50 TO SUPPORT OUR MISSION!
+# BADGE - CLICK IMAGE BELOW!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
