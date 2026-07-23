@@ -10,7 +10,8 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# ELECTRONIC BADGE - CLICK IMAGE BELOW!
+# ELECTRONIC BADGE ON SALE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge) FOR $29.99!
+# CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
