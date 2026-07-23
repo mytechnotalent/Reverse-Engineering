@@ -19,9 +19,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 22, 2026]
-## Lesson 252: Hacking Rust Course (Chapter 7: Compound Data Types)
-This chapter covers compound data types within a Rust program for the x64 architecture.
+# Today's Tutorial [July 23, 2026]
+## Lesson 253: Hacking Rust Course (Chapter 8: Debugging Compound Data Types)
+This chapter covers debugging compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
