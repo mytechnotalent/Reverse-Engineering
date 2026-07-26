@@ -10,7 +10,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# ELECTRONIC HACKER BADGE ON SALE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge) FOR $29.99!
+# ELECTRONIC HACKER BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 <p align="center">
