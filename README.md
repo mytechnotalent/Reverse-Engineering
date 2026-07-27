@@ -18,6 +18,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
     <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
