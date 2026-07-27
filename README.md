@@ -92,6 +92,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+#RISC-V Assembler Drivers
+
+## 0x00-uart [HERE](https://github.com/mytechnotalent/0x00-uart)
+
+<br>
+
 # Table of Contents
 ## x86 Course [HERE](#x86-course)
 ## ARM-32 Course 1 [HERE](#arm-32-course-1)
