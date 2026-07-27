@@ -27,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 26, 2026]
-## Lesson 256: Hacking Rust Course (Chapter 11: Debugging Functions)
-This chapter covers debugging functions within a Rust program for the x64 architecture.
+# Today's Tutorial [July 27, 2026]
+## Lesson 257: Hacking Rust Course (Chapter 12: Hacking Functions)
+This chapter covers hacking functions within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
