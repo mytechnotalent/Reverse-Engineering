@@ -8,13 +8,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 # Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
-<br>
+<br><br>
 
 <img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x00o.png?raw=true">
 
-<br>
-
-# ELECTRONIC HACKER BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
+# OUROBOROS BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 <p align="center">
