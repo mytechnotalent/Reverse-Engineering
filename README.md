@@ -27,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 29, 2026]
-## Lesson 259: Hacking Rust Course (Chapter 14: Debugging Control Flow)
-This chapter covers debugging control flow within a Rust program for the x64 architecture.
+# Today's Tutorial [July 30, 2026]
+## Lesson 260: Hacking Rust Course (Chapter 15: Hacking Control Flow)
+This chapter covers hacking control flow within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
