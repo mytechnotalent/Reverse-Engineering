@@ -27,11 +27,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [July 30, 2026]
-## Lesson 260: Hacking Rust Course (Chapter 15: Hacking Control Flow)
-This chapter covers hacking control flow within a Rust program for the x64 architecture.
+# Today's Tutorial [July 31, 2026]
+## Lesson 261: Hacking Embedded Rust Course (Chapter 1: Wiring)
+This chapter covers the basics of setting up wiring for an embedded Rust Pico.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Hacking_Embedded_Rust.pdf) to read the FREE pdf book.
 
 <br>
 
