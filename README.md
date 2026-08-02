@@ -27,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 1, 2026]
-## Lesson 262: Hacking Embedded Rust Course (Chapter 2: Features)
-This chapter covers the features of Reverse Engineering Rust Pico.
+# Today's Tutorial [August 2, 2026]
+## Lesson 263: Hacking Embedded Rust Course (Chapter 3: Project Structure)
+This chapter covers the project structure of Reverse Engineering Rust Pico.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Hacking_Embedded_Rust.pdf) to read the FREE pdf book.
 
