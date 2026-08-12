@@ -27,11 +27,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 10, 2026]
-## Lesson 266: Hacking Embedded Rust Course (Chapter 6: Building and Flashing)
-This chapter covers the project step-by-step of building and flashing Reverse Engineering Rust Pico.
+# Today's Tutorial [August 12, 2026]
+## Lesson 267: Hacking Embedded Rust Course w/ microbit (Chapter 1: Foundation Analysis and Binary Structure)
+This chapter covers the foundation analysis and binary structure for an embedded Rust microbit.
 
--> Click [HERE](https://github.com/mytechnotalent/rust_embassy_pico_project/blob/main/Hacking_Embedded_Rust.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
 
 <br>
 
