@@ -27,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 13, 2026]
-## Lesson 268: Hacking Embedded Rust Course w/ microbit (Chapter 2: Embassy Async Runtime Deep Dive)
-This chapter covers the Embassy async runtime for an embedded Rust microbit.
+# Today's Tutorial [August 14, 2026]
+## Lesson 269: Hacking Embedded Rust Course w/ microbit (Chapter 3: Interrupt Handlers and Hardware Abstraction)
+This chapter covers the interrupt handlers and hardware abstraction for an embedded Rust microbit.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
 
