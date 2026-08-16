@@ -27,9 +27,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 15, 2026]
-## Lesson 270: Hacking Embedded Rust Course w/ microbit (Chapter 4: Advanced System Components)
-This chapter covers the advanced system components for an embedded Rust microbit.
+# Today's Tutorial [August 16, 2026]
+## Lesson 271: Hacking Embedded Rust Course w/ microbit (Chapter 5: Exploitation and Security Assessment)
+This chapter covers the exploitation and security assessment for an embedded Rust microbit.
 
 -> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
 
