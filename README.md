@@ -12,10 +12,6 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 # OUROBOROS BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
 
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x00o.png?raw=true">
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x01o.png?raw=true">
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/badges/ouroboros-badge/0x02o.png?raw=true">
-
 #### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
 #### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
 
