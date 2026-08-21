@@ -23,11 +23,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 16, 2026]
-## Lesson 271: Hacking Embedded Rust Course w/ microbit (Chapter 5: Exploitation and Security Assessment)
-This chapter covers the exploitation and security assessment for an embedded Rust microbit.
+# Today's Tutorial [August 21, 2026]
+## Lesson 272: Embedded Assembler Course (Chapter 1: Toolchain)
+This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
 
--> Click [HERE](https://github.com/mytechnotalent/rust_embassy_microbit_project/blob/main/Hacking_Embedded_Rust_w_microbit.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
 <br>
 
