@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 22, 2026]
-## Lesson 273: Embedded Assembler Course (Chapter 2: Architecture Basics)
-This chapter covers the basics of the STM32F401CCU6 architecture.
+# Today's Tutorial [August 23, 2026]
+## Lesson 274: Embedded Assembler Course (Chapter 3: Vector Table)
+This chapter covers the concept and development of the vector table within the STM32F401CCU6 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
