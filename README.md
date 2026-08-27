@@ -64,6 +64,7 @@ Assembled by @0xInfection (Twitter)
 ## Hacking Windows [HERE](https://github.com/mytechnotalent/Hacking-Windows)
 ## Windows Process Lifecycle [HERE](https://github.com/mytechnotalent/windows-process-lifecycle)
 ## Windows Kernel Debugging [HERE](https://github.com/mytechnotalent/windows-kernel-debugging)
+## Windows Indirect Syscall [HERE](https://github.com/mytechnotalent/wis)
 
 <br>
 
