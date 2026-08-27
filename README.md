@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 26, 2026]
-## Lesson 277: Embedded Assembler Course (Chapter 6: ARM Cortex-M Registers)
-This chapter covers the ARM Cortex-M registers within the STM32F401CCU6 architecture.
+# Today's Tutorial [August 27, 2026]
+## Lesson 278: Embedded Assembler Course (Chapter 7: ARM Thumb2 Instruction Set)
+This chapter covers the ARM Thumb2 instruction set within the STM32F401CCU6 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
