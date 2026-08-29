@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 28, 2026]
-## Lesson 279: Embedded Assembler Course (Chapter 8: Load & Store Instructions)
-This chapter covers the basic load & store instructions in addition to real-time hacking within the STM32F401CCU6 architecture.
+# Today's Tutorial [August 29, 2026]
+## Lesson 280: Embedded Assembler Course (Chapter 9: Constants & Literal Values)
+This chapter covers the basic constants & literal value examples within the STM32F401CCU6 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Embedded-Assembler.pdf) to read the FREE pdf book.
 
