@@ -50,6 +50,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Radio
+## MeshCore Bare [HERE](https://github.com/mytechnotalent/meshcore-bare)
 ## MeshCore Sniffer [HERE](https://github.com/mytechnotalent/meshcore-sniffer)
 
 <br>
