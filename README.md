@@ -23,7 +23,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [August 31, 2026]
+# Today's Tutorial [September 1, 2026]
 ## Lesson 282: Embedded Assembler Course (Chapter 11: Functions, Interrupts, UART & STUXNET Simulation!)
 This chapter covers functions, interrupts, UART and a simple STUXNET simulation within the STM32F401CCU6 architecture.
 
