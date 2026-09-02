@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 1, 2026]
-## Lesson 283: Embedded Hacking Course (Chapter 1: hello, world)
-This chapter covers the basics of setting up a dev environment and basic template firmware for the Pico 2 MCU in addition to printing hello, world.
+# Today's Tutorial [September 2, 2026]
+## Lesson 284: Embedded Hacking Course (Chapter 2: Debugging hello, world)
+This chapter covers the debugging of our firmware for the Pico 2 MCU hello, world program.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
