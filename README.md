@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 2, 2026]
-## Lesson 284: Embedded Hacking Course (Chapter 2: Debugging hello, world)
-This chapter covers the debugging of our firmware for the Pico 2 MCU hello, world program.
+# Today's Tutorial [September 3, 2026]
+## Lesson 285: Embedded Hacking Course (Chapter 3: Hacking hello, world)
+This chapter covers the hacking of our firmware for the Pico 2 MCU hello, world program.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
