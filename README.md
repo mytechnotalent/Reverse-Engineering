@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 3, 2026]
-## Lesson 285: Embedded Hacking Course (Chapter 3: Hacking hello, world)
-This chapter covers the hacking of our firmware for the Pico 2 MCU hello, world program.
+# Today's Tutorial [September 4, 2026]
+## Lesson 286: Embedded Hacking Course (Chapter 4: Embedded System Analysis)
+This chapter covers a comprehensive embedded system analysis reviewing parts of the RP2350 datasheet and helpful firmware analysis tools.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
