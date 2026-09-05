@@ -95,6 +95,12 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+# AI
+
+## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
+
+<br>
+
 # Table of Contents
 ## x86 Course [HERE](#x86-course)
 ## ARM-32 Course 1 [HERE](#arm-32-course-1)
