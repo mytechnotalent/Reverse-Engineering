@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 4, 2026]
-## Lesson 286: Embedded Hacking Course (Chapter 4: Embedded System Analysis)
-This chapter covers a comprehensive embedded system analysis reviewing parts of the RP2350 datasheet and helpful firmware analysis tools.
+# Today's Tutorial [September 5, 2026]
+## Lesson 287: Embedded Hacking Course (Chapter 5: Intro To Variables)
+This chapter covers an introduction to variables as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
