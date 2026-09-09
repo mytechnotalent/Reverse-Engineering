@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 8, 2026]
-## Lesson 289: Embedded Hacking Course (Chapter 7: Hacking Intro To Variables)
-This chapter covers hacking an introduction to variables as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 9, 2026]
+## Lesson 290: Embedded Hacking Course (Chapter 8: Uninitialized Variables)
+This chapter covers uninitialized variables as well as an intro to GPIO outputs as we blink an LED as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
