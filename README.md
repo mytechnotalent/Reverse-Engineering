@@ -46,11 +46,15 @@ Assembled by @0xInfection (Twitter)
 
 # Cryptography
 ## The Ouroboros Engine [HERE](https://github.com/mytechnotalent/ouroboros)
+## The Ouroboros RP2350 [HERE](https://github.com/mytechnotalent/encryption-c-rp2350)
+## The Ouroboros Rust [HERE](https://github.com/mytechnotalent/encryption)
 
 <br>
 
 # Radio
 ## MeshCore Bare [HERE](https://github.com/mytechnotalent/meshcore-bare)
+## MeshCore Bare RP2350 COMING SOON
+## MeshCare Bare ESP32S3 COMING SOON
 ## MeshCore Sniffer [HERE](https://github.com/mytechnotalent/meshcore-sniffer)
 
 <br>
