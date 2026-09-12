@@ -52,7 +52,7 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # Radio
-## MeshCore Bare RP2350 COMING SOON
+## MeshCore Bare RP2350 [HERE](https://github.com/mytechnotalent/meshcore-bare-rp2350)
 ## MeshCare Bare ESP32S3 [HERE](https://github.com/mytechnotalent/meshcore-bare-esp32s3)
 ## MeshCore Bare [HERE](https://github.com/mytechnotalent/meshcore-bare)
 ## MeshCore Sniffer [HERE](https://github.com/mytechnotalent/meshcore-sniffer)
