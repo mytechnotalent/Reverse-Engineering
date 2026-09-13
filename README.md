@@ -106,6 +106,7 @@ Assembled by @0xInfection (Twitter)
 
 # AI
 
+## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
 
 <br>
