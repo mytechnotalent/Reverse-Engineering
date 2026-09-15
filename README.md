@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 14, 2026]
-## Lesson 295: Embedded Hacking Course (Chapter 13: Hacking Integer Data Type)
-This chapter covers hacking the integer data type in addition to a deeper assembler dive into GPIO outputs as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 15, 2026]
+## Lesson 296: Embedded Hacking Course (Chapter 14: Floating-Point Data Type)
+This chapter covers the floating-point data type as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
