@@ -23,9 +23,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 15, 2026]
-## Lesson 296: Embedded Hacking Course (Chapter 14: Floating-Point Data Type)
-This chapter covers the floating-point data type as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 16, 2026]
+## Lesson 297: Embedded Hacking Course (Chapter 15: Debugging Floating-Point Data Type)
+This chapter covers debugging the floating-point data type as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
