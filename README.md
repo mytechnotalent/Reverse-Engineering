@@ -2171,6 +2171,56 @@ This lesson will teach the linker script within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-19.md) to read the lesson and see the code.
 
+## Lesson 390: RP2350 ARM Assembler Course (Chapter 20: The Build System)
+This lesson will teach the build system within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-20.md) to read the lesson and see the code.
+
+## Lesson 391: RP2350 ARM Assembler Course (Chapter 21: image_def.s — The PICOBIN Boot Block)
+This lesson will teach the PICOBIN boot block within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-21.md) to read the lesson and see the code.
+
+## Lesson 392: RP2350 ARM Assembler Course (Chapter 22: constants.s — Memory Addresses and Constants)
+This lesson will teach memory addresses and constants within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-22.md) to read the lesson and see the code.
+
+## Lesson 393: RP2350 ARM Assembler Course (Chapter 23: vector_table.s and stack.s — Boot Foundation)
+This lesson will teach the boot foundation within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-23.md) to read the lesson and see the code.
+
+## Lesson 394: RP2350 ARM Assembler Course (Chapter 24: reset_handler.s — The Boot Sequence)
+This lesson will teach the boot sequence within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-24.md) to read the lesson and see the code.
+
+## Lesson 395: RP2350 ARM Assembler Course (Chapter 25: xosc.s — Crystal Oscillator and Clock Configuration)
+This lesson will teach the crystal oscillator and clock configuration within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-25.md) to read the lesson and see the code.
+
+## Lesson 396: RP2350 ARM Assembler Course (Chapter 26: reset.s — Releasing Peripherals from Reset)
+This lesson will teach releasing peripherals from reset within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-26.md) to read the lesson and see the code.
+
+## Lesson 397: RP2350 ARM Assembler Course (Chapter 27: gpio.s Part 1 — GPIO_Config)
+This lesson will teach GPIO config within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-27.md) to read the lesson and see the code.
+
+## Lesson 398: RP2350 ARM Assembler Course (Chapter 28: gpio.s Part 2, delay.s, and coprocessor.s — Output Control and Timing)
+This lesson will teach output control and timing within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-28.md) to read the lesson and see the code.
+
+## Lesson 399: RP2350 ARM Assembler Course (Chapter 30: Full Integration — From Source to Blinking LED)
+This lesson will teach the full source to blinking LED within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-30.md) to read the lesson and see the code.
+
 <br>
 
 # License
