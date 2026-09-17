@@ -136,6 +136,8 @@ Assembled by @0xInfection (Twitter)
 ## Embedded Wasm Servo Course [HERE](#embedded-wasm-servo-course)
 ## AVR Assembler Course [HERE](#avr-assembler-course)
 ## RP2350 ARM Assembler Course [HERE](rp2350-arm-assembler-course)
+## RP2350 RISC-V Assembler Course [HERE](rp2350-risc-v-assembler-course)
+## RP2350 Rust Course [HERE](rp2350-rust-course)
 
 <br>
 
@@ -2226,6 +2228,8 @@ This lesson will teach the full source to blinking LED within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-30.md) to read the lesson and see the code.
 
+<br>
+
 # RP2350 RISC-V Assembler Course
 
 ## Lesson 401: RP2350 RISC-V Assembler Course (Chapter 1: What Is a Computer?)
@@ -2377,6 +2381,8 @@ This lesson will teach the main.s application entry point within the MCU.
 This lesson will teach the full build, flash, wire and test integration within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-RISCV-ASM-Tutorial/blob/main/CHAPTER-30.md) to read the lesson and see the code.
+
+<br>
 
 # RP2350 Rust Course
 
