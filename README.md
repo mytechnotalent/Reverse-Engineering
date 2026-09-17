@@ -2096,11 +2096,80 @@ This lesson will teach the general purpose registers within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-04.md) to read the lesson and see the code.
 
-## Lesson 374: RP2350 ARM Assembler Course (Chapter 4: What Is a Register?)
-This lesson will teach the general purpose registers within the MCU.
+## Lesson 375: RP2350 ARM Assembler Course (Chapter 5: Load-Store Architecture — How ARM Accesses Memory)
+This lesson will teach how ARM accesses memory with load and store architecture within the MCU.
 
--> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-04.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-05.md) to read the lesson and see the code.
 
+## Lesson 376: RP2350 ARM Assembler Course (Chapter 6: The Fetch-Decode-Execute Cycle in Detail)
+This lesson will teach the fetch and decode cycle in more detail within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-06.md) to read the lesson and see the code.
+
+## Lesson 377: RP2350 ARM Assembler Course (Chapter 7: ARM Cortex-M33 ISA Overview)
+This lesson will teach the ARM Cortex-M33 ISA overview within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-07.md) to read the lesson and see the code.
+
+## Lesson 378: RP2350 ARM Assembler Course (Chapter 8: ARM Immediate and Move Instructions)
+This lesson will teach ARM immediate and move instructions within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-08.md) to read the lesson and see the code.
+
+## Lesson 379: RP2350 ARM Assembler Course (Chapter 9: ARM Arithmetic and Logic Instructions)
+This lesson will teach ARM arithmetic and logic instructions within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-09.md) to read the lesson and see the code.
+
+## Lesson 380: RP2350 ARM Assembler Course (Chapter 10: ARM Memory Access Instructions)
+This lesson will teach ARM memory access instructions within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-10.md) to read the lesson and see the code.
+
+## Lesson 381: RP2350 ARM Assembler Course (Chapter 11: ARM Branch Instructions)
+This lesson will teach ARM branch instructions within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-11.md) to read the lesson and see the code.
+
+## Lesson 382: RP2350 ARM Assembler Course (Chapter 12: ARM Calls, Returns, and the Stack Frame)
+This lesson will teach ARM calls, returns and the stack frame within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-12.md) to read the lesson and see the code.
+
+## Lesson 383: RP2350 ARM Assembler Course (Chapter 13: Assembler Directives)
+This lesson will teach assembler directives within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-13.md) to read the lesson and see the code.
+
+## Lesson 384: RP2350 ARM Assembler Course (Chapter 14: Labels, Symbols, and the Symbol Table)
+This lesson will teach labels, symbols and the symbol table within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-14.md) to read the lesson and see the code.
+
+## Lesson 385: RP2350 ARM Assembler Course (Chapter 15: Sections, Memory Layout, and the Linker Script)
+This lesson will teach sections, memory layout, and the linker script within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-15.md) to read the lesson and see the code.
+
+## Lesson 386: RP2350 ARM Assembler Course (Chapter 16: System Registers and Coprocessor Interface)
+This lesson will teach system registers and coprocessor interface within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-16.md) to read the lesson and see the code.
+
+## Lesson 387: RP2350 ARM Assembler Course (Chapter 17: Bit Manipulation Patterns)
+This lesson will teach bit manipulation patterns within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-17.md) to read the lesson and see the code.
+
+## Lesson 388: RP2350 ARM Assembler Course (Chapter 18: RP2350 Hardware Architecture)
+This lesson will teach RP2350 hardware architecture within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-18.md) to read the lesson and see the code.
+
+## Lesson 389: RP2350 ARM Assembler Course (Chapter 19: The Linker Script)
+This lesson will teach the linker script within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-19.md) to read the lesson and see the code.
 
 <br>
 
