@@ -135,9 +135,9 @@ Assembled by @0xInfection (Twitter)
 ## Embedded Wasm Button Course [HERE](#embedded-wasm-button-course)
 ## Embedded Wasm Servo Course [HERE](#embedded-wasm-servo-course)
 ## AVR Assembler Course [HERE](#avr-assembler-course)
-## RP2350 ARM Assembler Course [HERE](rp2350-arm-assembler-course)
-## RP2350 RISC-V Assembler Course [HERE](rp2350-risc-v-assembler-course)
-## RP2350 Rust Course [HERE](rp2350-rust-course)
+## RP2350 ARM Assembler Course [HERE](#rp2350-arm-assembler-course)
+## RP2350 RISC-V Assembler Course [HERE](#rp2350-risc-v-assembler-course)
+## RP2350 Rust Course [HERE](#rp2350-rust-course)
 
 <br>
 
