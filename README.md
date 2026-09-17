@@ -135,6 +135,7 @@ Assembled by @0xInfection (Twitter)
 ## Embedded Wasm Button Course [HERE](#embedded-wasm-button-course)
 ## Embedded Wasm Servo Course [HERE](#embedded-wasm-servo-course)
 ## AVR Assembler Course [HERE](#avr-assembler-course)
+## RP2350 ARM Assembler Course [HERE](rp2350-arm-assembler-course)
 
 <br>
 
@@ -2070,6 +2071,36 @@ This lesson will teach you the physics of Stepper Motors and how to write a manu
 This final lesson combines hardware interrupts, peripheral polling, and wave-drive sequence algorithms to build a completely wireless, remote-controlled motorized system in pure assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/024/lesson.md) to read the lesson and see the code.
+
+<br>
+
+# RP2350 ARM Assembler Course
+
+## Lesson 371: RP2350 ARM Assembler Course (Chapter 1: What Is a Computer?)
+This lesson will teach you what is a computer with the fundamental model of computation that every computer shares with an intro to the RP2350 and ARM Cortex-M33.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-01.md) to read the lesson and see the code.
+
+## Lesson 372: RP2350 ARM Assembler Course (Chapter 2: Chapter 2: Number Systems — Binary, Hexadecimal, and Decimal)
+This lesson will teach the basics of the three main number systems which are decimal, binary and hexadecimal.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-02.md) to read the lesson and see the code.
+
+## Lesson 373: RP2350 ARM Assembler Course (Chapter 3: Memory — Addresses, Bytes, Words, and Endianness)
+This lesson will teach the basics addresses, bytes, words and endianness within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-03.md) to read the lesson and see the code.
+
+## Lesson 374: RP2350 ARM Assembler Course (Chapter 4: What Is a Register?)
+This lesson will teach the general purpose registers within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-04.md) to read the lesson and see the code.
+
+## Lesson 374: RP2350 ARM Assembler Course (Chapter 4: What Is a Register?)
+This lesson will teach the general purpose registers within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-04.md) to read the lesson and see the code.
+
 
 <br>
 
