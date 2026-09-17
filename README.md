@@ -2216,7 +2216,12 @@ This lesson will teach output control and timing within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-28.md) to read the lesson and see the code.
 
-## Lesson 399: RP2350 ARM Assembler Course (Chapter 30: Full Integration — From Source to Blinking LED)
+## Lesson 399: RP2350 ARM Assembler Course (Chapter 29: main.s — The Blink Loop)
+This lesson will teach the blink loop within the MCU.
+
+-> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-29.md) to read the lesson and see the code.
+
+## Lesson 400: RP2350 ARM Assembler Course (Chapter 30: Full Integration — From Source to Blinking LED)
 This lesson will teach the full source to blinking LED within the MCU.
 
 -> Click [HERE](https://github.com/mytechnotalent/RP2350-ARM-ASM-Tutorial/blob/main/CHAPTER-30.md) to read the lesson and see the code.
