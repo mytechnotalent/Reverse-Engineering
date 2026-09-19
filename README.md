@@ -46,8 +46,6 @@ Assembled by @0xInfection (Twitter)
 
 # Cryptography
 ## The Ouroboros Engine [HERE](https://github.com/mytechnotalent/ouroboros)
-## The Ouroboros Engine RP2350 [HERE](https://github.com/mytechnotalent/encryption-c-rp2350)
-## The Ouroboros Engine Rust [HERE](https://github.com/mytechnotalent/encryption)
 
 <br>
 
