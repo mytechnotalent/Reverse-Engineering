@@ -10,19 +10,6 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# OUROBOROS BADGE [HERE](https://www.tindie.com/products/mytechnotalent/ouroboros-badge)
-
-#### HOW IT WORKS [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf)
-#### CLICK IMAGE BELOW TO WATCH THE PROMO VIDEO!
-
-<p align="left">
-  <a href="https://www.youtube.com/watch?v=p2e2szCZjus">
-    <img src="https://img.youtube.com/vi/p2e2szCZjus/maxresdefault.jpg" alt="WATCH THE VIDEO" width="600">
-  </a>
-</p>
-
-<br>
-
 # Today's Tutorial [September 19, 2026]
 ## Lesson 300: Embedded Hacking Course (Chapter 18: Debugging Double Floating-Point Data Type)
 This chapter covers debugging the double floating-point data type as it relates to embedded development on the Pico 2.
