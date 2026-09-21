@@ -74,7 +74,7 @@ TBD
 
 <br>
 
-# Pico 2 & Pi 4B/5 Embedded Linux C IoT Projects & CTFs
+# Pico 2 IoT Projects & CTFs & Pi 4B/5 Embedded Linux C IoT Project & CTF
 
 ## Act I of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/cold-chain-monitor)
 ## Act I of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_cold-chain-monitor)
