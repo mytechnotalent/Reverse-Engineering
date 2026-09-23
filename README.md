@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 22, 2026]
-## Lesson 303: Embedded Hacking Course (Chapter 21: Debugging Static Variables)
-This chapter covers debugging static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 23, 2026]
+## Lesson 304: Embedded Hacking Course (Chapter 22: Hacking Static Variables)
+This chapter covers hacking static variables as well as an intro to GPIO inputs as we work with push buttons as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
@@ -70,11 +70,6 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 # IoT CTF's
-TBD
-
-<br>
-
-# Pico 2 IoT Projects & CTFs & Pi 4B/5 Embedded Linux C IoT Project & CTF
 
 ## Act I of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/cold-chain-monitor)
 ## Act I of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_cold-chain-monitor)
