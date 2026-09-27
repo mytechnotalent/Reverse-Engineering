@@ -152,7 +152,7 @@ Assembled by @0xInfection (Twitter)
 ## RP2350 ARM Assembler Course [HERE](#rp2350-arm-assembler-course)
 ## RP2350 RISC-V Assembler Course [HERE](#rp2350-risc-v-assembler-course)
 ## RP2350 Rust Course [HERE](#rp2350-rust-course)
-## Reverse-Engineering-Data Course [HERE](#reverse-engineering-data-course)
+## Reverse Engineering Data Course [HERE](#reverse-engineering-data-course)
 
 <br>
 
@@ -2553,154 +2553,154 @@ This lesson will teach the complete integration within the MCU.
 
 <br>
 
-# Reverse-Engineering-Data Course
+# Reverse Engineering Data Course
 
-## Lesson 461: Reverse-Engineering-Data Course (Chapter 1: Central Limit Theorem)
+## Lesson 461: Reverse Engineering Data Course (Chapter 1: Central Limit Theorem)
 This lesson will teach the Central Limit Theorem, the standard error of the mean, and confidence intervals.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the lesson and see the code.
 
-## Lesson 462: Reverse-Engineering-Data Course (Chapter 2: Penguins Dataset - EDA)
+## Lesson 462: Reverse Engineering Data Course (Chapter 2: Penguins Dataset - EDA)
 This lesson will teach exploratory data analysis on the Penguins dataset.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the lesson and see the code.
 
-## Lesson 463: Reverse-Engineering-Data Course (Chapter 3: Penguins Dataset - Clustering)
+## Lesson 463: Reverse Engineering Data Course (Chapter 3: Penguins Dataset - Clustering)
 This lesson will teach KMeans clustering and principal component analysis.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the lesson and see the code.
 
-## Lesson 464: Reverse-Engineering-Data Course (Chapter 4: Penguins Dataset Simple Linear Regression - Linear Relationship)
+## Lesson 464: Reverse Engineering Data Course (Chapter 4: Penguins Dataset Simple Linear Regression - Linear Relationship)
 This lesson will teach simple linear regression with a linear relationship.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the lesson and see the code.
 
-## Lesson 465: Reverse-Engineering-Data Course (Chapter 5: Penguins Dataset Simple Linear Regression - Non-Linear Relationship)
+## Lesson 465: Reverse Engineering Data Course (Chapter 5: Penguins Dataset Simple Linear Regression - Non-Linear Relationship)
 This lesson will teach simple linear regression with a non-linear relationship.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the lesson and see the code.
 
-## Lesson 466: Reverse-Engineering-Data Course (Chapter 6: Penguins Dataset Simple Linear Regression - Fitting Linear Feature)
+## Lesson 466: Reverse Engineering Data Course (Chapter 6: Penguins Dataset Simple Linear Regression - Fitting Linear Feature)
 This lesson will teach fitting a linear feature.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the lesson and see the code.
 
-## Lesson 467: Reverse-Engineering-Data Course (Chapter 7: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature)
+## Lesson 467: Reverse Engineering Data Course (Chapter 7: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature)
 This lesson will teach fitting a non-linear feature.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the lesson and see the code.
 
-## Lesson 468: Reverse-Engineering-Data Course (Chapter 8: Penguins Dataset Simple Linear Regression - Fitting Linear Feature Predictions)
+## Lesson 468: Reverse Engineering Data Course (Chapter 8: Penguins Dataset Simple Linear Regression - Fitting Linear Feature Predictions)
 This lesson will teach fitting linear feature predictions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the lesson and see the code.
 
-## Lesson 469: Reverse-Engineering-Data Course (Chapter 9: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature Predictions)
+## Lesson 469: Reverse Engineering Data Course (Chapter 9: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature Predictions)
 This lesson will teach fitting non-linear feature predictions.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the lesson and see the code.
 
-## Lesson 470: Reverse-Engineering-Data Course (Chapter 10: Penguins Dataset Simple Linear Regression - Measuring Linear Feature Performance)
+## Lesson 470: Reverse Engineering Data Course (Chapter 10: Penguins Dataset Simple Linear Regression - Measuring Linear Feature Performance)
 This lesson will teach measuring linear feature performance.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the lesson and see the code.
 
-## Lesson 471: Reverse-Engineering-Data Course (Chapter 11: Penguins Dataset Simple Linear Regression - Fitting Multiple Models)
+## Lesson 471: Reverse Engineering Data Course (Chapter 11: Penguins Dataset Simple Linear Regression - Fitting Multiple Models)
 This lesson will teach fitting multiple models.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the lesson and see the code.
 
-## Lesson 472: Reverse-Engineering-Data Course (Chapter 12: Multiple Linear Regression - Additive Features)
+## Lesson 472: Reverse Engineering Data Course (Chapter 12: Multiple Linear Regression - Additive Features)
 This lesson will teach multiple linear regression with additive features.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the lesson and see the code.
 
-## Lesson 473: Reverse-Engineering-Data Course (Chapter 13: Multiple Linear Regression - Interactive Features)
+## Lesson 473: Reverse Engineering Data Course (Chapter 13: Multiple Linear Regression - Interactive Features)
 This lesson will teach multiple linear regression with interactive features.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the lesson and see the code.
 
-## Lesson 474: Reverse-Engineering-Data Course (Chapter 14: Penguins Dataset - Linear Regression)
+## Lesson 474: Reverse Engineering Data Course (Chapter 14: Penguins Dataset - Linear Regression)
 This lesson will teach linear regression, cross-validation, and a complete inference engine.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the lesson and see the code.
 
-## Lesson 475: Reverse-Engineering-Data Course (Chapter 15: Penguins Dataset - Logistic Regression)
+## Lesson 475: Reverse Engineering Data Course (Chapter 15: Penguins Dataset - Logistic Regression)
 This lesson will teach logistic regression, ROC, and AUC.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-LR.ipynb) to read the lesson and see the code.
 
-## Lesson 476: Reverse-Engineering-Data Course (Chapter 16: Penguins Dataset - MLP)
+## Lesson 476: Reverse Engineering Data Course (Chapter 16: Penguins Dataset - MLP)
 This lesson will teach a multilayer perceptron in PyTorch.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-MLP.ipynb) to read the lesson and see the code.
 
-## Lesson 477: Reverse-Engineering-Data Course (Chapter 17: Fashion-MNIST Dataset - CNN)
+## Lesson 477: Reverse Engineering Data Course (Chapter 17: Fashion-MNIST Dataset - CNN)
 This lesson will teach a convolutional neural network on Fashion-MNIST.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-CNN.ipynb) to read the lesson and see the code.
 
-## Lesson 478: Reverse-Engineering-Data Course (Chapter 18: Tiny Shakespeare Dataset - RNN)
+## Lesson 478: Reverse Engineering Data Course (Chapter 18: Tiny Shakespeare Dataset - RNN)
 This lesson will teach a recurrent neural network on Tiny Shakespeare.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/17-RNN.ipynb) to read the lesson and see the code.
 
-## Lesson 479: Reverse-Engineering-Data Course (Chapter 19: Tiny Shakespeare Dataset - Attention)
+## Lesson 479: Reverse Engineering Data Course (Chapter 19: Tiny Shakespeare Dataset - Attention)
 This lesson will teach attention and a transformer block from scratch.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/18-ATT.ipynb) to read the lesson and see the code.
 
-## Lesson 480: Reverse-Engineering-Data Course (Chapter 20: Tiny Shakespeare Dataset - TinyGPT From Scratch)
+## Lesson 480: Reverse Engineering Data Course (Chapter 20: Tiny Shakespeare Dataset - TinyGPT From Scratch)
 This lesson will teach building TinyGPT from scratch.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/19-GPT.ipynb) to read the lesson and see the code.
 
-## Lesson 481: Reverse-Engineering-Data Course (Chapter 21: Breast Cancer Dataset - Regularization)
+## Lesson 481: Reverse Engineering Data Course (Chapter 21: Breast Cancer Dataset - Regularization)
 This lesson will teach regularization and early stopping.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/20-REG.ipynb) to read the lesson and see the code.
 
-## Lesson 482: Reverse-Engineering-Data Course (Chapter 22: Breast Cancer Dataset - Model Evaluation)
+## Lesson 482: Reverse Engineering Data Course (Chapter 22: Breast Cancer Dataset - Model Evaluation)
 This lesson will teach model evaluation, calibration, and threshold tuning.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/21-EVAL.ipynb) to read the lesson and see the code.
 
-## Lesson 483: Reverse-Engineering-Data Course (Chapter 23: Fashion-MNIST Dataset - Autoencoder)
+## Lesson 483: Reverse Engineering Data Course (Chapter 23: Fashion-MNIST Dataset - Autoencoder)
 This lesson will teach an autoencoder, latent space, and anomaly detection.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/22-AE.ipynb) to read the lesson and see the code.
 
-## Lesson 484: Reverse-Engineering-Data Course (Chapter 24: Fashion-MNIST Dataset - GAN)
+## Lesson 484: Reverse Engineering Data Course (Chapter 24: Fashion-MNIST Dataset - GAN)
 This lesson will teach a generative adversarial network.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/23-GAN.ipynb) to read the lesson and see the code.
 
-## Lesson 485: Reverse-Engineering-Data Course (Chapter 25: Fashion-MNIST Dataset - Vision Transformer)
+## Lesson 485: Reverse Engineering Data Course (Chapter 25: Fashion-MNIST Dataset - Vision Transformer)
 This lesson will teach a vision transformer from scratch.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/24-VIT.ipynb) to read the lesson and see the code.
 
-## Lesson 486: Reverse-Engineering-Data Course (Chapter 26: Fashion-MNIST Dataset - Model Deployment)
+## Lesson 486: Reverse Engineering Data Course (Chapter 26: Fashion-MNIST Dataset - Model Deployment)
 This lesson will teach model deployment with ONNX and a command-line interface.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/25-DEPLOY.ipynb) to read the lesson and see the code.
 
-## Lesson 487: Reverse-Engineering-Data Course (Chapter 27: Oxford-IIIT Pet Dataset - Semantic Segmentation)
+## Lesson 487: Reverse Engineering Data Course (Chapter 27: Oxford-IIIT Pet Dataset - Semantic Segmentation)
 This lesson will teach U-Net semantic segmentation.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/26-SEG.ipynb) to read the lesson and see the code.
 
-## Lesson 488: Reverse-Engineering-Data Course (Chapter 28: CartPole Environment - Deep Q-Network)
+## Lesson 488: Reverse Engineering Data Course (Chapter 28: CartPole Environment - Deep Q-Network)
 This lesson will teach a deep Q-network on CartPole.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/27-DRL.ipynb) to read the lesson and see the code.
 
-## Lesson 489: Reverse-Engineering-Data Course (Chapter 29: Tiny Shakespeare Dataset - Fine-Tuning a Pretrained LLM)
+## Lesson 489: Reverse Engineering Data Course (Chapter 29: Tiny Shakespeare Dataset - Fine-Tuning a Pretrained LLM)
 This lesson will teach fine-tuning a pretrained language model.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/28-LLM.ipynb) to read the lesson and see the code.
 
-## Lesson 490: Reverse-Engineering-Data Course (Chapter 30: Kaggle Titanic Dataset - EDA and Binary Classifier)
+## Lesson 490: Reverse Engineering Data Course (Chapter 30: Kaggle Titanic Dataset - EDA and Binary Classifier)
 This lesson will teach creating a Kaggle project from scratch with EDA and a binary classifier.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/29-KAGGLE.ipynb) to read the lesson and see the code.
