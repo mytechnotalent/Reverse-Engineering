@@ -10,9 +10,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [September 29, 2026]
-## Lesson 310: Embedded Hacking Course (Chapter 28: Hacking Operators)
-This chapter covers hacking operators as well as an intro to single-wire protocol as we work a DHT11 temperature and humidity sensor as it relates to embedded development on the Pico 2.
+# Today's Tutorial [September 30, 2026]
+## Lesson 311: Embedded Hacking Course (Chapter 29: Static Conditionals)
+This chapter covers static conditionals as well as an intro to PWM as we work a SG90 servo motor as it relates to embedded development on the Pico 2.
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/textbook/Embedded-Hacking.pdf) to read the FREE pdf book.
 
