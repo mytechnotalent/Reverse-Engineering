@@ -23,9 +23,12 @@ This chapter covers hacking functions, w/ params and w/ a return value as it rel
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
-<br>
+<br><br>
 
-# Reverse Engineering Assistant
+<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true?raw=true">
+
+# NEW: Reverse Engineering Assistant
+### Point it at a target. Get a complete reverse engineering dossier and autonomous security assessment.
 ## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
