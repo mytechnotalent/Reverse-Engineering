@@ -28,7 +28,7 @@ Assembled by @0xInfection (Twitter)
 <img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true?raw=true">
 
 # NEW: Reverse Engineering Assistant
-### Point it at a target. Get a complete reverse engineering dossier and autonomous security assessment.
+### Autonomous Reverse Engineering Framework
 ## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
