@@ -10,11 +10,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 11, 2026]
-## Lesson 322: Embedded Hacking Course (Chapter 40: Hacking Functions, w/ Param, w/ Return)
-This chapter covers hacking functions, w/ params and w/ a return value as it relates to embedded development on the Pico 2.
+# Today's Tutorial [October 12, 2026]
+## Lesson 323: Hacking Bits Course (Chapter 1: Ohm's Law - The Foundation of Electronics)
+This chapter covers the basics Ohm's Law and basic electronics.
 
--> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/textbook/Embedded-Hacking.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
 <br>
 
