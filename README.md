@@ -25,12 +25,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# NEW: Reverse Engineering Assistant
-### Autonomous Reverse Engineering Framework
-## REA [HERE](https://github.com/mytechnotalent/rea)
-
-<br>
-
 # Ghidra Plugins
 ## G-AVR [HERE](https://github.com/mytechnotalent/G-AVR)
 ## G-Pulley [HERE](https://github.com/mytechnotalent/G-Pulley)
@@ -129,6 +123,7 @@ Assembled by @0xInfection (Twitter)
 
 ## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
+## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
