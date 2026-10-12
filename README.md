@@ -25,7 +25,7 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# Reverse Engineering Assistant (NEW - IN DEVELOPMENT)
+# Reverse Engineering Assistant
 ### Autonomous Reverse Engineering Framework
 ## REA [HERE](https://github.com/mytechnotalent/rea)
 
