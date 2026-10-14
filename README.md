@@ -19,7 +19,7 @@ This chapter covers the basics of the hexadecimal number system.
 
 <br>
 
-<br><br>
+<br>
 
 <img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true">
 
