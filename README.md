@@ -20,7 +20,7 @@ This chapter covers the basics of the hexadecimal number system.
 <br>
 
 # Reverse Engineering Assistant
-### Autonomous Reverse Engineering Framework
+### The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
 ## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
