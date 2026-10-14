@@ -4,14 +4,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
-<br><br>
-
-<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true">
-
-# Reverse Engineering Assistant
-### Autonomous Reverse Engineering Framework
-## REA [HERE](https://github.com/mytechnotalent/rea)
-
 <br>
 
 
@@ -24,6 +16,16 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 This chapter covers the basics of the hexadecimal number system.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
+
+<br>
+
+<br><br>
+
+<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true">
+
+# Reverse Engineering Assistant
+### Autonomous Reverse Engineering Framework
+## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
