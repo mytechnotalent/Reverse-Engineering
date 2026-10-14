@@ -17,9 +17,7 @@ This chapter covers the basics of the hexadecimal number system.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
-<br><br>
-
-<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true">
+<br>
 
 # Reverse Engineering Assistant
 ### Autonomous Reverse Engineering Framework
