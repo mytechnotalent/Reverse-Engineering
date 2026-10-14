@@ -4,7 +4,16 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-b
 
 FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9sXirF8)
 
+<br><br>
+
+<img src="https://github.com/mytechnotalent/rea/blob/main/Reverse-Engineering-Assistant.png?raw=true">
+
+# Reverse Engineering Assistant
+### Autonomous Reverse Engineering Framework
+## REA [HERE](https://github.com/mytechnotalent/rea)
+
 <br>
+
 
 # Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
@@ -22,12 +31,6 @@ This chapter covers the basics of the hexadecimal number system.
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
-
-<br>
-
-# Reverse Engineering Assistant
-### Autonomous Reverse Engineering Framework
-## REA [HERE](https://github.com/mytechnotalent/rea)
 
 <br>
 
