@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 14, 2026]
-## Lesson 325: Hacking Bits Course (Chapter 3: The Hexadecimal Number System)
-This chapter covers the basics of the hexadecimal number system.
+# Today's Tutorial [October 15, 2026]
+## Lesson 326: Hacking Bits Course (Chapter 4: The ATmega328P Architecture)
+This chapter covers the basics of the ATmega328P Architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
