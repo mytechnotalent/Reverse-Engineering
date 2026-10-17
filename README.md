@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 16, 2026]
-## Lesson 327: Hacking Bits Course (Chapter 5: Tools)
-This chapter covers the basics of setting up a toolchain and development environment.
+# Today's Tutorial [October 17, 2026]
+## Lesson 328: Hacking Bits Course (Chapter 6: ATmega328P Datasheet)
+This chapter covers the basics of the ATmega328P datasheet.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
