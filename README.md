@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 17, 2026]
-## Lesson 328: Hacking Bits Course (Chapter 6: ATmega328P Datasheet)
-This chapter covers the basics of the ATmega328P datasheet.
+# Today's Tutorial [October 18, 2026]
+## Lesson 329: Hacking Bits Course (Chapter 7: Blink Driver in C)
+This chapter covers the development and reverse engineering of a blink driver in AVR C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
