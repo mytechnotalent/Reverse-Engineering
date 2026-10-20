@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 19, 2026]
-## Lesson 330: Hacking Bits Course (Chapter 8: Blink Driver in Assembler)
-This chapter covers the development of a blink driver in AVR Assembler.
+# Today's Tutorial [October 20, 2026]
+## Lesson 331: Hacking Bits Course (Chapter 9: IO Driver in C)
+This chapter covers the development and reverse engineering of an IO driver in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Bits/blob/main/hacking-bits.pdf) to read the FREE pdf book.
 
