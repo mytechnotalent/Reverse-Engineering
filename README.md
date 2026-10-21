@@ -19,12 +19,6 @@ This chapter covers the development and reverse engineering of an servo motor in
 
 <br>
 
-# Reverse Engineering Assistant
-### The reverse-engineering framework you can run anywhere, with nothing installed, and actually trust.
-## REA [HERE](https://github.com/mytechnotalent/rea)
-
-<br>
-
 # Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
@@ -128,6 +122,7 @@ Assembled by @0xInfection (Twitter)
 
 # AI
 
+## REA [HERE](https://github.com/mytechnotalent/rea)
 ## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
 
