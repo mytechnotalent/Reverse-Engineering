@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 22, 2026]
-## Lesson 333: Hacking RISC-V Course (Chapter 1: Why RISC-V)
-This chapter covers the "why" of learning RISC-V hacking as we discuss the rise of RISC-V and introduce our ESP32-C3 dev board.
+# Today's Tutorial [October 23, 2026]
+## Lesson 334: Hacking RISC-V Course (Chapter 2: Setup Environment)
+This chapter covers setting up your development environment including everything you need to purchase and download including setup.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
