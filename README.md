@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 24, 2026]
-## Lesson 335: Hacking RISC-V Course (Chapter 3: Hello, World)
-This chapter covers creating your first project in PlatformIO and creating your first Assembler file to interact with your C environment.
+# Today's Tutorial [October 25, 2026]
+## Lesson 336: Hacking RISC-V Course (Chapter 4: Binary Numbers)
+This chapter covers the basics of binary numbers and their general application for embedded systems.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
