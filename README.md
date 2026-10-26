@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 25, 2026]
-## Lesson 336: Hacking RISC-V Course (Chapter 4: Binary Numbers)
-This chapter covers the basics of binary numbers and their general application for embedded systems.
+# Today's Tutorial [October 26, 2026]
+## Lesson 337: Hacking RISC-V Course (Chapter 5: Hexadecimal Numbers)
+This chapter covers the basics of hexadecimal numbers and their general application for embedded systems.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
