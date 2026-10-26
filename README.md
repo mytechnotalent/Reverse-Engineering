@@ -70,35 +70,6 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-# IoT CTF's
-
-## Act I of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/cold-chain-monitor)
-## Act I of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_cold-chain-monitor)
-## Act II of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/access-gate)
-## Act II of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_access-gate)
-## Act III of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/pipeline-valve-controller)
-## Act III of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_pipeline-valve-controller)
-## Act IV of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/CTF_pipeline-valve-controller)
-## Act IV of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_hvac-automation-node)
-## Act V of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/industrial-tamper-system)
-## Act V of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_industrial-tamper-system)
-## Act VI of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/smart-logistics-dropbox)
-## Act VI of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_smart-logistics-dropbox)
-## Act VII of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/factory-andon-station)
-## Act VII of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_factory-andon-station)
-## Act VIII of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/datacenter-vent-controller)
-## Act VIII of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_datacenter-vent-controller)
-## Act IX of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/smart-parking-barrier)
-## Act IX of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_smart-parking-barrier)
-## Act X of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/chemical-warning-terminal)
-## Act X of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_chemical-warning-terminal)
-## Act X of OPERATION COLD IRON [HERE](https://github.com/mytechnotalent/chemical-warning-terminal)
-## Act X of OPERATION COLD IRON CTF [HERE](https://github.com/mytechnotalent/CTF_chemical-warning-terminal)
-## OPERATION TELESCREEN [HERE](https://github.com/mytechnotalent/telescreen)
-## OPERATION TELESCREEN CTF [HERE](https://github.com/mytechnotalent/CTF_telescreen)
-
-<br>
-
 # DC540 CTF's
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
@@ -110,6 +81,7 @@ Assembled by @0xInfection (Twitter)
 ## DC540 Hacking Challenge 0x00007 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00007)
 ## DC540 Hacking Challenge 0x00008 [UNKNOWN CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00008)
 ## DC540 Hacking Challenge 0x00009 [Windows CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00009)
+## DC540 Hacking Challenge 0x0000a [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x0000a)
 
 <br>
 
