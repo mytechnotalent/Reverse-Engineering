@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 26, 2026]
-## Lesson 337: Hacking RISC-V Course (Chapter 5: Hexadecimal Numbers)
-This chapter covers the basics of hexadecimal numbers and their general application for embedded systems.
+# Today's Tutorial [October 27, 2026]
+## Lesson 338: Hacking RISC-V Course (Chapter 6: Advanced OPS)
+This chapter covers the advanced operations using hex and binary in addition to memory manipulation and bit-level operations for the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
