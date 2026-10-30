@@ -11,9 +11,9 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 29, 2026]
-## Lesson 340: Hacking RISC-V Course (Chapter 8: ADD)
-This chapter covers how to add within the RISC-V ESP32-C3.
+# Today's Tutorial [October 30, 2026]
+## Lesson 341: Hacking RISC-V Course (Chapter 9: Debugging ADD)
+This chapter covers how to debug add within the RISC-V ESP32-C3.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
 
