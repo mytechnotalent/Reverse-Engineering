@@ -11,11 +11,12 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [October 30, 2026]
-## Lesson 341: Hacking RISC-V Course (Chapter 9: Debugging ADD)
-This chapter covers how to debug add within the RISC-V ESP32-C3.
+# Today's Tutorial [October 31, 2026]
+## Lesson 342: Wasm Course
+A line-by-line, function-by-function guide through every Rust source file in the Wasm project covering how a WebAssembly component is compiled, deployed, and executed on a general-purpose computer entirely Rust.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-RISC-V/blob/main/Hacking-RISC-V.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Wasm/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
+-> Click [HERE](https://github.com/mytechnotalent/Wasm/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 <br>
 
