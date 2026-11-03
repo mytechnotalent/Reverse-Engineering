@@ -11,12 +11,12 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 2, 2026]
-## Lesson 344: Embedded Wasm Blinky Course
-A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-blinky project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to blink an LED entirely in bare-metal Rust with no operating system.
+# Today's Tutorial [November 3, 2026]
+## Lesson 345: Embedded Wasm Button Course
+A line-by-line, function-by-function guide through every Rust source file in the embedded-wasm-button project covering how a WebAssembly component is compiled, deployed, and executed on an RP2350 microcontroller to read a button and control an LED entirely in bare-metal Rust with no operating system.
 
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
--> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-blinky-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/TUTORIAL.md) to read the FREE tutorial on GitHub. <br>
+-> Click [HERE](https://github.com/mytechnotalent/embedded-wasm-button-rp2350/blob/main/RE.md) to read the FREE Reverse Engineering tutorial on GitHub.
 
 <br>
 
