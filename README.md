@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 5, 2026]
-## Lesson 347: AVR Assembler Course (Chapter 001: Serial)
-This lesson will teach you how to implement the Serial demo on an ATmega328P using pure AVR assembly.
+# Today's Tutorial [November 6, 2026]
+## Lesson 348: AVR Assembler Course (Chapter 002: Blink)
+This lesson will teach you how to blink the built-in LED on an ATmega328P using pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/001/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/002/lesson.md) to read the lesson and see the code.
 
 <br>
 
