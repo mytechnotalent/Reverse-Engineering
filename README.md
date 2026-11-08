@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 7, 2026]
-## Lesson 349: AVR Assembler Course (Chapter 003: LED Fading (PWM))
-This lesson will teach you how to use Timer 1 and Pulse Width Modulation (PWM) to smoothly fade an LED on an ATmega328P using pure AVR assembly.
+# Today's Tutorial [November 8, 2026]
+## Lesson 350: AVR Assembler Course (Chapter 004: RGB LED)
+This lesson will teach you how to control an RGB LED by manipulating multiple output pins simultaneously using pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/003/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/004/lesson.md) to read the lesson and see the code.
 
 <br>
 
