@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 8, 2026]
-## Lesson 350: AVR Assembler Course (Chapter 004: RGB LED)
-This lesson will teach you how to control an RGB LED by manipulating multiple output pins simultaneously using pure AVR assembly.
+# Today's Tutorial [November 9, 2026]
+## Lesson 351: AVR Assembler Course (Chapter 005: Digital Inputs (Buttons))
+This lesson will teach you how to read digital inputs and use internal pull-up resistors to control an LED based on push buttons using pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/004/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/005/lesson.md) to read the lesson and see the code.
 
 <br>
 
