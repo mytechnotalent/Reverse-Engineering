@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 10, 2026]
-## Lesson 352: AVR Assembler Course (Chapter 006: Active Buzzer)
-This lesson will teach you how to generate a beeping sound using an active buzzer and pure AVR assembly.
+# Today's Tutorial [November 11, 2026]
+## Lesson 353: AVR Assembler Course (Chapter 007: Passive Buzzer)
+This lesson will teach you how to generate musical tones (frequencies) using a passive buzzer and Timer1 CTC mode in pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/006/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/007/lesson.md) to read the lesson and see the code.
 
 <br>
 
