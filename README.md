@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 12, 2026]
-## Lesson 354: AVR Assembler Course (Chapter 008: Tilt Switch)
-This lesson will teach you how to detect physical orientation and gravity using a digital tilt switch in pure AVR assembly.
+# Today's Tutorial [November 13, 2026]
+## Lesson 355: AVR Assembler Course (Chapter 009: Servo Motor)
+This lesson will teach you how to control a mechanical Servo Motor by generating precise Pulse Width Modulation (PWM) signals using Timer1 in pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/008/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/009/lesson.md) to read the lesson and see the code.
 
 <br>
 
