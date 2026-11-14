@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 13, 2026]
-## Lesson 355: AVR Assembler Course (Chapter 009: Servo Motor)
-This lesson will teach you how to control a mechanical Servo Motor by generating precise Pulse Width Modulation (PWM) signals using Timer1 in pure AVR assembly.
+# Today's Tutorial [November 14, 2026]
+## Lesson 356: AVR Assembler Course (Chapter 010: Ultrasonic Sensor)
+This lesson will teach you how to implement sub-millisecond precision timing loops to measure physical distance using an HC-SR04 ultrasonic sensor in pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/009/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/010/lesson.md) to read the lesson and see the code.
 
 <br>
 
