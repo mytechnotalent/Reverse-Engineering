@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 15, 2026]
-## Lesson 357: AVR Assembler Course (Chapter 011: DHT11 Sensor)
-This lesson will teach you how to write a software driver for a single-wire digital communications protocol to read humidity and temperature from a DHT11 sensor in pure AVR assembly.
+# Today's Tutorial [November 16, 2026]
+## Lesson 358: AVR Assembler Course (Chapter 012: Analog Joystick)
+This lesson will teach you how to interface with the physical analog world by directly commanding the ATmega328P's Analog to Digital Converter (ADC) peripheral in pure AVR assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/011/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/012/lesson.md) to read the lesson and see the code.
 
 <br>
 
