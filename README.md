@@ -94,8 +94,10 @@ Assembled by @0xInfection (Twitter)
 
 # AI
 
+## Reverse Engineering a Neural Network [HERE](https://github.com/mytechnotalent/RENN)
+## MicroGPT [HERE](https://github.com/mytechnotalent/MicroGPT)
+## Mechanistic Interpretability [HERE](https://github.com/mytechnotalent/mechanistic_interpretability)
 ## REA [HERE](https://github.com/mytechnotalent/rea)
-## Tiny GPT [HERE](https://github.com/mytechnotalent/TinyGPT)
 ## Minimal Harness [HERE](https://github.com/mytechnotalent/minimal-harness)
 
 <br>
