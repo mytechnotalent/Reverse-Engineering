@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 22, 2026]
-## Lesson 360: AVR Assembler Course (Chapter 014: LCD Display)
-This lesson will teach you how to write a software driver for a 16x2 Character LCD Display (HD44780), utilizing advanced bit manipulation (BST/BLD) to correct hardware wiring inconsistencies in pure AVR assembly.
+# Today's Tutorial [November 23, 2026]
+## Lesson 361: AVR Assembler Course (Chapter 015: Thermometer (Thermistor + LCD))
+This lesson will teach you how to read a 10-bit analog Thermistor value via the ADC and implement a "repeated subtraction" algorithm to convert the 16-bit binary integer into ASCII text digits for display on a 16x2 LCD screen.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/014/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/015/lesson.md) to read the lesson and see the code.
 
 <br>
 
