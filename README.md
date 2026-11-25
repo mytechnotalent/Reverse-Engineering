@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 24, 2026]
-## Lesson 362: AVR Assembler Course (Chapter 016: 74HC595 Shift Register)
-This lesson will teach you how to expand your microcontroller's outputs by implementing a custom Serial Peripheral interface driver (bit-banging) to drive an 8-bit Shift Register, animating a "Knight Rider" LED chaser.
+# Today's Tutorial [November 25, 2026]
+## Lesson 363: AVR Assembler Course (Chapter 017: Serial Control)
+This lesson will teach you how to implement a full two-way Serial Communications (USART) interface in bare metal assembly, parsing incoming byte commands from a desktop computer to remotely control the 8-bit Shift Register array.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/016/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/017/lesson.md) to read the lesson and see the code.
 
 <br>
 
