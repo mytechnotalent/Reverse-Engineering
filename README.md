@@ -11,7 +11,7 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 25, 2026]
+# Today's Tutorial [November 26, 2026]
 ## Lesson 364: AVR Assembler Course (Chapter 018: Photocell (Light Sensor))
 This lesson will teach you how to divide ADC sensor data using a "repeated subtraction" algorithm and use the `SEC` (Set Carry) and `ROL` (Rotate Left through Carry) instructions to dynamically build and display an LED bar graph on a Shift Register.
 
