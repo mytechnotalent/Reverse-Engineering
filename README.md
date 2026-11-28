@@ -11,11 +11,11 @@ FREE EMBEDDED HACKING COURSE PROMO [HERE](https://www.youtube.com/watch?v=aD7X9s
 
 <br>
 
-# Today's Tutorial [November 27, 2026]
-## Lesson 365: AVR Assembler Course (Chapter 019: 7-Segment Display)
-This lesson introduces Harvard Architecture memory spaces by teaching you how to permanently bake data arrays into the ATmega328P's Flash Program Memory (`.text`) and retrieve them using 16-bit pointer arithmetic and the Z-Pointer (`LPM`) to draw numbers on a 7-Segment Display.
+# Today's Tutorial [November 28, 2026]
+## Lesson 366: AVR Assembler Course (Chapter 020: 4-Digit 7-Segment Display)
+This lesson will teach you how to write time-critical execution loops to achieve time-domain multiplexing, using the Persistence of Vision (POV) optical illusion to drive a 4-Digit 7-Segment Display with a minimal number of pins.
 
--> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/019/lesson.md) to read the lesson and see the code.
+-> Click [HERE](https://github.com/mytechnotalent/Assembler/blob/main/lessons/020/lesson.md) to read the lesson and see the code.
 
 <br>
 
